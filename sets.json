@@ -1,0 +1,82 @@
+{
+  "sets": [
+    {
+      "id": "wtnc-retail",
+      "name": "Welcome to Night City — Retail",
+      "kind": "retail_booster",
+      "status": "active"
+    },
+    {
+      "id": "wtnc-beta",
+      "name": "Welcome to Night City — Beta",
+      "kind": "beta_booster",
+      "status": "active"
+    },
+    {
+      "id": "box-toppers-retail",
+      "name": "Box Toppers — Retail",
+      "kind": "box_topper",
+      "status": "active"
+    },
+    {
+      "id": "box-toppers-beta",
+      "name": "Box Toppers — Beta",
+      "kind": "box_topper",
+      "status": "active"
+    },
+    {
+      "id": "embracing-power-retail",
+      "name": "Embracing Power — Retail Starter Deck",
+      "kind": "starter",
+      "status": "active"
+    },
+    {
+      "id": "embracing-power-beta",
+      "name": "Embracing Power — Beta Starter Deck",
+      "kind": "starter",
+      "status": "active"
+    },
+    {
+      "id": "the-heist-retail",
+      "name": "The Heist — Retail Starter Deck",
+      "kind": "starter",
+      "status": "active"
+    },
+    {
+      "id": "the-heist-beta",
+      "name": "The Heist — Beta Starter Deck",
+      "kind": "starter",
+      "status": "active"
+    },
+    {
+      "id": "pre-release-beta",
+      "name": "Pre-Release Beta",
+      "kind": "prerelease",
+      "status": "active"
+    },
+    {
+      "id": "set-1-promos",
+      "name": "Set 1 Promos",
+      "kind": "promo",
+      "status": "active"
+    },
+    {
+      "id": "arasaka-demo",
+      "name": "Arasaka Demo Deck",
+      "kind": "demo",
+      "status": "active"
+    },
+    {
+      "id": "merc-demo",
+      "name": "Merc Demo Deck",
+      "kind": "demo",
+      "status": "active"
+    },
+    {
+      "id": "promo-cards",
+      "name": "Promo Cards",
+      "kind": "promo",
+      "status": "special"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cyberpunk-tcg",
+  "name": "Cyberpunk Trading Card Game",
+  "short_name": "Cyberpunk TCG",
+  "languages": [
+    "en"
+  ],
+  "card_types": [
+    "Legend",
+    "Unit",
+    "Gear",
+    "Program"
+  ],
+  "colors": [
+    "Red",
+    "Yellow",
+    "Green",
+    "Blue"
+  ],
+  "identity_model": {
+    "canonical_card": "mechanical identity (name/subname + rules identity)",
+    "printing": "physical/render variant linked to one canonical card",
+    "artwork": "distinct visual reference used by Vision",
+    "treatment": "foil/non-foil/promo/other finish when known"
+  }
+}

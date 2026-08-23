@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "TCGate Cyberpunk Card",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "catalog_number",
+    "status",
+    "runtime_ready"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "catalog_number": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "runtime_ready": {
+      "type": "boolean"
+    },
+    "type": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "color": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "cost": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "power": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "ram": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "source_url": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}

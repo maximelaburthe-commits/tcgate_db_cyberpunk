@@ -1,0 +1,9 @@
+{
+  "manifest_version": "1.0.0",
+  "game_id": "cyberpunk-tcg",
+  "database_version": "0.3.0",
+  "database_manifest": "db-manifest.json",
+  "runtime_cards": "runtime/cards.min.json",
+  "vision_index": "runtime/vision-index.json",
+  "coverage": "data/coverage.json"
+}

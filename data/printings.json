@@ -1,0 +1,3982 @@
+{
+  "printings": [
+    {
+      "id": "cpp-1da38af8a879835a",
+      "card_id": "cp-yorinobu-arasaka-embracing-destruction",
+      "set_id": "arasaka-demo",
+      "number": "001",
+      "rarity": null,
+      "artist": "ADIA",
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/yorinobu-arasaka-embracing-destruction",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-a47f2b5a15a4498c",
+      "card_id": "cp-goro-takemura-hands-unclean",
+      "set_id": "arasaka-demo",
+      "number": "008",
+      "rarity": null,
+      "artist": "Bad Moon Studios",
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/goro-takemura-hands-unclean",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-7e103c1ba10fa7ef",
+      "card_id": "cp-yorinobu-arasaka-embracing-destruction",
+      "set_id": "box-toppers-beta",
+      "number": "β001",
+      "rarity": null,
+      "artist": "Vincenzo Riccardi",
+      "printing_uuid": null,
+      "variant_kind": "alternate_art",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/yorinobu-arasaka-embracing-destruction",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-3a9ae1f43f810252",
+      "card_id": "cp-goro-takemura-hands-unclean",
+      "set_id": "box-toppers-beta",
+      "number": "β003",
+      "rarity": null,
+      "artist": "Vincenzo Riccardi",
+      "printing_uuid": null,
+      "variant_kind": "alternate_art",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/goro-takemura-hands-unclean",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-a18df9abe9c2b16d",
+      "card_id": "cp-v-corporate-exile",
+      "set_id": "box-toppers-beta",
+      "number": "β006",
+      "rarity": null,
+      "artist": "Ito (Kirby's Comic Art)",
+      "printing_uuid": null,
+      "variant_kind": "alternate_art",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/v-corporate-exile",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-d6e1cdd1927cf886",
+      "card_id": "cp-yorinobu-arasaka-embracing-destruction",
+      "set_id": "box-toppers-retail",
+      "number": "001",
+      "rarity": null,
+      "artist": "Vincenzo Riccardi",
+      "printing_uuid": null,
+      "variant_kind": "alternate_art",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/yorinobu-arasaka-embracing-destruction",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-cb9e7896a1e8b01a",
+      "card_id": "cp-goro-takemura-hands-unclean",
+      "set_id": "box-toppers-retail",
+      "number": "003",
+      "rarity": null,
+      "artist": "Vincenzo Riccardi",
+      "printing_uuid": null,
+      "variant_kind": "alternate_art",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/goro-takemura-hands-unclean",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-0bfea2da353580f3",
+      "card_id": "cp-v-corporate-exile",
+      "set_id": "box-toppers-retail",
+      "number": "006",
+      "rarity": null,
+      "artist": "Ito (Kirby's Comic Art)",
+      "printing_uuid": null,
+      "variant_kind": "alternate_art",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/v-corporate-exile",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-74b0f20818534d83",
+      "card_id": "cp-yorinobu-arasaka-embracing-destruction",
+      "set_id": "embracing-power-beta",
+      "number": "β001",
+      "rarity": "Epic",
+      "artist": "ADIA",
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/yorinobu-arasaka-embracing-destruction",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-b954ed5775551783",
+      "card_id": "cp-goro-takemura-hands-unclean",
+      "set_id": "embracing-power-beta",
+      "number": "β012",
+      "rarity": "Epic",
+      "artist": "Bad Moon Studio",
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/goro-takemura-hands-unclean",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-fedb842e7045d811",
+      "card_id": "cp-yorinobu-arasaka-embracing-destruction",
+      "set_id": "embracing-power-retail",
+      "number": "001",
+      "rarity": "Epic",
+      "artist": "ADIA",
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/yorinobu-arasaka-embracing-destruction",
+      "image": {
+        "remote_url": "https://punksim.net/images/EP-001.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 100,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-b3672ca0b4ccc812",
+      "card_id": "cp-minotaur",
+      "set_id": "embracing-power-retail",
+      "number": "003",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/minotaur",
+      "image": {
+        "remote_url": "https://punksim.net/images/EP-003.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-509f743f75700687",
+      "card_id": "cp-goro-takemura-hands-unclean",
+      "set_id": "embracing-power-retail",
+      "number": "012",
+      "rarity": "Epic",
+      "artist": "Bad Moon Studio",
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/goro-takemura-hands-unclean",
+      "image": {
+        "remote_url": "https://punksim.net/images/EP-012.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 100,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-3b2f06e67090625e",
+      "card_id": "cp-saburo-arasaka-stubborn-patriarch",
+      "set_id": "embracing-power-retail",
+      "number": "013",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/saburo-arasaka-stubborn-patriarch",
+      "image": {
+        "remote_url": "https://punksim.net/images/EP-013.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-a1e87522d2bc9270",
+      "card_id": "cp-goro-takemura-losing-his-way",
+      "set_id": "embracing-power-retail",
+      "number": "017",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/goro-takemura-losing-his-way",
+      "image": {
+        "remote_url": "https://punksim.net/images/EP-017.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-cb75583028994bc3",
+      "card_id": "cp-v-corporate-exile",
+      "set_id": "merc-demo",
+      "number": "008",
+      "rarity": null,
+      "artist": "Envar Studio",
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/v-corporate-exile",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-307407bd47480dbf",
+      "card_id": "cp-psycho-squad",
+      "set_id": "merc-demo",
+      "number": "012",
+      "rarity": null,
+      "artist": "Kieran McKeown & Giada Marchisio",
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/psycho-squad",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-0c4d5b62f83947af",
+      "card_id": "cp-adam-smasher-ender-of-legends",
+      "set_id": "pre-release-beta",
+      "number": "001",
+      "rarity": null,
+      "artist": "Michał Dziekan",
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/adam-smasher-ender-of-legends",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-7d2b0fc4aba70ff4",
+      "card_id": "cp-lucyna-kushinada",
+      "set_id": "promo-cards",
+      "number": "N001",
+      "rarity": null,
+      "artist": "Pandart Studio",
+      "printing_uuid": null,
+      "variant_kind": "promo_art",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/lucyna-kushinada",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-6263ba43e331461f",
+      "card_id": "cp-rebecca-having-a-moment",
+      "set_id": "set-1-promos",
+      "number": "005",
+      "rarity": "Nova Rare",
+      "artist": "Narupiti Harunsong",
+      "printing_uuid": null,
+      "variant_kind": "promo_art",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/rebecca-having-a-moment",
+      "image": {
+        "remote_url": "https://punksim.net/images/PRM01-005.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 100,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-ccf6800a501ada4b",
+      "card_id": "cp-rebecca-having-a-moment",
+      "set_id": "set-1-promos",
+      "number": "007",
+      "rarity": "Nova Rare",
+      "artist": "Pandart Studio",
+      "printing_uuid": null,
+      "variant_kind": "promo_art",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/rebecca-having-a-moment",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-9f886af4075b6e9c",
+      "card_id": "cp-adam-smasher-ender-of-legends",
+      "set_id": "set-1-promos",
+      "number": "008",
+      "rarity": null,
+      "artist": "Pandart Studio",
+      "printing_uuid": null,
+      "variant_kind": "promo_art",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/adam-smasher-ender-of-legends",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-3131bc9c206414fe",
+      "card_id": "cp-v-corporate-exile",
+      "set_id": "the-heist-beta",
+      "number": "β012",
+      "rarity": "Epic",
+      "artist": "Envar",
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/v-corporate-exile",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-272727304f25c1f1",
+      "card_id": "cp-psycho-squad",
+      "set_id": "the-heist-beta",
+      "number": "β016",
+      "rarity": null,
+      "artist": "Kieran McKeown & Giada Marchisio",
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/psycho-squad",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-02d159a15874e78e",
+      "card_id": "cp-viktor-vektor-sit-down-and-relax",
+      "set_id": "the-heist-retail",
+      "number": "001",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/viktor-vektor-sit-down-and-relax",
+      "image": {
+        "remote_url": "https://punksim.net/images/HEIST-001.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-cb7cd38e6925a981",
+      "card_id": "cp-dexter-deshawn-one-last-chance",
+      "set_id": "the-heist-retail",
+      "number": "002",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/dexter-deshawn-one-last-chance",
+      "image": {
+        "remote_url": "https://punksim.net/images/HEIST-002.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-bd0ab6102f763890",
+      "card_id": "cp-jackie-welles-pour-one-out-for-me",
+      "set_id": "the-heist-retail",
+      "number": "011",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/jackie-welles-pour-one-out-for-me",
+      "image": {
+        "remote_url": "https://punksim.net/images/HEIST-011.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-f017c200a38d3bd4",
+      "card_id": "cp-v-corporate-exile",
+      "set_id": "the-heist-retail",
+      "number": "012",
+      "rarity": "Epic",
+      "artist": "Envar",
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/v-corporate-exile",
+      "image": {
+        "remote_url": "https://punksim.net/images/HEIST-012.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 100,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-a5aa543f8af65490",
+      "card_id": "cp-mt0d12-flathead",
+      "set_id": "the-heist-retail",
+      "number": "015",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/mt0d12-flathead",
+      "image": {
+        "remote_url": "https://punksim.net/images/HEIST-015.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-49239102470acd4d",
+      "card_id": "cp-psycho-squad",
+      "set_id": "the-heist-retail",
+      "number": "016",
+      "rarity": null,
+      "artist": "Kieran McKeown & Giada Marchisio",
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/psycho-squad",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-bec13059d093b5a4",
+      "card_id": "cp-adam-smasher-ender-of-legends",
+      "set_id": "wtnc-beta",
+      "number": "β001",
+      "rarity": "Epic",
+      "artist": "Michał Dziekan",
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/adam-smasher-ender-of-legends",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-65ce57629ea9b9f1",
+      "card_id": "cp-v-streetkid",
+      "set_id": "wtnc-beta",
+      "number": "β005a",
+      "rarity": "Rare",
+      "artist": "Olgierd Ciszak",
+      "printing_uuid": "79119e83-b50b-4a79-8a6c-f496d9ed7ef6",
+      "variant_kind": "standard",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/v-streetkid?printing=79119e83-b50b-4a79-8a6c-f496d9ed7ef6",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-5e874ee26873a8c1",
+      "card_id": "cp-v-streetkid",
+      "set_id": "wtnc-beta",
+      "number": "β005b",
+      "rarity": "Rare",
+      "artist": "Olgierd Ciszak",
+      "printing_uuid": "e6dbfd52-85c5-4fd4-a77c-ca829e827d8a",
+      "variant_kind": "alternate_art",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/v-streetkid?printing=e6dbfd52-85c5-4fd4-a77c-ca829e827d8a",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-5eae5e98367d1823",
+      "card_id": "cp-peace-offering",
+      "set_id": "wtnc-beta",
+      "number": "β101",
+      "rarity": "Common",
+      "artist": "Mattia De Iulis",
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/peace-offering",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-837ec01a96ddd09e",
+      "card_id": "cp-psycho-squad",
+      "set_id": "wtnc-beta",
+      "number": "β124",
+      "rarity": "Common",
+      "artist": "Kieran McKeown & Giada Marchisio",
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/psycho-squad",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-fff81bae871b83ec",
+      "card_id": "cp-adam-smasher-ender-of-legends",
+      "set_id": "wtnc-beta",
+      "number": "β141",
+      "rarity": null,
+      "artist": "Pandart Studio",
+      "printing_uuid": null,
+      "variant_kind": "alternate_art",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/adam-smasher-ender-of-legends",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-a16f6664e470dfdc",
+      "card_id": "cp-v-streetkid",
+      "set_id": "wtnc-beta",
+      "number": "β144",
+      "rarity": null,
+      "artist": "Pandart Studio",
+      "printing_uuid": "20debd66-ff1c-42c3-9869-928cba33ccb5",
+      "variant_kind": "alternate_art",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/v-streetkid?printing=20debd66-ff1c-42c3-9869-928cba33ccb5",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-bc221071b29f2a98",
+      "card_id": "cp-adam-smasher-ender-of-legends",
+      "set_id": "wtnc-retail",
+      "number": "001",
+      "rarity": "Epic",
+      "artist": "Michał Dziekan",
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/adam-smasher-ender-of-legends",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-001.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 100,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-fb6579c1aa399ca9",
+      "card_id": "cp-johnny-silverhand-rocking-renegade",
+      "set_id": "wtnc-retail",
+      "number": "003",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/johnny-silverhand-rocking-renegade",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-003.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-6d213cfa534078a1",
+      "card_id": "cp-royce-psycho-on-the-edge",
+      "set_id": "wtnc-retail",
+      "number": "004",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/royce-psycho-on-the-edge",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-004.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-71f174b24ca73d47",
+      "card_id": "cp-v-streetkid",
+      "set_id": "wtnc-retail",
+      "number": "005a",
+      "rarity": "Rare",
+      "artist": "Olgierd Ciszak",
+      "printing_uuid": "3fc63c58-5954-4744-a5af-047bfc5cb159",
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/v-streetkid?printing=3fc63c58-5954-4744-a5af-047bfc5cb159",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-005a.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 100,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-cf69de231e0a5d29",
+      "card_id": "cp-v-streetkid",
+      "set_id": "wtnc-retail",
+      "number": "005b",
+      "rarity": "Rare",
+      "artist": "Olgierd Ciszak",
+      "printing_uuid": "c2d0e2a7-470f-4498-b6d5-5df1e3ecc3ef",
+      "variant_kind": "alternate_art",
+      "is_primary": false,
+      "source_url": "https://cyberpunktcg.com/cards/v-streetkid?printing=c2d0e2a7-470f-4498-b6d5-5df1e3ecc3ef",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 100
+      }
+    },
+    {
+      "id": "cpp-b7acab3fc10ef1bb",
+      "card_id": "cp-6th-street-recruits",
+      "set_id": "wtnc-retail",
+      "number": "006",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/6th-street-recruits",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-006.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-c16f37f3b7592e1c",
+      "card_id": "cp-animals-wrecker",
+      "set_id": "wtnc-retail",
+      "number": "007",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/animals-wrecker",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-007.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-333ccece2b074ead",
+      "card_id": "cp-wntc-008-pending",
+      "set_id": "wtnc-retail",
+      "number": "008",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": null,
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "unresolved"
+      }
+    },
+    {
+      "id": "cpp-ddcc6a14f47e78d4",
+      "card_id": "cp-el-sombreron-la-venganza-lenta",
+      "set_id": "wtnc-retail",
+      "number": "009",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/el-sombreron-la-venganza-lenta",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-009.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-f4c94a39c5c19477",
+      "card_id": "cp-japantown-jonin",
+      "set_id": "wtnc-retail",
+      "number": "010",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/japantown-jonin",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-010.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-ad4c12d992ca2eb8",
+      "card_id": "cp-johnny-silverhand-never-stop-fighting",
+      "set_id": "wtnc-retail",
+      "number": "011",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/johnny-silverhand-never-stop-fighting",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-011.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-9547b93680cbb8b7",
+      "card_id": "cp-kerry-eurodyne-the-last-rockerboy",
+      "set_id": "wtnc-retail",
+      "number": "012",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/kerry-eurodyne-the-last-rockerboy",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-012.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-483ef8669d87edce",
+      "card_id": "cp-la-llorona-ghost-of-the-past",
+      "set_id": "wtnc-retail",
+      "number": "013",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/la-llorona-ghost-of-the-past",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-013.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-ca62ce901d6f65fa",
+      "card_id": "cp-meredith-stout-stone-cold-corpo",
+      "set_id": "wtnc-retail",
+      "number": "014",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/meredith-stout-stone-cold-corpo",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-014.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-ab5751a90bce12ac",
+      "card_id": "cp-octant",
+      "set_id": "wtnc-retail",
+      "number": "015",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/octant",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-015.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-64215c21382171c0",
+      "card_id": "cp-royce-don-t-call-me-simon",
+      "set_id": "wtnc-retail",
+      "number": "016",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/royce-don-t-call-me-simon",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-016.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-fefa880213775f50",
+      "card_id": "cp-wntc-017-pending",
+      "set_id": "wtnc-retail",
+      "number": "017",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": null,
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "unresolved"
+      }
+    },
+    {
+      "id": "cpp-86d902ed5c1d1f2e",
+      "card_id": "cp-screw-lovelorn-fool",
+      "set_id": "wtnc-retail",
+      "number": "018",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/screw-lovelorn-fool",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-018.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-7a54bfb2657fdf82",
+      "card_id": "cp-swordwise-huscle",
+      "set_id": "wtnc-retail",
+      "number": "019",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/swordwise-huscle",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-019.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-d7bb62380163393b",
+      "card_id": "cp-v-roamer-of-the-badlands",
+      "set_id": "wtnc-retail",
+      "number": "020",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/v-roamer-of-the-badlands",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-020.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-3fed8313a78d0ff6",
+      "card_id": "cp-valentino-guerrera",
+      "set_id": "wtnc-retail",
+      "number": "021",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/valentino-guerrera",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-021.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-3150a39e0e47e6d4",
+      "card_id": "cp-yorinobu-arasaka-steel-dragon",
+      "set_id": "wtnc-retail",
+      "number": "022",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/yorinobu-arasaka-steel-dragon",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-022.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-a5255cfc741c10d2",
+      "card_id": "cp-arasaka-emergency-radioport",
+      "set_id": "wtnc-retail",
+      "number": "023",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/arasaka-emergency-radioport",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "unresolved"
+      }
+    },
+    {
+      "id": "cpp-994b0d73889d38c6",
+      "card_id": "cp-deadman-transmitter",
+      "set_id": "wtnc-retail",
+      "number": "024",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/deadman-transmitter",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-024.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-514cdefe2f534dc6",
+      "card_id": "cp-mantis-blades",
+      "set_id": "wtnc-retail",
+      "number": "025",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/mantis-blades",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-025.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-cce6c481df036fda",
+      "card_id": "cp-satori-sword-of-saburo",
+      "set_id": "wtnc-retail",
+      "number": "026",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/satori-sword-of-saburo",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-026.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-60c0b05d9f2c81fb",
+      "card_id": "cp-all-is-lost",
+      "set_id": "wtnc-retail",
+      "number": "027",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/all-is-lost",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-027.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-b3d58c9c658a53d9",
+      "card_id": "cp-appetite-for-destruction",
+      "set_id": "wtnc-retail",
+      "number": "028",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/appetite-for-destruction",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-028.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-f1cc59a0c16f7ddb",
+      "card_id": "cp-bonnie-and-clyde",
+      "set_id": "wtnc-retail",
+      "number": "029",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/bonnie-and-clyde",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-029.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-af82a28bed35b8ad",
+      "card_id": "cp-carnage-at-the-colosseum",
+      "set_id": "wtnc-retail",
+      "number": "030",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/carnage-at-the-colosseum",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-030.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-fd8cbfd1e939ef45",
+      "card_id": "cp-gunpoint-diplomacy",
+      "set_id": "wtnc-retail",
+      "number": "032",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/gunpoint-diplomacy",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-032.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-03d6b09216a6137e",
+      "card_id": "cp-industrial-assembly",
+      "set_id": "wtnc-retail",
+      "number": "033",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/industrial-assembly",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-033.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-cb07e6320cc04c2f",
+      "card_id": "cp-over-the-edge",
+      "set_id": "wtnc-retail",
+      "number": "034",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/over-the-edge",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-034.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-30c93860388729e4",
+      "card_id": "cp-wntc-035-pending",
+      "set_id": "wtnc-retail",
+      "number": "035",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": null,
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "unresolved"
+      }
+    },
+    {
+      "id": "cpp-59c021d8a29b8aaa",
+      "card_id": "cp-dum-dum-maelstrom-triggerman",
+      "set_id": "wtnc-retail",
+      "number": "036",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/dum-dum-maelstrom-triggerman",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-036.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-69585b6cb2f147a5",
+      "card_id": "cp-kerry-eurodyne-axe-attitude-audience",
+      "set_id": "wtnc-retail",
+      "number": "037",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/kerry-eurodyne-axe-attitude-audience",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-037.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-766de3be28b8a7c3",
+      "card_id": "cp-muamar-reyes-el-capitan",
+      "set_id": "wtnc-retail",
+      "number": "038",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/muamar-reyes-el-capitan",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-038.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-1346a40a4077a2b6",
+      "card_id": "cp-river-ward-detective-on-the-hunt",
+      "set_id": "wtnc-retail",
+      "number": "039",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/river-ward-detective-on-the-hunt",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-039.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-4f8d00888c1b1f59",
+      "card_id": "cp-rogue-amendiares-preem-solo",
+      "set_id": "wtnc-retail",
+      "number": "040",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/rogue-amendiares-preem-solo",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-040.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-6442a83577ad7411",
+      "card_id": "cp-adam-smasher-metal-over-meat",
+      "set_id": "wtnc-retail",
+      "number": "041",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/adam-smasher-metal-over-meat",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-041.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-dad875e1132131df",
+      "card_id": "cp-alt-cunningham-mother-of-daemons",
+      "set_id": "wtnc-retail",
+      "number": "042",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/alt-cunningham-mother-of-daemons",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-042.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-8930003633e80a21",
+      "card_id": "cp-augmented-negotiators",
+      "set_id": "wtnc-retail",
+      "number": "043",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/augmented-negotiators",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-043.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-1ee9ad55bb635df7",
+      "card_id": "cp-caliber-totentanz-s-top-dog",
+      "set_id": "wtnc-retail",
+      "number": "044",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/caliber-totentanz-s-top-dog",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-044.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-c2e8bf355b238fd6",
+      "card_id": "cp-gilded-maton",
+      "set_id": "wtnc-retail",
+      "number": "045",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/gilded-maton",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-045.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-69799b909712a523",
+      "card_id": "cp-hanako-arasaka-in-a-gilded-cage",
+      "set_id": "wtnc-retail",
+      "number": "046",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/hanako-arasaka-in-a-gilded-cage",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-046.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-89189cddf5326537",
+      "card_id": "cp-wntc-047-pending",
+      "set_id": "wtnc-retail",
+      "number": "047",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": null,
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "unresolved"
+      }
+    },
+    {
+      "id": "cpp-308271ebca6ee75d",
+      "card_id": "cp-jackie-welles-ride-or-die-choom",
+      "set_id": "wtnc-retail",
+      "number": "048",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/jackie-welles-ride-or-die-choom",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-048.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-0673c7af57068c54",
+      "card_id": "cp-maelstrom-goons",
+      "set_id": "wtnc-retail",
+      "number": "049",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/maelstrom-goons",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-049.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-eb65600a3e6706c1",
+      "card_id": "cp-maxtac-suppression-team",
+      "set_id": "wtnc-retail",
+      "number": "050",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/maxtac-suppression-team",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-050.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-8df637e8d88eef07",
+      "card_id": "cp-offduty-malfini",
+      "set_id": "wtnc-retail",
+      "number": "051",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/offduty-malfini",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-051.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-951ddf4214118162",
+      "card_id": "cp-rockn-rockerboy",
+      "set_id": "wtnc-retail",
+      "number": "052",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/rockn-rockerboy",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-052.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-287bf6c21babb8a4",
+      "card_id": "cp-secondhand-bombus",
+      "set_id": "wtnc-retail",
+      "number": "053",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/secondhand-bombus",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-053.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-47d6c78571ac9ca8",
+      "card_id": "cp-sketchy-ripper",
+      "set_id": "wtnc-retail",
+      "number": "054",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/sketchy-ripper",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-054.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-1446fc47d35b5bc5",
+      "card_id": "cp-t-bug-amateur-philosopher",
+      "set_id": "wtnc-retail",
+      "number": "055",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/t-bug-amateur-philosopher",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-055.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-eb8e45f0acc3a525",
+      "card_id": "cp-trauma-team-operatives",
+      "set_id": "wtnc-retail",
+      "number": "056",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/trauma-team-operatives",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-056.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-eaf7a58af5b99b55",
+      "card_id": "cp-viktor-vektor-drop-your-illusions",
+      "set_id": "wtnc-retail",
+      "number": "057",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/viktor-vektor-drop-your-illusions",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-057.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-461b090f895195ca",
+      "card_id": "cp-viktor-vektor-you-might-feel-a-little-pinch",
+      "set_id": "wtnc-retail",
+      "number": "058",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/viktor-vektor-you-might-feel-a-little-pinch",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-058.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-635676a1780a1b99",
+      "card_id": "cp-adrenaline-converter",
+      "set_id": "wtnc-retail",
+      "number": "059",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/adrenaline-converter",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-059.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-2fd333942ecb0bbb",
+      "card_id": "cp-gorilla-arms",
+      "set_id": "wtnc-retail",
+      "number": "060",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/gorilla-arms",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-060.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-eb439ced9c26677a",
+      "card_id": "cp-kiroshi-optics",
+      "set_id": "wtnc-retail",
+      "number": "061",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/kiroshi-optics",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-061.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-e1574af3d4bb03ee",
+      "card_id": "cp-mandibular-upgrade",
+      "set_id": "wtnc-retail",
+      "number": "062",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/mandibular-upgrade",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-062.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-2017c7a126decd71",
+      "card_id": "cp-the-relic-experimental-biochip",
+      "set_id": "wtnc-retail",
+      "number": "063",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/the-relic-experimental-biochip",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-063.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-58674b48782a968f",
+      "card_id": "cp-zetatech-faceplate",
+      "set_id": "wtnc-retail",
+      "number": "064",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/zetatech-faceplate",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-064.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-fff0889dad6834ee",
+      "card_id": "cp-afterparty-at-lizzie-s",
+      "set_id": "wtnc-retail",
+      "number": "065",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/afterparty-at-lizzie-s",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-065.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-c46bb2b72d5b6957",
+      "card_id": "cp-bootleg-black-sapphire-show",
+      "set_id": "wtnc-retail",
+      "number": "066",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/bootleg-black-sapphire-show",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-066.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-881d3f2ece459583",
+      "card_id": "cp-cyberpsychosis",
+      "set_id": "wtnc-retail",
+      "number": "067",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/cyberpsychosis",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-067.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-73a918a4ee46230a",
+      "card_id": "cp-live-with-the-aftermath",
+      "set_id": "wtnc-retail",
+      "number": "068",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/live-with-the-aftermath",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-068.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-bebee8ba9212f0bc",
+      "card_id": "cp-safety-override",
+      "set_id": "wtnc-retail",
+      "number": "069",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/safety-override",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-069.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-d86914fe7d5e9235",
+      "card_id": "cp-the-heist",
+      "set_id": "wtnc-retail",
+      "number": "070",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/the-heist",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-070.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-8b51b3dce986e893",
+      "card_id": "cp-goro-takemura-vengeful-bodyguard",
+      "set_id": "wtnc-retail",
+      "number": "071",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/goro-takemura-vengeful-bodyguard",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-071.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-356554cd5d18c511",
+      "card_id": "cp-hanako-arasaka-daughter-of-the-emperor",
+      "set_id": "wtnc-retail",
+      "number": "072",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/hanako-arasaka-daughter-of-the-emperor",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-072.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-23c628bffab6b601",
+      "card_id": "cp-jackie-welles-mama-s-favorite",
+      "set_id": "wtnc-retail",
+      "number": "073",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/jackie-welles-mama-s-favorite",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-073.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-d8c8d0b83dfce7f0",
+      "card_id": "cp-padre-man-of-the-cross",
+      "set_id": "wtnc-retail",
+      "number": "074",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/padre-man-of-the-cross",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-074.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-fda2bd51e9b0c9ac",
+      "card_id": "cp-panam-palmer-nomad-cavalry",
+      "set_id": "wtnc-retail",
+      "number": "075",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/panam-palmer-nomad-cavalry",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-075.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-1420fbeaffbd172a",
+      "card_id": "cp-corpo-security",
+      "set_id": "wtnc-retail",
+      "number": "076",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/corpo-security",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-076.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-e390a3303b82fc1e",
+      "card_id": "cp-emergency-atlus",
+      "set_id": "wtnc-retail",
+      "number": "077",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/emergency-atlus",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-077.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-8214425ccd0d0ad3",
+      "card_id": "cp-field-operator",
+      "set_id": "wtnc-retail",
+      "number": "078",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/field-operator",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-078.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-0eb986c8459d91ca",
+      "card_id": "cp-maelstrom-zealots",
+      "set_id": "wtnc-retail",
+      "number": "079",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/maelstrom-zealots",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-079.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-6e25902a960c3aeb",
+      "card_id": "cp-wntc-080-pending",
+      "set_id": "wtnc-retail",
+      "number": "080",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": null,
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "unresolved"
+      }
+    },
+    {
+      "id": "cpp-60c0459645904c37",
+      "card_id": "cp-maxtac-squadron",
+      "set_id": "wtnc-retail",
+      "number": "082",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/maxtac-squadron",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-082.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-1de57a6c7c72c9bf",
+      "card_id": "cp-nadia-fighting-through-grief",
+      "set_id": "wtnc-retail",
+      "number": "083",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/nadia-fighting-through-grief",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-083.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-ef5a1a8db9b52808",
+      "card_id": "cp-pacifica-netrunner",
+      "set_id": "wtnc-retail",
+      "number": "084",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/pacifica-netrunner",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-084.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-4e759abae11a4428",
+      "card_id": "cp-panam-palmer-strength-through-family",
+      "set_id": "wtnc-retail",
+      "number": "085",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/panam-palmer-strength-through-family",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-085.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-598a837abe28a565",
+      "card_id": "cp-pepe-najarro-working-doubles",
+      "set_id": "wtnc-retail",
+      "number": "086",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/pepe-najarro-working-doubles",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-086.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-dcef0ee6e8b00ca4",
+      "card_id": "cp-riding-nomad",
+      "set_id": "wtnc-retail",
+      "number": "087",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/riding-nomad",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-087.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-ef35751db3ce602a",
+      "card_id": "cp-sandayu-oda-hanako-s-guardian",
+      "set_id": "wtnc-retail",
+      "number": "088",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/sandayu-oda-hanako-s-guardian",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-088.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-af335bd1350da2dd",
+      "card_id": "cp-saul-bright-stormrider",
+      "set_id": "wtnc-retail",
+      "number": "089",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/saul-bright-stormrider",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-089.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-e3be2ed0c1eec7dc",
+      "card_id": "cp-valentino-street-racer",
+      "set_id": "wtnc-retail",
+      "number": "091",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/valentino-street-racer",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-091.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-7f11fb70f2dffbd8",
+      "card_id": "cp-wraith-marauders",
+      "set_id": "wtnc-retail",
+      "number": "092",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/wraith-marauders",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-092.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-3c17ceaf89588407",
+      "card_id": "cp-overwatch-panam-s-gift",
+      "set_id": "wtnc-retail",
+      "number": "093",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/overwatch-panam-s-gift",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-093.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-62372dd2f034bacd",
+      "card_id": "cp-riot-shield",
+      "set_id": "wtnc-retail",
+      "number": "094",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/riot-shield",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-094.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-dbeb59958d4314a6",
+      "card_id": "cp-sandevistan",
+      "set_id": "wtnc-retail",
+      "number": "095",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/sandevistan",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-095.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-da12d9d3784fe46e",
+      "card_id": "cp-zetatech-berserk",
+      "set_id": "wtnc-retail",
+      "number": "096",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/zetatech-berserk",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-096.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-ff4e1430790eceab",
+      "card_id": "cp-corporate-surveillance",
+      "set_id": "wtnc-retail",
+      "number": "097",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/corporate-surveillance",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-097.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-c2ef667cfaab84ad",
+      "card_id": "cp-don-t-fear-the-reaper",
+      "set_id": "wtnc-retail",
+      "number": "098",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/don-t-fear-the-reaper",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-098.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-58580f561e8e0eb1",
+      "card_id": "cp-fool-on-the-hill",
+      "set_id": "wtnc-retail",
+      "number": "099",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/fool-on-the-hill",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-099.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-734552d1189ae641",
+      "card_id": "cp-peace-offering",
+      "set_id": "wtnc-retail",
+      "number": "101",
+      "rarity": "Common",
+      "artist": "Mattia De Iulis",
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/peace-offering",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-101.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 100,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-d7d5b94aa52225d3",
+      "card_id": "cp-synapse-burnout",
+      "set_id": "wtnc-retail",
+      "number": "102",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/synapse-burnout",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-102.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-d37d525dfa3c04b5",
+      "card_id": "cp-take-control",
+      "set_id": "wtnc-retail",
+      "number": "103",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/take-control",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-103.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-bb5a3a3a08ff7cc3",
+      "card_id": "cp-wild-in-the-streets",
+      "set_id": "wtnc-retail",
+      "number": "105",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/wild-in-the-streets",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-105.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-c6f6801f7e5aa26d",
+      "card_id": "cp-alt-cunningham-soulkiller-architect",
+      "set_id": "wtnc-retail",
+      "number": "106",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/alt-cunningham-soulkiller-architect",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-106.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-162f9e74580f40b5",
+      "card_id": "cp-evelyn-parker-beautiful-enigma",
+      "set_id": "wtnc-retail",
+      "number": "107",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/evelyn-parker-beautiful-enigma",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-107.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-ac0d5e2e42a90758",
+      "card_id": "cp-judy-alvarez-braindance-maestro",
+      "set_id": "wtnc-retail",
+      "number": "108",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/judy-alvarez-braindance-maestro",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-108.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-93310c51e1ab876e",
+      "card_id": "cp-sasha-yakovleva-won-t-let-you-down",
+      "set_id": "wtnc-retail",
+      "number": "109",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/sasha-yakovleva-won-t-let-you-down",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-109.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-e630fb858f7b542c",
+      "card_id": "cp-wakako-okada-peace-and-harmony",
+      "set_id": "wtnc-retail",
+      "number": "110",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/wakako-okada-peace-and-harmony",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-110.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-03ee5f74a55d9337",
+      "card_id": "cp-delamain-rideshare-ai",
+      "set_id": "wtnc-retail",
+      "number": "111",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/delamain-rideshare-ai",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-111.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-077861a5ffc1f7a5",
+      "card_id": "cp-delamain-cab",
+      "set_id": "wtnc-retail",
+      "number": "112",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/delamain-cab",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-112.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-d89087b7af84e213",
+      "card_id": "cp-evelyn-parker-scheming-siren",
+      "set_id": "wtnc-retail",
+      "number": "113",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/evelyn-parker-scheming-siren",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-113.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-ceab0ea9b2c9af4d",
+      "card_id": "cp-hacked-corpo",
+      "set_id": "wtnc-retail",
+      "number": "114",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/hacked-corpo",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-114.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-da388f8d51ce318c",
+      "card_id": "cp-jacked-in-voodoo-boy",
+      "set_id": "wtnc-retail",
+      "number": "115",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/jacked-in-voodoo-boy",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-115.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-9be3dc9a666eea6d",
+      "card_id": "cp-judy-alvarez-nothing-to-doubt",
+      "set_id": "wtnc-retail",
+      "number": "116",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/judy-alvarez-nothing-to-doubt",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-116.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-cb2f33bbe78fcdfb",
+      "card_id": "cp-lizzy-wizzy-delicate-weapon",
+      "set_id": "wtnc-retail",
+      "number": "117",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/lizzy-wizzy-delicate-weapon",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-117.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-d4161a4649d4ccce",
+      "card_id": "cp-maman-brigitte-spirit-of-death",
+      "set_id": "wtnc-retail",
+      "number": "118",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/maman-brigitte-spirit-of-death",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-118.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-1cfd280cecba09ea",
+      "card_id": "cp-misty-olszewski-mender-of-broken-spirits",
+      "set_id": "wtnc-retail",
+      "number": "119",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/misty-olszewski-mender-of-broken-spirits",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-119.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-87bdebc840a44aa4",
+      "card_id": "cp-modded-kusanagi",
+      "set_id": "wtnc-retail",
+      "number": "120",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/modded-kusanagi",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-120.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-a7beea5591205534",
+      "card_id": "cp-modded-muramasa",
+      "set_id": "wtnc-retail",
+      "number": "121",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/modded-muramasa",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-121.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-28f8c3c44fa5753c",
+      "card_id": "cp-mox-inciters",
+      "set_id": "wtnc-retail",
+      "number": "122",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/mox-inciters",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-122.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-180078d05370e589",
+      "card_id": "cp-placide-voodoo-sentinel",
+      "set_id": "wtnc-retail",
+      "number": "123",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/placide-voodoo-sentinel",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-123.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-e410e6b99e9f357c",
+      "card_id": "cp-psycho-squad",
+      "set_id": "wtnc-retail",
+      "number": "124",
+      "rarity": "Common",
+      "artist": "Kieran McKeown & Giada Marchisio",
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/psycho-squad",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-124.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 100,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-62251b0366bdde8b",
+      "card_id": "cp-rita-wheeler-no-stupid-questions",
+      "set_id": "wtnc-retail",
+      "number": "125",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/rita-wheeler-no-stupid-questions",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-125.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-bbbab68f92a3d3ed",
+      "card_id": "cp-rogue-amendiares-queen-of-the-afterlife",
+      "set_id": "wtnc-retail",
+      "number": "126",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/rogue-amendiares-queen-of-the-afterlife",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "unresolved"
+      }
+    },
+    {
+      "id": "cpp-3dbb1307e69c7bf8",
+      "card_id": "cp-dying-night-v-s-pistol",
+      "set_id": "wtnc-retail",
+      "number": "128",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/dying-night-v-s-pistol",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-128.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-ae887fe7ad55acd8",
+      "card_id": "cp-netwatch-netdriver",
+      "set_id": "wtnc-retail",
+      "number": "129",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/netwatch-netdriver",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-129.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-ed4be6ed4eac2b57",
+      "card_id": "cp-tetratronic-rippler",
+      "set_id": "wtnc-retail",
+      "number": "130",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/tetratronic-rippler",
+      "image": {
+        "remote_url": null,
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": null
+      },
+      "recognition": {
+        "enabled": false,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "unresolved"
+      }
+    },
+    {
+      "id": "cpp-bca4c8ccddf27e99",
+      "card_id": "cp-chrome-reverie",
+      "set_id": "wtnc-retail",
+      "number": "131",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/chrome-reverie",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-131.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-240f8ed0f0318360",
+      "card_id": "cp-floor-it",
+      "set_id": "wtnc-retail",
+      "number": "132",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/floor-it",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-132.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-6e4d31bea8587fcc",
+      "card_id": "cp-les-elemens",
+      "set_id": "wtnc-retail",
+      "number": "133",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/les-elemens",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-133.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-3b7b4695442558ee",
+      "card_id": "cp-pyramid-song",
+      "set_id": "wtnc-retail",
+      "number": "135",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/pyramid-song",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-135.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-ffe2a50f1865e83d",
+      "card_id": "cp-reboot-optics",
+      "set_id": "wtnc-retail",
+      "number": "136",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/reboot-optics",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-136.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-ba93bbe4c9d589d5",
+      "card_id": "cp-trust-no-one",
+      "set_id": "wtnc-retail",
+      "number": "139",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/trust-no-one",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-139.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    },
+    {
+      "id": "cpp-eef8f1d28001db6f",
+      "card_id": "cp-unlikely-bond",
+      "set_id": "wtnc-retail",
+      "number": "140",
+      "rarity": null,
+      "artist": null,
+      "printing_uuid": null,
+      "variant_kind": "standard",
+      "is_primary": true,
+      "source_url": "https://cyberpunktcg.com/cards/unlikely-bond",
+      "image": {
+        "remote_url": "https://punksim.net/images/WNTC-140.png",
+        "local_path": null,
+        "artwork_fingerprint": null,
+        "source": "punksim_community_cache"
+      },
+      "recognition": {
+        "enabled": true,
+        "artwork_group": null,
+        "priority": 80,
+        "image_confidence": "secondary_cache"
+      }
+    }
+  ]
+}

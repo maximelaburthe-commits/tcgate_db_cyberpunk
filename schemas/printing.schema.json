@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "TCGate Cyberpunk Printing",
+  "type": "object",
+  "required": [
+    "id",
+    "card_id",
+    "set_id",
+    "number",
+    "image",
+    "recognition"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "card_id": {
+      "type": "string"
+    },
+    "set_id": {
+      "type": "string"
+    },
+    "number": {
+      "type": "string"
+    },
+    "variant_kind": {
+      "type": "string"
+    },
+    "image": {
+      "type": "object"
+    },
+    "recognition": {
+      "type": "object"
+    }
+  }
+}

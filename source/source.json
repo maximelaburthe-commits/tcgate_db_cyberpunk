@@ -1,0 +1,29 @@
+{
+  "game_id": "cyberpunk-tcg",
+  "sources": [
+    {
+      "id": "cyberpunk-official",
+      "url": "https://cyberpunktcg.com/cards",
+      "authority": "official",
+      "role": "authority_and_health"
+    },
+    {
+      "id": "punksim-sdk",
+      "url": "https://raw.githubusercontent.com/orzdk/cyber-sim-sdk/refs/heads/main/ref/d_cards.json",
+      "authority": "community",
+      "role": "structured_discovery_accelerator"
+    }
+  ],
+  "expected_wntc_slots": 140,
+  "private_alpha": {
+    "publish_mode": "manual_github",
+    "auto_write_repository": false
+  },
+  "safety": {
+    "block_cross_domain_official_redirect": true,
+    "block_large_record_drop_ratio": 0.1,
+    "block_if_official_unreachable": false,
+    "never_delete_on_source_absence": true,
+    "staging_only": true
+  }
+}
