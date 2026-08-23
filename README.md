@@ -1,4 +1,4 @@
-# TCGate — Cyberpunk TCG Database v0.3.0
+# TCGate — Cyberpunk TCG Database v0.4.0
 
 Base indépendante destinée à TCGate. **Card Registry n'est pas requis pour l'alpha privée.**
 
@@ -21,6 +21,19 @@ Cette version **ne prétend donc pas être la v1.0 finale du set** : elle suit p
 - `runtime/vision-index.json` : impressions avec image résolue.
 
 TCGate peut pointer une seule fois sur l'URL RAW GitHub de `manifest.json`. Les mises à jour suivantes gardent le même chemin.
+
+
+## Mise à jour depuis GitHub Actions
+
+Après avoir placé ce package à la racine du dépôt GitHub :
+
+1. ouvrir **Actions** ;
+2. choisir **Build or update TCGate database** ;
+3. cliquer sur **Run workflow**.
+
+L’action vérifie les sources, écrit le résultat dans `staging/`, valide la base et reconstruit les fichiers `runtime/`. Elle commit les changements de staging/runtime si nécessaire.
+
+**Sécurité Cyberpunk :** contrairement aux TCG disposant d’un export officiel exhaustif, les nouvelles données Cyberpunk ne sont pas promues aveuglément dans `data/`. Une entrée non résolue ou uniquement issue de la source secondaire reste en staging jusqu’à validation.
 
 ## Mise à jour pendant l'alpha privée
 

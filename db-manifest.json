@@ -2,7 +2,7 @@
   "package_id": "tcgate.db.cyberpunk-tcg",
   "package_type": "tcgate_game_database",
   "schema_version": "1.1.0",
-  "database_version": "0.3.0",
+  "database_version": "0.4.0",
   "game": {
     "id": "cyberpunk-tcg",
     "name": "Cyberpunk Trading Card Game"
@@ -65,8 +65,8 @@
   },
   "notes": [
     "Independent database package; Card Registry is not required for the private alpha.",
-    "Production GitHub publishing remains manual.",
-    "The updater checks official health and uses PUNKSIM only as a technical discovery accelerator.",
-    "Unresolved reveals are tracked explicitly and never silently exposed to TCGate runtime."
+    "GitHub Actions can run a manual source check and rebuild validated runtime files.",
+    "Cyberpunk source changes are staged first; unresolved or community-only records are never auto-promoted to production.",
+    "The updater checks official health and uses PUNKSIM only as a technical discovery accelerator."
   ]
 }
