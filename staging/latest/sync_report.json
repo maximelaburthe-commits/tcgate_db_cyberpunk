@@ -1,0 +1,28 @@
+{
+  "mode": "staging_only",
+  "official_health": {
+    "source": "cyberpunk-official",
+    "url": "https://cyberpunktcg.com/cards",
+    "ok": true,
+    "http_status": 200,
+    "final_url": "https://cyberpunktcg.com/cards",
+    "reported_gallery_entries": null,
+    "status": "HEALTHY"
+  },
+  "secondary_error": null,
+  "secondary_records": 142,
+  "secondary_wntc_records": 131,
+  "new_source_numbers": [
+    "WNTC-002"
+  ],
+  "source_numbers_missing_from_local": [
+    "WNTC-002"
+  ],
+  "local_numbers_not_in_secondary": [
+    "PRM-N001"
+  ],
+  "large_drop_ratio": -0.06766917293233082,
+  "blocked": false,
+  "publish_allowed": false,
+  "next_action": "Inspect staging; rebuild database package; manually publish to GitHub only after validation."
+}
