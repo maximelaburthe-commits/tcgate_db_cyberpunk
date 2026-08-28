@@ -9,8 +9,12 @@ meta = json.loads((root / "sources" / "official" / snapshot / "metadata.json").r
 cards = json.loads((root / "data/cards.json").read_text(encoding="utf-8"))["cards"]
 printings = json.loads((root / "data/printings.json").read_text(encoding="utf-8"))["printings"]
 visuals = json.loads((root / "data/visual-identities.json").read_text(encoding="utf-8"))["visualIdentities"]
+profiles = json.loads((root / "data/recognition-profiles.json").read_text(encoding="utf-8"))["recognitionProfiles"]
+groups = json.loads((root / "data/recognition-groups.json").read_text(encoding="utf-8"))["recognitionGroups"]
 print(f"Cyberpunk TCG DB snapshot: {snapshot}")
 print(f"Canonical cards: {len(cards)}/{meta['expectedCanonicalCards']}")
 print(f"Official printings: {len(printings)}/{meta['expectedOfficialPrintings']}")
 print(f"Visual identities: {len(visuals)}")
+print(f"Recognition profiles: {len(profiles)}")
+print(f"Recognition groups: {len(groups)} ({sum(g['mode'] == 'exact' for g in groups)} exact, {sum(g['mode'] == 'shared' for g in groups)} shared)")
 print(f"Stable runtime assets: {sum(bool(p['image']['imageUrl']) for p in printings)}")

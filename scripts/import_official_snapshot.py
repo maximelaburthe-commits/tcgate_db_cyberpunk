@@ -43,6 +43,8 @@ PLACEHOLDER_PRINTING_IDS = {
     "035": "cpp-30c93860388729e4", "047": "cpp-89189cddf5326537",
     "080": "cpp-6e25902a960c3aeb",
 }
+RECOGNITION_PROFILE_ID = "cyberpunk-v5-fast-72x108"
+RECOGNITION_AUDIT_DATE = "2026-08-28"
 
 
 def load(path: str):
@@ -152,6 +154,58 @@ def deterministic_printing_id(card_id: str, set_id: str, number: str) -> str:
     return "cpp-" + hashlib.sha1(value).hexdigest()[:16]
 
 
+def recognition_group_id(card_id: str, mode: str, printing_ids: list[str]) -> str:
+    value = f"{RECOGNITION_PROFILE_ID}|{card_id}|{mode}|{'|'.join(sorted(printing_ids))}".encode()
+    return "cprg-" + hashlib.sha1(value).hexdigest()[:16]
+
+
+def build_recognition_groups(printings: list[dict]) -> list[dict]:
+    """Materialize the conservative, versioned result of the 2026-08-28 audit."""
+    by_card: dict[str, list[dict]] = {}
+    for printing in printings:
+        by_card.setdefault(printing["cardId"], []).append(printing)
+    groups = []
+    for card_id in sorted(by_card):
+        exact = sorted(
+            (p for p in by_card[card_id] if p["variantKind"] == "promo_art"),
+            key=lambda p: p["printingId"],
+        )
+        exact_ids = {p["printingId"] for p in exact}
+        for printing in exact:
+            ids = [printing["printingId"]]
+            groups.append({
+                "recognitionGroupId": recognition_group_id(card_id, "exact", ids),
+                "recognitionProfileId": RECOGNITION_PROFILE_ID,
+                "cardId": card_id,
+                "printingIds": ids,
+                "candidatePrintingIds": ids,
+                "mode": "exact",
+                "reason": "exact_robust_in_2026_08_28_audit",
+                "evidence": {
+                    "auditDate": RECOGNITION_AUDIT_DATE,
+                    "classification": "EXACT_ROBUST",
+                    "source": "TCGate checkpoint 3C offline matcher audit",
+                },
+            })
+        shared_ids = sorted(p["printingId"] for p in by_card[card_id] if p["printingId"] not in exact_ids)
+        if shared_ids:
+            groups.append({
+                "recognitionGroupId": recognition_group_id(card_id, "shared", shared_ids),
+                "recognitionProfileId": RECOGNITION_PROFILE_ID,
+                "cardId": card_id,
+                "printingIds": shared_ids,
+                "candidatePrintingIds": shared_ids,
+                "mode": "shared",
+                "reason": "edition_details_not_robust_at_current_descriptor",
+                "evidence": {
+                    "auditDate": RECOGNITION_AUDIT_DATE,
+                    "source": "TCGate checkpoint 3C offline matcher audit",
+                    "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned",
+                },
+            })
+    return groups
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--snapshot-date", default=date.today().isoformat())
@@ -258,7 +312,7 @@ def main() -> None:
                     "enabled": bool(old_recognition.get("enabled") and stable_image),
                     "visualIdentityId": ("cpvi-" + printing_id[4:]) if old_recognition.get("enabled") and stable_image else None,
                     "referenceImageUrl": stable_image if old_recognition.get("enabled") and stable_image else None,
-                    "status": "exact_printing" if old_recognition.get("enabled") and stable_image else "pending_analysis",
+                    "status": "reference_available" if old_recognition.get("enabled") and stable_image else "pending_asset",
                 },
                 "provenance": {"authority": "official", "lastVerifiedAt": args.snapshot_date},
             })
@@ -286,38 +340,41 @@ def main() -> None:
             "setId": "promo-cards", "number": "N001", "variantKind": "promo_art",
             "reason": "Not present in the active official 147/436 snapshot",
         }
-    unresolved = [
-        lucyna_existing,
-        {
-            "printingId": "legacy-goro-hands-unclean-s002", "officialPrintingId": None,
-            "official": False, "snapshotStatus": "legacy_unresolved",
-            "cardId": "cp-goro-takemura-hands-unclean",
-            "name": "Goro Takemura — Hands Unclean (S002)", "setId": None,
-            "number": "S002", "variantKind": "legacy_unresolved",
-            "image": {
-                "imageUrl": "https://raw.githubusercontent.com/maximelaburthe-commits/cyberpunk_cards/main/images/goro-takemura-hands-unclean-s002.webp",
-                "sourceImageUrl": "https://raw.githubusercontent.com/maximelaburthe-commits/cyberpunk_cards/main/images/goro-takemura-hands-unclean-s002.webp",
-                "imageSource": "cyberpunk_cards_legacy",
-            },
-            "recognition": {"enabled": False, "visualIdentityId": None, "status": "pending_proof"},
-            "reason": "No documented mapping to an official printing",
+    # Goro S002 is a documented alias of the official EP Retail 012 printing;
+    # it remains traceable without creating an unofficial 437th printing.
+    unresolved = [lucyna_existing]
+    goro_official = next(
+        p for p in printings
+        if p["printingId"] == "cpp-509f743f75700687"
+        and p["officialPrintingId"] == "2ba68619-7050-44c5-b0ce-b32d48b8f40f"
+    )
+    aliases["printings"].append({
+        "from": "legacy-goro-hands-unclean-s002",
+        "to": goro_official["printingId"],
+        "reason": "pixel_identical_official_match",
+        "auditDate": RECOGNITION_AUDIT_DATE,
+        "evidence": {
+            "legacyNumber": "S002",
+            "officialPrintingId": goro_official["officialPrintingId"],
+            "pixelComparison": "identical",
         },
-    ]
+    })
     visual = []
     for item in printings:
         if item["recognition"]["enabled"]:
             visual.append({
                 "visualIdentityId": item["recognition"]["visualIdentityId"],
-                "cardId": item["cardId"], "mode": "exact_printing",
+                "cardId": item["cardId"], "mode": "intrinsic_face_reference",
                 "printingId": item["printingId"],
                 "candidatePrintingIds": [item["printingId"]],
                 "referenceImageUrl": item["recognition"]["referenceImageUrl"],
-                "evidence": "existing_validated_vision_reference",
+                "evidence": "existing_stable_reference_asset",
             })
     dump(ROOT / "data/cards.json", {"cards": cards})
     dump(ROOT / "data/printings.json", {"printings": printings})
     dump(ROOT / "data/sets.json", {"sets": list(sets.values())})
     dump(ROOT / "data/visual-identities.json", {"visualIdentities": visual})
+    dump(ROOT / "data/recognition-groups.json", {"recognitionGroups": build_recognition_groups(printings)})
     dump(ROOT / "data/unresolved-printings.json", {"printings": unresolved})
     dump(ROOT / "data/id-aliases.json", aliases)
     print(json.dumps({"cards": len(cards), "officialPrintings": len(printings), "visualIdentities": len(visual)}, indent=2))

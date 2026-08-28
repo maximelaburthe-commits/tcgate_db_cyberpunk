@@ -1,0 +1,3261 @@
+{
+  "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+  "recognitionGroups": [
+    {
+      "recognitionGroupId": "cprg-82f67b7255504052",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-6th-street-recruits",
+      "printingIds": [
+        "cpp-90f146ec20a44e39",
+        "cpp-b7acab3fc10ef1bb"
+      ],
+      "candidatePrintingIds": [
+        "cpp-90f146ec20a44e39",
+        "cpp-b7acab3fc10ef1bb"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-75f78d9fd76c9e16",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-adam-smasher-ender-of-legends",
+      "printingIds": [
+        "cpp-9f886af4075b6e9c"
+      ],
+      "candidatePrintingIds": [
+        "cpp-9f886af4075b6e9c"
+      ],
+      "mode": "exact",
+      "reason": "exact_robust_in_2026_08_28_audit",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "classification": "EXACT_ROBUST",
+        "source": "TCGate checkpoint 3C offline matcher audit"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-062c81a3ef18bc3f",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-adam-smasher-ender-of-legends",
+      "printingIds": [
+        "cpp-0c4d5b62f83947af",
+        "cpp-bc221071b29f2a98",
+        "cpp-bec13059d093b5a4",
+        "cpp-fff81bae871b83ec"
+      ],
+      "candidatePrintingIds": [
+        "cpp-0c4d5b62f83947af",
+        "cpp-bc221071b29f2a98",
+        "cpp-bec13059d093b5a4",
+        "cpp-fff81bae871b83ec"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-7201bac7eb4090ce",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-adam-smasher-metal-over-meat",
+      "printingIds": [
+        "cpp-6442a83577ad7411",
+        "cpp-d6010bbf2e2db17e",
+        "cpp-da46cce396eab392"
+      ],
+      "candidatePrintingIds": [
+        "cpp-6442a83577ad7411",
+        "cpp-d6010bbf2e2db17e",
+        "cpp-da46cce396eab392"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-63873e71f99aab52",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-adrenaline-converter",
+      "printingIds": [
+        "cpp-635676a1780a1b99",
+        "cpp-847b9c89f75480ec"
+      ],
+      "candidatePrintingIds": [
+        "cpp-635676a1780a1b99",
+        "cpp-847b9c89f75480ec"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-f03ac203511be934",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-afterparty-at-lizzie-s",
+      "printingIds": [
+        "cpp-66122f1a59400546",
+        "cpp-a10bbe5aee93b5cd",
+        "cpp-a86d67874ca62e37",
+        "cpp-fc2ad7f7e1b129df",
+        "cpp-fff0889dad6834ee"
+      ],
+      "candidatePrintingIds": [
+        "cpp-66122f1a59400546",
+        "cpp-a10bbe5aee93b5cd",
+        "cpp-a86d67874ca62e37",
+        "cpp-fc2ad7f7e1b129df",
+        "cpp-fff0889dad6834ee"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-0412300f36355342",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-all-is-lost",
+      "printingIds": [
+        "cpp-60c0b05d9f2c81fb",
+        "cpp-a90b84997c367fca"
+      ],
+      "candidatePrintingIds": [
+        "cpp-60c0b05d9f2c81fb",
+        "cpp-a90b84997c367fca"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-b2960685a6f6dc71",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-alt-cunningham-mother-of-daemons",
+      "printingIds": [
+        "cpp-3fabf6939f81b8ee",
+        "cpp-4aa54fc326f170f1",
+        "cpp-dad875e1132131df"
+      ],
+      "candidatePrintingIds": [
+        "cpp-3fabf6939f81b8ee",
+        "cpp-4aa54fc326f170f1",
+        "cpp-dad875e1132131df"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-c729bbdafd12cf6e",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-alt-cunningham-soulkiller-architect",
+      "printingIds": [
+        "cpp-32bdcdaf7564468c",
+        "cpp-92a25d343e3eef9d",
+        "cpp-a43c6e72edfd89f2",
+        "cpp-c6f6801f7e5aa26d"
+      ],
+      "candidatePrintingIds": [
+        "cpp-32bdcdaf7564468c",
+        "cpp-92a25d343e3eef9d",
+        "cpp-a43c6e72edfd89f2",
+        "cpp-c6f6801f7e5aa26d"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-9561168f59213a4a",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-animals-wrecker",
+      "printingIds": [
+        "cpp-a3b00d354871a647",
+        "cpp-c16f37f3b7592e1c"
+      ],
+      "candidatePrintingIds": [
+        "cpp-a3b00d354871a647",
+        "cpp-c16f37f3b7592e1c"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-a2327164528b92fa",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-appetite-for-destruction",
+      "printingIds": [
+        "cpp-294fb00e21c65ff1",
+        "cpp-b3d58c9c658a53d9"
+      ],
+      "candidatePrintingIds": [
+        "cpp-294fb00e21c65ff1",
+        "cpp-b3d58c9c658a53d9"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-b5406f3fd138ccb0",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-arasaka-emergency-radioport",
+      "printingIds": [
+        "cpp-493bd499b1ea5a55",
+        "cpp-a5255cfc741c10d2",
+        "cpp-bb5b599fe74859d8",
+        "cpp-d5439afadfbc53e0"
+      ],
+      "candidatePrintingIds": [
+        "cpp-493bd499b1ea5a55",
+        "cpp-a5255cfc741c10d2",
+        "cpp-bb5b599fe74859d8",
+        "cpp-d5439afadfbc53e0"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-afb41207c587c486",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-augmented-negotiators",
+      "printingIds": [
+        "cpp-1c43d2759b58ae15",
+        "cpp-8930003633e80a21"
+      ],
+      "candidatePrintingIds": [
+        "cpp-1c43d2759b58ae15",
+        "cpp-8930003633e80a21"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-7e826999b6df8f3c",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-bonnie-and-clyde",
+      "printingIds": [
+        "cpp-6faba96157c02dbe",
+        "cpp-f1cc59a0c16f7ddb"
+      ],
+      "candidatePrintingIds": [
+        "cpp-6faba96157c02dbe",
+        "cpp-f1cc59a0c16f7ddb"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-b454a51611640732",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-bootleg-black-sapphire-show",
+      "printingIds": [
+        "cpp-6284ade0464122b3",
+        "cpp-c46bb2b72d5b6957"
+      ],
+      "candidatePrintingIds": [
+        "cpp-6284ade0464122b3",
+        "cpp-c46bb2b72d5b6957"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-6177e547478ba5c3",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-caliber-totentanz-s-top-dog",
+      "printingIds": [
+        "cpp-1ee9ad55bb635df7",
+        "cpp-3fd49d361a4ef00a"
+      ],
+      "candidatePrintingIds": [
+        "cpp-1ee9ad55bb635df7",
+        "cpp-3fd49d361a4ef00a"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-d1cc9a376a13e7d7",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-carnage-at-the-colosseum",
+      "printingIds": [
+        "cpp-2e3c3117220fc4e3",
+        "cpp-af82a28bed35b8ad"
+      ],
+      "candidatePrintingIds": [
+        "cpp-2e3c3117220fc4e3",
+        "cpp-af82a28bed35b8ad"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-a568c4e9b1e258ba",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-chrome-fang",
+      "printingIds": [
+        "cpp-bf8e56e69d83d96f",
+        "cpp-cb443df51c7db098",
+        "cpp-e2a41e1c160c0f0d",
+        "cpp-f2122604133d9980"
+      ],
+      "candidatePrintingIds": [
+        "cpp-bf8e56e69d83d96f",
+        "cpp-cb443df51c7db098",
+        "cpp-e2a41e1c160c0f0d",
+        "cpp-f2122604133d9980"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-01e50be19943f589",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-chrome-reverie",
+      "printingIds": [
+        "cpp-b53086ed2b56a516",
+        "cpp-bca4c8ccddf27e99"
+      ],
+      "candidatePrintingIds": [
+        "cpp-b53086ed2b56a516",
+        "cpp-bca4c8ccddf27e99"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-dbb6c9a95c9b72cb",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-corpo-security",
+      "printingIds": [
+        "cpp-0a27bbc4f72ecccf",
+        "cpp-1420fbeaffbd172a",
+        "cpp-1bc151d1a8968fbd",
+        "cpp-5aec11b6d1c4785f",
+        "cpp-8c1898b061a004af"
+      ],
+      "candidatePrintingIds": [
+        "cpp-0a27bbc4f72ecccf",
+        "cpp-1420fbeaffbd172a",
+        "cpp-1bc151d1a8968fbd",
+        "cpp-5aec11b6d1c4785f",
+        "cpp-8c1898b061a004af"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-a05adc51a5fdcc5d",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-corporate-surveillance",
+      "printingIds": [
+        "cpp-736abbcf091be70a",
+        "cpp-962cda86aaa3db43",
+        "cpp-c153cf99d095ad0e",
+        "cpp-e75869a9d9b71f34",
+        "cpp-ff4e1430790eceab"
+      ],
+      "candidatePrintingIds": [
+        "cpp-736abbcf091be70a",
+        "cpp-962cda86aaa3db43",
+        "cpp-c153cf99d095ad0e",
+        "cpp-e75869a9d9b71f34",
+        "cpp-ff4e1430790eceab"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-ffe5ec7515d14cf3",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-cyberpsychosis",
+      "printingIds": [
+        "cpp-881d3f2ece459583",
+        "cpp-dd60fbd3b8fcda15"
+      ],
+      "candidatePrintingIds": [
+        "cpp-881d3f2ece459583",
+        "cpp-dd60fbd3b8fcda15"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-455465515205e703",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-deadman-transmitter",
+      "printingIds": [
+        "cpp-072bd01f8830b9ce",
+        "cpp-994b0d73889d38c6"
+      ],
+      "candidatePrintingIds": [
+        "cpp-072bd01f8830b9ce",
+        "cpp-994b0d73889d38c6"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-3c2ebf648e1d31b4",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-delamain-cab",
+      "printingIds": [
+        "cpp-077861a5ffc1f7a5",
+        "cpp-49528ff9b7ab6e47",
+        "cpp-53067ca754da54c0",
+        "cpp-6e57d7449a9cdd7d",
+        "cpp-8e98e9ece808b0c3"
+      ],
+      "candidatePrintingIds": [
+        "cpp-077861a5ffc1f7a5",
+        "cpp-49528ff9b7ab6e47",
+        "cpp-53067ca754da54c0",
+        "cpp-6e57d7449a9cdd7d",
+        "cpp-8e98e9ece808b0c3"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-2c48f01512a46df9",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-delamain-rideshare-ai",
+      "printingIds": [
+        "cpp-03ee5f74a55d9337",
+        "cpp-d381b3057b88c8b1"
+      ],
+      "candidatePrintingIds": [
+        "cpp-03ee5f74a55d9337",
+        "cpp-d381b3057b88c8b1"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-dc6bd8fad33f3422",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-detonate",
+      "printingIds": [
+        "cpp-62225092172d629f",
+        "cpp-898b21a61328fa44"
+      ],
+      "candidatePrintingIds": [
+        "cpp-62225092172d629f",
+        "cpp-898b21a61328fa44"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-1b058953ea36a04e",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-dexter-deshawn-off-the-grid",
+      "printingIds": [
+        "cpp-5168504edacfb5e4",
+        "cpp-58ee257b9e125fdc",
+        "cpp-88020317eb7d199d"
+      ],
+      "candidatePrintingIds": [
+        "cpp-5168504edacfb5e4",
+        "cpp-58ee257b9e125fdc",
+        "cpp-88020317eb7d199d"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-ad268cf54e657385",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-dexter-deshawn-one-last-chance",
+      "printingIds": [
+        "cpp-b2fb59cf51b9bef0",
+        "cpp-baf78e9d0e876e98",
+        "cpp-cb7cd38e6925a981"
+      ],
+      "candidatePrintingIds": [
+        "cpp-b2fb59cf51b9bef0",
+        "cpp-baf78e9d0e876e98",
+        "cpp-cb7cd38e6925a981"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-1d2cdd1f8c5cabaa",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-don-t-fear-the-reaper",
+      "printingIds": [
+        "cpp-c2ef667cfaab84ad",
+        "cpp-ddb147631cf61283"
+      ],
+      "candidatePrintingIds": [
+        "cpp-c2ef667cfaab84ad",
+        "cpp-ddb147631cf61283"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-bedb8476fa21a24c",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-dum-dum-maelstrom-triggerman",
+      "printingIds": [
+        "cpp-58499b097b5947b8",
+        "cpp-59c021d8a29b8aaa",
+        "cpp-8305407ddc77541b",
+        "cpp-c19028c81d2e6887"
+      ],
+      "candidatePrintingIds": [
+        "cpp-58499b097b5947b8",
+        "cpp-59c021d8a29b8aaa",
+        "cpp-8305407ddc77541b",
+        "cpp-c19028c81d2e6887"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-400ccbdbadfd1887",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-dying-night-v-s-pistol",
+      "printingIds": [
+        "cpp-3dbb1307e69c7bf8",
+        "cpp-522980d176de412b",
+        "cpp-7783e274e89b1580",
+        "cpp-7ed8790d0bef52a0",
+        "cpp-f910e1b78717ae64"
+      ],
+      "candidatePrintingIds": [
+        "cpp-3dbb1307e69c7bf8",
+        "cpp-522980d176de412b",
+        "cpp-7783e274e89b1580",
+        "cpp-7ed8790d0bef52a0",
+        "cpp-f910e1b78717ae64"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-a3e9f4f58acdccd1",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-el-sombreron-la-venganza-lenta",
+      "printingIds": [
+        "cpp-beb5eda82a011afa",
+        "cpp-ddcc6a14f47e78d4"
+      ],
+      "candidatePrintingIds": [
+        "cpp-beb5eda82a011afa",
+        "cpp-ddcc6a14f47e78d4"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-3a2cf8f8d9fc677a",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-emergency-atlus",
+      "printingIds": [
+        "cpp-067773ff49018f26",
+        "cpp-1671037d24cc8ab9",
+        "cpp-28ef3290ed3507c2",
+        "cpp-6682d11a7a1c5617",
+        "cpp-e390a3303b82fc1e"
+      ],
+      "candidatePrintingIds": [
+        "cpp-067773ff49018f26",
+        "cpp-1671037d24cc8ab9",
+        "cpp-28ef3290ed3507c2",
+        "cpp-6682d11a7a1c5617",
+        "cpp-e390a3303b82fc1e"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-ffddd4e5ca7f5f04",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-evelyn-parker-beautiful-enigma",
+      "printingIds": [
+        "cpp-135b165212dee6ae",
+        "cpp-162f9e74580f40b5",
+        "cpp-b5dd52e5eddd0410"
+      ],
+      "candidatePrintingIds": [
+        "cpp-135b165212dee6ae",
+        "cpp-162f9e74580f40b5",
+        "cpp-b5dd52e5eddd0410"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-3b897ce6063ea12f",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-evelyn-parker-scheming-siren",
+      "printingIds": [
+        "cpp-2836a07f6d1d0a2d",
+        "cpp-62ff44d4600c9b40",
+        "cpp-94a4cf961a2fb801",
+        "cpp-d89087b7af84e213",
+        "cpp-f1ab2dba2797ce5c"
+      ],
+      "candidatePrintingIds": [
+        "cpp-2836a07f6d1d0a2d",
+        "cpp-62ff44d4600c9b40",
+        "cpp-94a4cf961a2fb801",
+        "cpp-d89087b7af84e213",
+        "cpp-f1ab2dba2797ce5c"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-0922793f4f45e6d2",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-field-operator",
+      "printingIds": [
+        "cpp-472e174b010fe873",
+        "cpp-6a58110f46ef9c08",
+        "cpp-8214425ccd0d0ad3",
+        "cpp-af9be021156e3295",
+        "cpp-c7eba74ce1b673dc"
+      ],
+      "candidatePrintingIds": [
+        "cpp-472e174b010fe873",
+        "cpp-6a58110f46ef9c08",
+        "cpp-8214425ccd0d0ad3",
+        "cpp-af9be021156e3295",
+        "cpp-c7eba74ce1b673dc"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-5a267d07f6b58410",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-floor-it",
+      "printingIds": [
+        "cpp-06e49ee00eb09af2",
+        "cpp-240f8ed0f0318360",
+        "cpp-32456a93b0f48ec4",
+        "cpp-4b553731c3f879df",
+        "cpp-720ff9f5340043c9"
+      ],
+      "candidatePrintingIds": [
+        "cpp-06e49ee00eb09af2",
+        "cpp-240f8ed0f0318360",
+        "cpp-32456a93b0f48ec4",
+        "cpp-4b553731c3f879df",
+        "cpp-720ff9f5340043c9"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-fe56b543f58d8197",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-fool-on-the-hill",
+      "printingIds": [
+        "cpp-58580f561e8e0eb1",
+        "cpp-f657b00aad9cc8b5"
+      ],
+      "candidatePrintingIds": [
+        "cpp-58580f561e8e0eb1",
+        "cpp-f657b00aad9cc8b5"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-6374802c2abf1ca8",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-gilded-maton",
+      "printingIds": [
+        "cpp-a55c215000f1e37d",
+        "cpp-c2e8bf355b238fd6"
+      ],
+      "candidatePrintingIds": [
+        "cpp-a55c215000f1e37d",
+        "cpp-c2e8bf355b238fd6"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-b6055e58b2025dea",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-gorilla-arms",
+      "printingIds": [
+        "cpp-2fd333942ecb0bbb",
+        "cpp-d05cf8c3411da91a"
+      ],
+      "candidatePrintingIds": [
+        "cpp-2fd333942ecb0bbb",
+        "cpp-d05cf8c3411da91a"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-15da879577b0ffa0",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-goro-takemura-hands-unclean",
+      "printingIds": [
+        "cpp-3a9ae1f43f810252",
+        "cpp-509f743f75700687",
+        "cpp-a47f2b5a15a4498c",
+        "cpp-b954ed5775551783",
+        "cpp-cb9e7896a1e8b01a"
+      ],
+      "candidatePrintingIds": [
+        "cpp-3a9ae1f43f810252",
+        "cpp-509f743f75700687",
+        "cpp-a47f2b5a15a4498c",
+        "cpp-b954ed5775551783",
+        "cpp-cb9e7896a1e8b01a"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-898d02f5b82d64c5",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-goro-takemura-losing-his-way",
+      "printingIds": [
+        "cpp-8aab2feb4dd7d9cd",
+        "cpp-a1e87522d2bc9270",
+        "cpp-fa7618b9563b825e"
+      ],
+      "candidatePrintingIds": [
+        "cpp-8aab2feb4dd7d9cd",
+        "cpp-a1e87522d2bc9270",
+        "cpp-fa7618b9563b825e"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-a4dcaabcf78d831e",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-goro-takemura-vengeful-bodyguard",
+      "printingIds": [
+        "cpp-53ac81560c2fd488",
+        "cpp-5b9f67492d1d4225",
+        "cpp-8b51b3dce986e893",
+        "cpp-aeec368bfa1b3fbd"
+      ],
+      "candidatePrintingIds": [
+        "cpp-53ac81560c2fd488",
+        "cpp-5b9f67492d1d4225",
+        "cpp-8b51b3dce986e893",
+        "cpp-aeec368bfa1b3fbd"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-abbaef5d2b44a443",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-gunpoint-diplomacy",
+      "printingIds": [
+        "cpp-72e0d75d59f262aa",
+        "cpp-fd8cbfd1e939ef45"
+      ],
+      "candidatePrintingIds": [
+        "cpp-72e0d75d59f262aa",
+        "cpp-fd8cbfd1e939ef45"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-8a88ab9d9be04192",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-hacked-corpo",
+      "printingIds": [
+        "cpp-ceab0ea9b2c9af4d",
+        "cpp-f3661e44ed34da62"
+      ],
+      "candidatePrintingIds": [
+        "cpp-ceab0ea9b2c9af4d",
+        "cpp-f3661e44ed34da62"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-401b98dd6f306d7a",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-hanako-arasaka-daughter-of-the-emperor",
+      "printingIds": [
+        "cpp-356554cd5d18c511",
+        "cpp-9467665e02c783c1",
+        "cpp-ba1cc3b3a71434af"
+      ],
+      "candidatePrintingIds": [
+        "cpp-356554cd5d18c511",
+        "cpp-9467665e02c783c1",
+        "cpp-ba1cc3b3a71434af"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-e20f3dc0bcb3a8d6",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-hanako-arasaka-in-a-gilded-cage",
+      "printingIds": [
+        "cpp-69799b909712a523",
+        "cpp-707abeae7389be69",
+        "cpp-e70e410751feab65"
+      ],
+      "candidatePrintingIds": [
+        "cpp-69799b909712a523",
+        "cpp-707abeae7389be69",
+        "cpp-e70e410751feab65"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-c6ee9ce2cede0e6e",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-heywood-ripperdoc",
+      "printingIds": [
+        "cpp-3269c7ee898bb9bb",
+        "cpp-4d93b1f7ddb73f4a",
+        "cpp-cc02350936a5ce27",
+        "cpp-e5428fad947da466"
+      ],
+      "candidatePrintingIds": [
+        "cpp-3269c7ee898bb9bb",
+        "cpp-4d93b1f7ddb73f4a",
+        "cpp-cc02350936a5ce27",
+        "cpp-e5428fad947da466"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-1ff682e134f51c4e",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-industrial-assembly",
+      "printingIds": [
+        "cpp-03d6b09216a6137e",
+        "cpp-0b01ab6398a53131",
+        "cpp-2737d5b1d541d6e7",
+        "cpp-90113f15f99edbec",
+        "cpp-cff7231d4983157a"
+      ],
+      "candidatePrintingIds": [
+        "cpp-03d6b09216a6137e",
+        "cpp-0b01ab6398a53131",
+        "cpp-2737d5b1d541d6e7",
+        "cpp-90113f15f99edbec",
+        "cpp-cff7231d4983157a"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-32d076cff08bc0a7",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-jacked-in-voodoo-boy",
+      "printingIds": [
+        "cpp-94febaf4f908774c",
+        "cpp-da388f8d51ce318c"
+      ],
+      "candidatePrintingIds": [
+        "cpp-94febaf4f908774c",
+        "cpp-da388f8d51ce318c"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-d416e0a6aa0f0aad",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-jackie-welles-mama-s-favorite",
+      "printingIds": [
+        "cpp-23c628bffab6b601",
+        "cpp-71e72a5d41466c21",
+        "cpp-94790158e46c6bb8",
+        "cpp-fedbde99d7cbf053"
+      ],
+      "candidatePrintingIds": [
+        "cpp-23c628bffab6b601",
+        "cpp-71e72a5d41466c21",
+        "cpp-94790158e46c6bb8",
+        "cpp-fedbde99d7cbf053"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-36c33b9ea4a65c7f",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-jackie-welles-pour-one-out-for-me",
+      "printingIds": [
+        "cpp-051de654268a7aeb",
+        "cpp-89c1315f56d0aa63",
+        "cpp-bd0ab6102f763890",
+        "cpp-bfb10e0aa37510c7",
+        "cpp-fb9b1b6288b9c64f"
+      ],
+      "candidatePrintingIds": [
+        "cpp-051de654268a7aeb",
+        "cpp-89c1315f56d0aa63",
+        "cpp-bd0ab6102f763890",
+        "cpp-bfb10e0aa37510c7",
+        "cpp-fb9b1b6288b9c64f"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-92be060c257e73fb",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-jackie-welles-ride-or-die-choom",
+      "printingIds": [
+        "cpp-308271ebca6ee75d",
+        "cpp-d54896c353c078f7"
+      ],
+      "candidatePrintingIds": [
+        "cpp-308271ebca6ee75d",
+        "cpp-d54896c353c078f7"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-b4fb2148ad3734a7",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-japantown-jonin",
+      "printingIds": [
+        "cpp-c9d6798e32e92767",
+        "cpp-f4c94a39c5c19477"
+      ],
+      "candidatePrintingIds": [
+        "cpp-c9d6798e32e92767",
+        "cpp-f4c94a39c5c19477"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-0200d445f7f86f0e",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-johnny-silverhand-never-stop-fighting",
+      "printingIds": [
+        "cpp-95a676b10cec7bf3",
+        "cpp-ad4c12d992ca2eb8"
+      ],
+      "candidatePrintingIds": [
+        "cpp-95a676b10cec7bf3",
+        "cpp-ad4c12d992ca2eb8"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-8e8c2be4574876b0",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-johnny-silverhand-rocking-renegade",
+      "printingIds": [
+        "cpp-983be921f146e5aa",
+        "cpp-aad91e09ce70f4e7",
+        "cpp-fb6579c1aa399ca9"
+      ],
+      "candidatePrintingIds": [
+        "cpp-983be921f146e5aa",
+        "cpp-aad91e09ce70f4e7",
+        "cpp-fb6579c1aa399ca9"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-d072ccb2861f2cde",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-judy-alvarez-braindance-maestro",
+      "printingIds": [
+        "cpp-99d7c772b73ea459",
+        "cpp-a0fec5f312f39165",
+        "cpp-ac0d5e2e42a90758",
+        "cpp-effee63a89dd2a7a"
+      ],
+      "candidatePrintingIds": [
+        "cpp-99d7c772b73ea459",
+        "cpp-a0fec5f312f39165",
+        "cpp-ac0d5e2e42a90758",
+        "cpp-effee63a89dd2a7a"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-6c54473e2e0cfe82",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-judy-alvarez-nothing-to-doubt",
+      "printingIds": [
+        "cpp-00f91c72a098f4c6",
+        "cpp-0dceb118ad99cc8f",
+        "cpp-9be3dc9a666eea6d"
+      ],
+      "candidatePrintingIds": [
+        "cpp-00f91c72a098f4c6",
+        "cpp-0dceb118ad99cc8f",
+        "cpp-9be3dc9a666eea6d"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-129da47c21a46b2d",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-kerry-eurodyne-axe-attitude-audience",
+      "printingIds": [
+        "cpp-69585b6cb2f147a5",
+        "cpp-e7cdc75dfad2bf10",
+        "cpp-eda70936c81091c0"
+      ],
+      "candidatePrintingIds": [
+        "cpp-69585b6cb2f147a5",
+        "cpp-e7cdc75dfad2bf10",
+        "cpp-eda70936c81091c0"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-e172d3dcd6e09fbb",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-kerry-eurodyne-the-last-rockerboy",
+      "printingIds": [
+        "cpp-0cae10822d620d4c",
+        "cpp-9547b93680cbb8b7"
+      ],
+      "candidatePrintingIds": [
+        "cpp-0cae10822d620d4c",
+        "cpp-9547b93680cbb8b7"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-7741511960e34cdc",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-kiroshi-optics",
+      "printingIds": [
+        "cpp-27bff1fb13ac9e0c",
+        "cpp-358d67a7335f1ddf",
+        "cpp-4bf9928b9eaad5d5",
+        "cpp-c7e65ab815ac1a49",
+        "cpp-eb439ced9c26677a"
+      ],
+      "candidatePrintingIds": [
+        "cpp-27bff1fb13ac9e0c",
+        "cpp-358d67a7335f1ddf",
+        "cpp-4bf9928b9eaad5d5",
+        "cpp-c7e65ab815ac1a49",
+        "cpp-eb439ced9c26677a"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-87d9e5a45296adf3",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-la-llorona-ghost-of-the-past",
+      "printingIds": [
+        "cpp-483ef8669d87edce",
+        "cpp-d6c71eb1e105f1f2"
+      ],
+      "candidatePrintingIds": [
+        "cpp-483ef8669d87edce",
+        "cpp-d6c71eb1e105f1f2"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-87e3f51c447fb60a",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-les-elemens",
+      "printingIds": [
+        "cpp-4954dc3d5f8bd915",
+        "cpp-6e4d31bea8587fcc"
+      ],
+      "candidatePrintingIds": [
+        "cpp-4954dc3d5f8bd915",
+        "cpp-6e4d31bea8587fcc"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-15e303313299c737",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-live-with-the-aftermath",
+      "printingIds": [
+        "cpp-73a918a4ee46230a",
+        "cpp-fdb2e522620c1831"
+      ],
+      "candidatePrintingIds": [
+        "cpp-73a918a4ee46230a",
+        "cpp-fdb2e522620c1831"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-48d4ddcdfafcd35c",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-lizzy-wizzy-delicate-weapon",
+      "printingIds": [
+        "cpp-726985c2541c8252",
+        "cpp-cb2f33bbe78fcdfb"
+      ],
+      "candidatePrintingIds": [
+        "cpp-726985c2541c8252",
+        "cpp-cb2f33bbe78fcdfb"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-3f84550ea9b1affc",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-maelstrom-goons",
+      "printingIds": [
+        "cpp-0673c7af57068c54",
+        "cpp-b8f89954ac128038"
+      ],
+      "candidatePrintingIds": [
+        "cpp-0673c7af57068c54",
+        "cpp-b8f89954ac128038"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-c97f0661ea23348f",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-maelstrom-zealots",
+      "printingIds": [
+        "cpp-0eb986c8459d91ca",
+        "cpp-f5274f503c96e429"
+      ],
+      "candidatePrintingIds": [
+        "cpp-0eb986c8459d91ca",
+        "cpp-f5274f503c96e429"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-8a2fac3b4ae1f544",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-maman-brigitte-spirit-of-death",
+      "printingIds": [
+        "cpp-83bf929bf0cc525a",
+        "cpp-d4161a4649d4ccce"
+      ],
+      "candidatePrintingIds": [
+        "cpp-83bf929bf0cc525a",
+        "cpp-d4161a4649d4ccce"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-8a5b6fb79bb88e23",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-mandibular-upgrade",
+      "printingIds": [
+        "cpp-33aebb1f68d8181f",
+        "cpp-6d99103d9a5d659a",
+        "cpp-93208a4bf7b3eac4",
+        "cpp-9c807f3e4f6baedf",
+        "cpp-e1574af3d4bb03ee"
+      ],
+      "candidatePrintingIds": [
+        "cpp-33aebb1f68d8181f",
+        "cpp-6d99103d9a5d659a",
+        "cpp-93208a4bf7b3eac4",
+        "cpp-9c807f3e4f6baedf",
+        "cpp-e1574af3d4bb03ee"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-041846c622fd55c0",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-mantis-blades",
+      "printingIds": [
+        "cpp-03290e8752e5e383",
+        "cpp-409e98021d52ce13",
+        "cpp-4f35243029829892",
+        "cpp-514cdefe2f534dc6",
+        "cpp-846545e23d83dce1",
+        "cpp-ccf12e0d6e534d86"
+      ],
+      "candidatePrintingIds": [
+        "cpp-03290e8752e5e383",
+        "cpp-409e98021d52ce13",
+        "cpp-4f35243029829892",
+        "cpp-514cdefe2f534dc6",
+        "cpp-846545e23d83dce1",
+        "cpp-ccf12e0d6e534d86"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-488979f8d1125c1a",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-maxtac-av",
+      "printingIds": [
+        "cpp-76cfb56911184337",
+        "cpp-925ca4ac754c8f37",
+        "cpp-ce261182dfe0b79c",
+        "cpp-dfc60f75efbc0a48"
+      ],
+      "candidatePrintingIds": [
+        "cpp-76cfb56911184337",
+        "cpp-925ca4ac754c8f37",
+        "cpp-ce261182dfe0b79c",
+        "cpp-dfc60f75efbc0a48"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-a2ba849844009da4",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-maxtac-heavy",
+      "printingIds": [
+        "cpp-7d9dab7276c9ad19",
+        "cpp-7f907cb8cc7810eb"
+      ],
+      "candidatePrintingIds": [
+        "cpp-7d9dab7276c9ad19",
+        "cpp-7f907cb8cc7810eb"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-496138215753d6b2",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-maxtac-squadron",
+      "printingIds": [
+        "cpp-11dafc1574948b75",
+        "cpp-60c0459645904c37"
+      ],
+      "candidatePrintingIds": [
+        "cpp-11dafc1574948b75",
+        "cpp-60c0459645904c37"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-0daec165dab1a72d",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-maxtac-suppression-team",
+      "printingIds": [
+        "cpp-48af99413ee2b9de",
+        "cpp-eb65600a3e6706c1"
+      ],
+      "candidatePrintingIds": [
+        "cpp-48af99413ee2b9de",
+        "cpp-eb65600a3e6706c1"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-1387f611935661ba",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-meredith-stout-stone-cold-corpo",
+      "printingIds": [
+        "cpp-ca62ce901d6f65fa",
+        "cpp-f8586c8d6af201e1"
+      ],
+      "candidatePrintingIds": [
+        "cpp-ca62ce901d6f65fa",
+        "cpp-f8586c8d6af201e1"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-61131aa6348c8757",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-minotaur",
+      "printingIds": [
+        "cpp-0ae6eb04a549311c",
+        "cpp-84e9acdbcff49c2c",
+        "cpp-b3672ca0b4ccc812"
+      ],
+      "candidatePrintingIds": [
+        "cpp-0ae6eb04a549311c",
+        "cpp-84e9acdbcff49c2c",
+        "cpp-b3672ca0b4ccc812"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-b68857aaa514be13",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-misty-olszewski-mender-of-broken-spirits",
+      "printingIds": [
+        "cpp-1cfd280cecba09ea",
+        "cpp-333456f171bbaaf2"
+      ],
+      "candidatePrintingIds": [
+        "cpp-1cfd280cecba09ea",
+        "cpp-333456f171bbaaf2"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-51af78a6dc718bc5",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-modded-kusanagi",
+      "printingIds": [
+        "cpp-87bdebc840a44aa4",
+        "cpp-edd0e4489c6e618b"
+      ],
+      "candidatePrintingIds": [
+        "cpp-87bdebc840a44aa4",
+        "cpp-edd0e4489c6e618b"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-1a4cc628104a36b7",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-modded-muramasa",
+      "printingIds": [
+        "cpp-568e0f69e93dee10",
+        "cpp-a7beea5591205534"
+      ],
+      "candidatePrintingIds": [
+        "cpp-568e0f69e93dee10",
+        "cpp-a7beea5591205534"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-26973a26b202370d",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-mox-inciters",
+      "printingIds": [
+        "cpp-28f8c3c44fa5753c",
+        "cpp-50102c200ddc2426"
+      ],
+      "candidatePrintingIds": [
+        "cpp-28f8c3c44fa5753c",
+        "cpp-50102c200ddc2426"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-684a4c286703e20b",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-mt0d12-flathead",
+      "printingIds": [
+        "cpp-006c5ab3b524d821",
+        "cpp-1d1db3259608c313",
+        "cpp-a5aa543f8af65490"
+      ],
+      "candidatePrintingIds": [
+        "cpp-006c5ab3b524d821",
+        "cpp-1d1db3259608c313",
+        "cpp-a5aa543f8af65490"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-925120f59751895d",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-muamar-reyes-el-capitan",
+      "printingIds": [
+        "cpp-5d7b2b63624ae8d0",
+        "cpp-766de3be28b8a7c3",
+        "cpp-eccef983f27ff07a"
+      ],
+      "candidatePrintingIds": [
+        "cpp-5d7b2b63624ae8d0",
+        "cpp-766de3be28b8a7c3",
+        "cpp-eccef983f27ff07a"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-19af955da5e19ea6",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-nadia-fighting-through-grief",
+      "printingIds": [
+        "cpp-1de57a6c7c72c9bf",
+        "cpp-4f9b21ac443463de"
+      ],
+      "candidatePrintingIds": [
+        "cpp-1de57a6c7c72c9bf",
+        "cpp-4f9b21ac443463de"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-0befa094c7821e79",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-netwatch-netdriver",
+      "printingIds": [
+        "cpp-7634b1121bed0285",
+        "cpp-ae887fe7ad55acd8"
+      ],
+      "candidatePrintingIds": [
+        "cpp-7634b1121bed0285",
+        "cpp-ae887fe7ad55acd8"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-5bb49fc6bb6efd1b",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-nocturne-op55-n1",
+      "printingIds": [
+        "cpp-94c7380b71019c41",
+        "cpp-9a22a72ffdb28768"
+      ],
+      "candidatePrintingIds": [
+        "cpp-94c7380b71019c41",
+        "cpp-9a22a72ffdb28768"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-c407e51769e2e54d",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-octant",
+      "printingIds": [
+        "cpp-ab5751a90bce12ac",
+        "cpp-bee8f30173a3b054"
+      ],
+      "candidatePrintingIds": [
+        "cpp-ab5751a90bce12ac",
+        "cpp-bee8f30173a3b054"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-cef7d122e2f624d0",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-offduty-malfini",
+      "printingIds": [
+        "cpp-5a3fffd2b4cbdcab",
+        "cpp-65583317f314b5e9",
+        "cpp-8df637e8d88eef07",
+        "cpp-bdfba5e6be5d0191"
+      ],
+      "candidatePrintingIds": [
+        "cpp-5a3fffd2b4cbdcab",
+        "cpp-65583317f314b5e9",
+        "cpp-8df637e8d88eef07",
+        "cpp-bdfba5e6be5d0191"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-df3848f7527c783e",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-over-the-edge",
+      "printingIds": [
+        "cpp-266f88343f7078f9",
+        "cpp-70944dbe2a428b14",
+        "cpp-765283992edf7a53",
+        "cpp-aee69fd1082109d2",
+        "cpp-cb07e6320cc04c2f"
+      ],
+      "candidatePrintingIds": [
+        "cpp-266f88343f7078f9",
+        "cpp-70944dbe2a428b14",
+        "cpp-765283992edf7a53",
+        "cpp-aee69fd1082109d2",
+        "cpp-cb07e6320cc04c2f"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-a40a7f01db572fdc",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-overwatch-panam-s-gift",
+      "printingIds": [
+        "cpp-1c86c74c40d2184c",
+        "cpp-3c17ceaf89588407",
+        "cpp-a6d4d424b806e506"
+      ],
+      "candidatePrintingIds": [
+        "cpp-1c86c74c40d2184c",
+        "cpp-3c17ceaf89588407",
+        "cpp-a6d4d424b806e506"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-2cfd308769326146",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-pacifica-netrunner",
+      "printingIds": [
+        "cpp-032722a518003b43",
+        "cpp-ef5a1a8db9b52808"
+      ],
+      "candidatePrintingIds": [
+        "cpp-032722a518003b43",
+        "cpp-ef5a1a8db9b52808"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-66fa408a7cde158a",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-padre-man-of-the-cross",
+      "printingIds": [
+        "cpp-133e0ca1d87fbfcb",
+        "cpp-a78f680c0ab895fe",
+        "cpp-d8c8d0b83dfce7f0"
+      ],
+      "candidatePrintingIds": [
+        "cpp-133e0ca1d87fbfcb",
+        "cpp-a78f680c0ab895fe",
+        "cpp-d8c8d0b83dfce7f0"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-408f7f7a14c93bad",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-panam-palmer-nomad-cavalry",
+      "printingIds": [
+        "cpp-0221b3e04b4a81ba",
+        "cpp-a74310684529d97d",
+        "cpp-bde377fd8c27bb06",
+        "cpp-fda2bd51e9b0c9ac"
+      ],
+      "candidatePrintingIds": [
+        "cpp-0221b3e04b4a81ba",
+        "cpp-a74310684529d97d",
+        "cpp-bde377fd8c27bb06",
+        "cpp-fda2bd51e9b0c9ac"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-4fbf091bdc58e78b",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-panam-palmer-strength-through-family",
+      "printingIds": [
+        "cpp-135ac68004e4a078",
+        "cpp-4e759abae11a4428",
+        "cpp-616b00aeba439d76"
+      ],
+      "candidatePrintingIds": [
+        "cpp-135ac68004e4a078",
+        "cpp-4e759abae11a4428",
+        "cpp-616b00aeba439d76"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-ea5a2ad949b928d3",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-peace-offering",
+      "printingIds": [
+        "cpp-5eae5e98367d1823",
+        "cpp-734552d1189ae641"
+      ],
+      "candidatePrintingIds": [
+        "cpp-5eae5e98367d1823",
+        "cpp-734552d1189ae641"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-4d1e26ca8317a6b4",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-pepe-najarro-working-doubles",
+      "printingIds": [
+        "cpp-598a837abe28a565",
+        "cpp-703690aa4591825a"
+      ],
+      "candidatePrintingIds": [
+        "cpp-598a837abe28a565",
+        "cpp-703690aa4591825a"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-7cd795497fe10bd5",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-placide-voodoo-sentinel",
+      "printingIds": [
+        "cpp-1146ee9596d13f7a",
+        "cpp-180078d05370e589"
+      ],
+      "candidatePrintingIds": [
+        "cpp-1146ee9596d13f7a",
+        "cpp-180078d05370e589"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-f32467fb377ebdf7",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-psycho-squad",
+      "printingIds": [
+        "cpp-272727304f25c1f1",
+        "cpp-307407bd47480dbf",
+        "cpp-49239102470acd4d",
+        "cpp-837ec01a96ddd09e",
+        "cpp-e410e6b99e9f357c"
+      ],
+      "candidatePrintingIds": [
+        "cpp-272727304f25c1f1",
+        "cpp-307407bd47480dbf",
+        "cpp-49239102470acd4d",
+        "cpp-837ec01a96ddd09e",
+        "cpp-e410e6b99e9f357c"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-d2d31c155197ea73",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-pyramid-song",
+      "printingIds": [
+        "cpp-3b7b4695442558ee",
+        "cpp-892463bb7f74d732"
+      ],
+      "candidatePrintingIds": [
+        "cpp-3b7b4695442558ee",
+        "cpp-892463bb7f74d732"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-cbbc7fe3377e71c5",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-rebecca-having-a-moment",
+      "printingIds": [
+        "cpp-6263ba43e331461f"
+      ],
+      "candidatePrintingIds": [
+        "cpp-6263ba43e331461f"
+      ],
+      "mode": "exact",
+      "reason": "exact_robust_in_2026_08_28_audit",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "classification": "EXACT_ROBUST",
+        "source": "TCGate checkpoint 3C offline matcher audit"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-72037ade8f2eb24b",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-rebecca-having-a-moment",
+      "printingIds": [
+        "cpp-ccf6800a501ada4b"
+      ],
+      "candidatePrintingIds": [
+        "cpp-ccf6800a501ada4b"
+      ],
+      "mode": "exact",
+      "reason": "exact_robust_in_2026_08_28_audit",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "classification": "EXACT_ROBUST",
+        "source": "TCGate checkpoint 3C offline matcher audit"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-7c9c07faf5b3f360",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-reboot-optics",
+      "printingIds": [
+        "cpp-555830e26b4db745",
+        "cpp-7a5859d950fd65c6",
+        "cpp-a5bb90c669bb6590",
+        "cpp-b4676f85ad1ee16e",
+        "cpp-ffe2a50f1865e83d"
+      ],
+      "candidatePrintingIds": [
+        "cpp-555830e26b4db745",
+        "cpp-7a5859d950fd65c6",
+        "cpp-a5bb90c669bb6590",
+        "cpp-b4676f85ad1ee16e",
+        "cpp-ffe2a50f1865e83d"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-b9c56b8df45aea4b",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-riding-nomad",
+      "printingIds": [
+        "cpp-26d2e82dd10ba521",
+        "cpp-dcef0ee6e8b00ca4"
+      ],
+      "candidatePrintingIds": [
+        "cpp-26d2e82dd10ba521",
+        "cpp-dcef0ee6e8b00ca4"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-c76c700865123eed",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-riot-shield",
+      "printingIds": [
+        "cpp-360da0311dc9267a",
+        "cpp-62372dd2f034bacd"
+      ],
+      "candidatePrintingIds": [
+        "cpp-360da0311dc9267a",
+        "cpp-62372dd2f034bacd"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-82ca39e3efa1bab1",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-rita-wheeler-no-stupid-questions",
+      "printingIds": [
+        "cpp-62251b0366bdde8b",
+        "cpp-6bf00dc7e8bf1208"
+      ],
+      "candidatePrintingIds": [
+        "cpp-62251b0366bdde8b",
+        "cpp-6bf00dc7e8bf1208"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-d9473d2b87028271",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-river-ward-detective-on-the-hunt",
+      "printingIds": [
+        "cpp-1346a40a4077a2b6",
+        "cpp-2be7c57127e1193f",
+        "cpp-b4a6ae1488912a84",
+        "cpp-f657ddf13ba22d79"
+      ],
+      "candidatePrintingIds": [
+        "cpp-1346a40a4077a2b6",
+        "cpp-2be7c57127e1193f",
+        "cpp-b4a6ae1488912a84",
+        "cpp-f657ddf13ba22d79"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-d96f713df8d90093",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-rockn-rockerboy",
+      "printingIds": [
+        "cpp-951ddf4214118162",
+        "cpp-9579e83a3227bd28"
+      ],
+      "candidatePrintingIds": [
+        "cpp-951ddf4214118162",
+        "cpp-9579e83a3227bd28"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-2bccf746f6f1c5b9",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-rogue-amendiares-preem-solo",
+      "printingIds": [
+        "cpp-4f8d00888c1b1f59",
+        "cpp-b6e25ec4b5373869",
+        "cpp-cdf5fa21d429ef17",
+        "cpp-efe544c12c45a8c1"
+      ],
+      "candidatePrintingIds": [
+        "cpp-4f8d00888c1b1f59",
+        "cpp-b6e25ec4b5373869",
+        "cpp-cdf5fa21d429ef17",
+        "cpp-efe544c12c45a8c1"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-5a80871717b78add",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-rogue-amendiares-queen-of-the-afterlife",
+      "printingIds": [
+        "cpp-0d34154d8e518fd2",
+        "cpp-b6048a7ce8ad079c",
+        "cpp-bbbab68f92a3d3ed"
+      ],
+      "candidatePrintingIds": [
+        "cpp-0d34154d8e518fd2",
+        "cpp-b6048a7ce8ad079c",
+        "cpp-bbbab68f92a3d3ed"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-b4ed03c3001fcc73",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-royce-don-t-call-me-simon",
+      "printingIds": [
+        "cpp-64215c21382171c0",
+        "cpp-fd103cdef9cf48c5"
+      ],
+      "candidatePrintingIds": [
+        "cpp-64215c21382171c0",
+        "cpp-fd103cdef9cf48c5"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-d4595171bab5c963",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-royce-psycho-on-the-edge",
+      "printingIds": [
+        "cpp-4d8cb1f2e028d27b",
+        "cpp-6d213cfa534078a1",
+        "cpp-89a834f8afa1dbcd",
+        "cpp-f952962700c37df5"
+      ],
+      "candidatePrintingIds": [
+        "cpp-4d8cb1f2e028d27b",
+        "cpp-6d213cfa534078a1",
+        "cpp-89a834f8afa1dbcd",
+        "cpp-f952962700c37df5"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-dc2f55e274ddf067",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-ruthless-lowlife",
+      "printingIds": [
+        "cpp-260ed0642b12771c",
+        "cpp-8171f19e24af1017",
+        "cpp-d49e05f4f3f7c08d",
+        "cpp-ffa0c5c1ae90fbe3"
+      ],
+      "candidatePrintingIds": [
+        "cpp-260ed0642b12771c",
+        "cpp-8171f19e24af1017",
+        "cpp-d49e05f4f3f7c08d",
+        "cpp-ffa0c5c1ae90fbe3"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-5116c950187ec041",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-saburo-arasaka-stubborn-patriarch",
+      "printingIds": [
+        "cpp-08f3a3d838a0b4fb",
+        "cpp-3b2f06e67090625e",
+        "cpp-479c6982b7ff4f96",
+        "cpp-ba51fc8da355a815",
+        "cpp-cbc69702ebbaf489"
+      ],
+      "candidatePrintingIds": [
+        "cpp-08f3a3d838a0b4fb",
+        "cpp-3b2f06e67090625e",
+        "cpp-479c6982b7ff4f96",
+        "cpp-ba51fc8da355a815",
+        "cpp-cbc69702ebbaf489"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-60dee26d7c90bade",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-safety-override",
+      "printingIds": [
+        "cpp-371ab17cd9e217ec",
+        "cpp-bebee8ba9212f0bc"
+      ],
+      "candidatePrintingIds": [
+        "cpp-371ab17cd9e217ec",
+        "cpp-bebee8ba9212f0bc"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-3f5eeae016721879",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-sandayu-oda-hanako-s-guardian",
+      "printingIds": [
+        "cpp-073710736e7695a5",
+        "cpp-18c5a8956f09d52c",
+        "cpp-ef35751db3ce602a"
+      ],
+      "candidatePrintingIds": [
+        "cpp-073710736e7695a5",
+        "cpp-18c5a8956f09d52c",
+        "cpp-ef35751db3ce602a"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-bf4466f39ec0b120",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-sandevistan",
+      "printingIds": [
+        "cpp-6f91a3cb589a8e82",
+        "cpp-dbeb59958d4314a6",
+        "cpp-f13cc34598f4143f",
+        "cpp-f8f986be36b159dd"
+      ],
+      "candidatePrintingIds": [
+        "cpp-6f91a3cb589a8e82",
+        "cpp-dbeb59958d4314a6",
+        "cpp-f13cc34598f4143f",
+        "cpp-f8f986be36b159dd"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-5e5fe816fa36b17c",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-sasha-yakovleva-won-t-let-you-down",
+      "printingIds": [
+        "cpp-93310c51e1ab876e",
+        "cpp-b2f6f7f08f699546",
+        "cpp-f6683933619efe80"
+      ],
+      "candidatePrintingIds": [
+        "cpp-93310c51e1ab876e",
+        "cpp-b2f6f7f08f699546",
+        "cpp-f6683933619efe80"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-fdcafbe487f5a830",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-satori-sword-of-saburo",
+      "printingIds": [
+        "cpp-3a34504413511fe9",
+        "cpp-6018ea30af7a9b53",
+        "cpp-9358342257b4ebc4",
+        "cpp-cce6c481df036fda",
+        "cpp-e4b922b9ed6031ea"
+      ],
+      "candidatePrintingIds": [
+        "cpp-3a34504413511fe9",
+        "cpp-6018ea30af7a9b53",
+        "cpp-9358342257b4ebc4",
+        "cpp-cce6c481df036fda",
+        "cpp-e4b922b9ed6031ea"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-955b4dfffdfaad62",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-saul-bright-stormrider",
+      "printingIds": [
+        "cpp-af335bd1350da2dd",
+        "cpp-e61841698f774ab9"
+      ],
+      "candidatePrintingIds": [
+        "cpp-af335bd1350da2dd",
+        "cpp-e61841698f774ab9"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-33ed7b90311b65ae",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-screw-lovelorn-fool",
+      "printingIds": [
+        "cpp-10c378f232887a61",
+        "cpp-86d902ed5c1d1f2e"
+      ],
+      "candidatePrintingIds": [
+        "cpp-10c378f232887a61",
+        "cpp-86d902ed5c1d1f2e"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-21b60377d8a94328",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-secondhand-bombus",
+      "printingIds": [
+        "cpp-287bf6c21babb8a4",
+        "cpp-5175fbbae5c4290c",
+        "cpp-722016bfa4ac8a36",
+        "cpp-f058203805ecf3b1",
+        "cpp-f25e9588b83dba71"
+      ],
+      "candidatePrintingIds": [
+        "cpp-287bf6c21babb8a4",
+        "cpp-5175fbbae5c4290c",
+        "cpp-722016bfa4ac8a36",
+        "cpp-f058203805ecf3b1",
+        "cpp-f25e9588b83dba71"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-f7e2ab3d4d785ffe",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-shattered-memories",
+      "printingIds": [
+        "cpp-3c982dedac6aa8e1",
+        "cpp-97c77343abf10a4e",
+        "cpp-afc6a9bf446b9e3f",
+        "cpp-d27bb6b5b5830722"
+      ],
+      "candidatePrintingIds": [
+        "cpp-3c982dedac6aa8e1",
+        "cpp-97c77343abf10a4e",
+        "cpp-afc6a9bf446b9e3f",
+        "cpp-d27bb6b5b5830722"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-e2e9da48705bd0c7",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-sketchy-ripper",
+      "printingIds": [
+        "cpp-47d6c78571ac9ca8",
+        "cpp-7a3ba4284bbc62e6"
+      ],
+      "candidatePrintingIds": [
+        "cpp-47d6c78571ac9ca8",
+        "cpp-7a3ba4284bbc62e6"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-a1d4951700954b11",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-swordwise-huscle",
+      "printingIds": [
+        "cpp-0fa5137e53fee2ef",
+        "cpp-7a54bfb2657fdf82",
+        "cpp-8d5150a466ee0647",
+        "cpp-bce8254066ea3646",
+        "cpp-db89036dc8a0b165"
+      ],
+      "candidatePrintingIds": [
+        "cpp-0fa5137e53fee2ef",
+        "cpp-7a54bfb2657fdf82",
+        "cpp-8d5150a466ee0647",
+        "cpp-bce8254066ea3646",
+        "cpp-db89036dc8a0b165"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-a20bb1725b2eb064",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-synapse-burnout",
+      "printingIds": [
+        "cpp-0b3a05c46f1b6503",
+        "cpp-d7d5b94aa52225d3"
+      ],
+      "candidatePrintingIds": [
+        "cpp-0b3a05c46f1b6503",
+        "cpp-d7d5b94aa52225d3"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-1bf70cf8d08c82a3",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-t-bug-amateur-philosopher",
+      "printingIds": [
+        "cpp-1446fc47d35b5bc5",
+        "cpp-542c68a2f799f104",
+        "cpp-65fee9959efddf6a",
+        "cpp-9711e52cb7c5e7cd"
+      ],
+      "candidatePrintingIds": [
+        "cpp-1446fc47d35b5bc5",
+        "cpp-542c68a2f799f104",
+        "cpp-65fee9959efddf6a",
+        "cpp-9711e52cb7c5e7cd"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-62a6340d774a5eb1",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-take-control",
+      "printingIds": [
+        "cpp-329e45127808123e",
+        "cpp-d37d525dfa3c04b5"
+      ],
+      "candidatePrintingIds": [
+        "cpp-329e45127808123e",
+        "cpp-d37d525dfa3c04b5"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-2b3d1aa277b6761f",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-tetratronic-rippler",
+      "printingIds": [
+        "cpp-2d0127808363b0ca",
+        "cpp-86ef2bcb97f4019c",
+        "cpp-c291fc4d3e00c181",
+        "cpp-ed4be6ed4eac2b57"
+      ],
+      "candidatePrintingIds": [
+        "cpp-2d0127808363b0ca",
+        "cpp-86ef2bcb97f4019c",
+        "cpp-c291fc4d3e00c181",
+        "cpp-ed4be6ed4eac2b57"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-33f0e492910a0719",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-the-heist",
+      "printingIds": [
+        "cpp-935a214855b34ce6",
+        "cpp-d86914fe7d5e9235"
+      ],
+      "candidatePrintingIds": [
+        "cpp-935a214855b34ce6",
+        "cpp-d86914fe7d5e9235"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-3d853b7a921234d4",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-the-relic-experimental-biochip",
+      "printingIds": [
+        "cpp-2017c7a126decd71",
+        "cpp-b0829ed52b2b5105"
+      ],
+      "candidatePrintingIds": [
+        "cpp-2017c7a126decd71",
+        "cpp-b0829ed52b2b5105"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-409abc46922ef053",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-three-mouths-one-desire",
+      "printingIds": [
+        "cpp-6437525418c5bcc7",
+        "cpp-f7d8397b82cecdfb"
+      ],
+      "candidatePrintingIds": [
+        "cpp-6437525418c5bcc7",
+        "cpp-f7d8397b82cecdfb"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-606a58dc870f3165",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-trauma-team-operatives",
+      "printingIds": [
+        "cpp-87c1d0e8c47191f6",
+        "cpp-eb8e45f0acc3a525"
+      ],
+      "candidatePrintingIds": [
+        "cpp-87c1d0e8c47191f6",
+        "cpp-eb8e45f0acc3a525"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-b587e1510c919905",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-trust-no-one",
+      "printingIds": [
+        "cpp-a9a171c7e38178ec",
+        "cpp-ba93bbe4c9d589d5"
+      ],
+      "candidatePrintingIds": [
+        "cpp-a9a171c7e38178ec",
+        "cpp-ba93bbe4c9d589d5"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-b7020d75f8bce140",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-unlikely-bond",
+      "printingIds": [
+        "cpp-dcdc8d429d5331fd",
+        "cpp-eef8f1d28001db6f"
+      ],
+      "candidatePrintingIds": [
+        "cpp-dcdc8d429d5331fd",
+        "cpp-eef8f1d28001db6f"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-5ef14a08eeb03095",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-v-corporate-exile",
+      "printingIds": [
+        "cpp-0bfea2da353580f3",
+        "cpp-3131bc9c206414fe",
+        "cpp-a18df9abe9c2b16d",
+        "cpp-cb75583028994bc3",
+        "cpp-f017c200a38d3bd4"
+      ],
+      "candidatePrintingIds": [
+        "cpp-0bfea2da353580f3",
+        "cpp-3131bc9c206414fe",
+        "cpp-a18df9abe9c2b16d",
+        "cpp-cb75583028994bc3",
+        "cpp-f017c200a38d3bd4"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-398e4944400f586d",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-v-roamer-of-the-badlands",
+      "printingIds": [
+        "cpp-cd5033a60300fee0",
+        "cpp-d7bb62380163393b"
+      ],
+      "candidatePrintingIds": [
+        "cpp-cd5033a60300fee0",
+        "cpp-d7bb62380163393b"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-98f819617bea02b7",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-v-streetkid",
+      "printingIds": [
+        "cpp-5e874ee26873a8c1",
+        "cpp-65ce57629ea9b9f1",
+        "cpp-71f174b24ca73d47",
+        "cpp-a16f6664e470dfdc",
+        "cpp-cf69de231e0a5d29"
+      ],
+      "candidatePrintingIds": [
+        "cpp-5e874ee26873a8c1",
+        "cpp-65ce57629ea9b9f1",
+        "cpp-71f174b24ca73d47",
+        "cpp-a16f6664e470dfdc",
+        "cpp-cf69de231e0a5d29"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-0ba356c89a745b81",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-valentino-guerrera",
+      "printingIds": [
+        "cpp-3fed8313a78d0ff6",
+        "cpp-538b15491a1b8fa2"
+      ],
+      "candidatePrintingIds": [
+        "cpp-3fed8313a78d0ff6",
+        "cpp-538b15491a1b8fa2"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-fd14c494fbec2572",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-valentino-street-racer",
+      "printingIds": [
+        "cpp-e3be2ed0c1eec7dc",
+        "cpp-f59499784035643d"
+      ],
+      "candidatePrintingIds": [
+        "cpp-e3be2ed0c1eec7dc",
+        "cpp-f59499784035643d"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-8967e181b03e16e1",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-viktor-vektor-drop-your-illusions",
+      "printingIds": [
+        "cpp-6951072283168d04",
+        "cpp-eaf7a58af5b99b55"
+      ],
+      "candidatePrintingIds": [
+        "cpp-6951072283168d04",
+        "cpp-eaf7a58af5b99b55"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-82b4bd99f7ffd280",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-viktor-vektor-sit-down-and-relax",
+      "printingIds": [
+        "cpp-02d159a15874e78e",
+        "cpp-19e1a05ecf36ef40",
+        "cpp-23e720f827ef22cf",
+        "cpp-a80da1b6bca84aeb",
+        "cpp-db5e7c731b5f8c6f"
+      ],
+      "candidatePrintingIds": [
+        "cpp-02d159a15874e78e",
+        "cpp-19e1a05ecf36ef40",
+        "cpp-23e720f827ef22cf",
+        "cpp-a80da1b6bca84aeb",
+        "cpp-db5e7c731b5f8c6f"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-a797d61050fd6142",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-viktor-vektor-you-might-feel-a-little-pinch",
+      "printingIds": [
+        "cpp-461b090f895195ca",
+        "cpp-d9de31d8cbd913d2"
+      ],
+      "candidatePrintingIds": [
+        "cpp-461b090f895195ca",
+        "cpp-d9de31d8cbd913d2"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-6db48916c28e0fce",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-wakako-okada-peace-and-harmony",
+      "printingIds": [
+        "cpp-aa00bc6d3d741dc6",
+        "cpp-e630fb858f7b542c"
+      ],
+      "candidatePrintingIds": [
+        "cpp-aa00bc6d3d741dc6",
+        "cpp-e630fb858f7b542c"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-fd8766965855d085",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-westbrook-netrunner",
+      "printingIds": [
+        "cpp-0cac86e75d592211",
+        "cpp-739b8ee7632725c1"
+      ],
+      "candidatePrintingIds": [
+        "cpp-0cac86e75d592211",
+        "cpp-739b8ee7632725c1"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-c35f49ae5f0a29da",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-wild-in-the-streets",
+      "printingIds": [
+        "cpp-bb5a3a3a08ff7cc3",
+        "cpp-dc303c98e28eeed5"
+      ],
+      "candidatePrintingIds": [
+        "cpp-bb5a3a3a08ff7cc3",
+        "cpp-dc303c98e28eeed5"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-0f0afd77161676b9",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-wraith-marauders",
+      "printingIds": [
+        "cpp-7f11fb70f2dffbd8",
+        "cpp-b4c7bd1fc8d07660"
+      ],
+      "candidatePrintingIds": [
+        "cpp-7f11fb70f2dffbd8",
+        "cpp-b4c7bd1fc8d07660"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-4443731b080cc728",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-yorinobu-arasaka-embracing-destruction",
+      "printingIds": [
+        "cpp-1da38af8a879835a",
+        "cpp-74b0f20818534d83",
+        "cpp-7e103c1ba10fa7ef",
+        "cpp-d6e1cdd1927cf886",
+        "cpp-fedb842e7045d811"
+      ],
+      "candidatePrintingIds": [
+        "cpp-1da38af8a879835a",
+        "cpp-74b0f20818534d83",
+        "cpp-7e103c1ba10fa7ef",
+        "cpp-d6e1cdd1927cf886",
+        "cpp-fedb842e7045d811"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-db7fc6598ddb5b7c",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-yorinobu-arasaka-steel-dragon",
+      "printingIds": [
+        "cpp-3150a39e0e47e6d4",
+        "cpp-c9f566dd49c6240a"
+      ],
+      "candidatePrintingIds": [
+        "cpp-3150a39e0e47e6d4",
+        "cpp-c9f566dd49c6240a"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-f080f39411946c48",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-zetatech-berserk",
+      "printingIds": [
+        "cpp-da12d9d3784fe46e",
+        "cpp-dd949a8fa8078e33"
+      ],
+      "candidatePrintingIds": [
+        "cpp-da12d9d3784fe46e",
+        "cpp-dd949a8fa8078e33"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-e6ffe74ad8039c4c",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-zetatech-faceplate",
+      "printingIds": [
+        "cpp-07a5cb0b55970b17",
+        "cpp-58674b48782a968f",
+        "cpp-b3a0a4a14f46206e",
+        "cpp-d75553bf7a19ca7a"
+      ],
+      "candidatePrintingIds": [
+        "cpp-07a5cb0b55970b17",
+        "cpp-58674b48782a968f",
+        "cpp-b3a0a4a14f46206e",
+        "cpp-d75553bf7a19ca7a"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    }
+  ]
+}

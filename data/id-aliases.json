@@ -51,6 +51,17 @@
       "from": "cpp-6e25902a960c3aeb",
       "to": "cpp-ce261182dfe0b79c",
       "reason": "placeholder_card_identity_resolved"
+    },
+    {
+      "from": "legacy-goro-hands-unclean-s002",
+      "to": "cpp-509f743f75700687",
+      "reason": "pixel_identical_official_match",
+      "auditDate": "2026-08-28",
+      "evidence": {
+        "legacyNumber": "S002",
+        "officialPrintingId": "2ba68619-7050-44c5-b0ce-b32d48b8f40f",
+        "pixelComparison": "identical"
+      }
     }
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "recognitionProfiles": [
+    {
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "gameId": "cyberpunk-tcg",
+      "engine": "TCGate Cyberpunk Vision",
+      "descriptorVersion": "v5-fast",
+      "referenceDimensions": {
+        "width": 72,
+        "height": 108
+      },
+      "validatedAt": "2026-08-28",
+      "auditSource": "TCGate checkpoint 3C offline matcher audit",
+      "status": "validated_current_behavior",
+      "scope": {
+        "canonicalCards": 147,
+        "officialPrintings": 436
+      },
+      "productionPolicy": {
+        "exactClassifications": [
+          "EXACT_ROBUST"
+        ],
+        "sharedClassifications": [
+          "EXACT_FRAGILE",
+          "SHARED_VISUAL_IDENTITY",
+          "DISTINCT_ARTWORK"
+        ],
+        "notes": "DISTINCT_ARTWORK remains conservative until its per-printing audit evidence is retained in a versioned source file."
+      }
+    }
+  ]
+}

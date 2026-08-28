@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://tcgate.example/schemas/recognition-profile.schema.json",
+  "title": "TCGate recognition profile",
+  "type": "object",
+  "required": [
+    "recognitionProfileId",
+    "gameId",
+    "engine",
+    "descriptorVersion",
+    "referenceDimensions",
+    "validatedAt",
+    "auditSource",
+    "status"
+  ],
+  "properties": {
+    "recognitionProfileId": {"type": "string", "minLength": 1},
+    "gameId": {"type": "string", "minLength": 1},
+    "engine": {"type": "string", "minLength": 1},
+    "descriptorVersion": {"type": "string", "minLength": 1},
+    "referenceDimensions": {
+      "type": "object",
+      "required": ["width", "height"],
+      "properties": {
+        "width": {"type": "integer", "minimum": 1},
+        "height": {"type": "integer", "minimum": 1}
+      },
+      "additionalProperties": false
+    },
+    "validatedAt": {"type": "string", "format": "date"},
+    "auditSource": {"type": "string", "minLength": 1},
+    "status": {"type": "string", "minLength": 1}
+  },
+  "additionalProperties": true
+}

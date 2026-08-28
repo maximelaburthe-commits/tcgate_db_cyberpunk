@@ -30,6 +30,8 @@ cards = load("data/cards.json")["cards"]
 printings = load("data/printings.json")["printings"]
 sets = load("data/sets.json")["sets"]
 visuals = load("data/visual-identities.json")["visualIdentities"]
+profiles = load("data/recognition-profiles.json")["recognitionProfiles"]
+recognition_groups = load("data/recognition-groups.json")["recognitionGroups"]
 unresolved = load("data/unresolved-printings.json")["printings"]
 aliases = load("data/id-aliases.json")
 errors = []
@@ -116,8 +118,8 @@ for identity in visuals:
         errors.append(f"invalid printing in visual identity {identity.get('visualIdentityId')}")
     if identity["cardId"] not in valid_cards:
         errors.append(f"invalid card in visual identity {identity.get('visualIdentityId')}")
-    if identity["mode"] == "exact_printing" and len(candidates) != 1:
-        errors.append(f"exact visual identity has {len(candidates)} candidates")
+    if identity["mode"] == "intrinsic_face_reference" and len(candidates) != 1:
+        errors.append(f"intrinsic visual reference has {len(candidates)} candidates")
     if identity["mode"] == "shared_visual_identity" and len(candidates) < 2:
         errors.append("shared visual identity must have multiple candidates")
 
@@ -127,16 +129,73 @@ for printing in printings:
     if recognition["enabled"] and recognition.get("visualIdentityId") not in visual_ids:
         errors.append(f"missing visual identity for {printing['printingId']}")
 
+profile_ids = [profile.get("recognitionProfileId") for profile in profiles]
+if not profiles or duplicates(profile_ids):
+    errors.append("recognition profiles must be non-empty and uniquely versioned")
+for profile in profiles:
+    if not profile.get("descriptorVersion") or not profile.get("referenceDimensions") or not profile.get("validatedAt"):
+        errors.append(f"incomplete recognition profile {profile.get('recognitionProfileId')}")
+
+group_ids = [group.get("recognitionGroupId") for group in recognition_groups]
+if duplicates(group_ids): errors.append("duplicate recognitionGroupId")
+assigned = set()
+for group in recognition_groups:
+    ids = group.get("printingIds") or []
+    candidates = group.get("candidatePrintingIds") or []
+    if not ids:
+        errors.append(f"empty recognition group {group.get('recognitionGroupId')}")
+        continue
+    if group.get("recognitionProfileId") not in profile_ids:
+        errors.append(f"unknown profile in {group.get('recognitionGroupId')}")
+    if group.get("mode") not in {"exact", "shared"}:
+        errors.append(f"invalid recognition mode {group.get('recognitionGroupId')}")
+    if group.get("mode") == "exact" and len(ids) != 1:
+        errors.append(f"exact recognition group is not singleton {group.get('recognitionGroupId')}")
+    if set(candidates) != set(ids):
+        errors.append(f"candidatePrintingIds mismatch {group.get('recognitionGroupId')}")
+    if any(pid not in valid_printings for pid in ids + candidates):
+        errors.append(f"unknown printing in recognition group {group.get('recognitionGroupId')}")
+    card_ids_in_group = {printings_by_id[pid]["cardId"] for pid in ids if pid in printings_by_id}
+    if card_ids_in_group != {group.get("cardId")}:
+        errors.append(f"recognition group crosses cardId {group.get('recognitionGroupId')}")
+    for pid in ids:
+        key = (group.get("recognitionProfileId"), pid)
+        if key in assigned:
+            errors.append(f"printing assigned multiple times in profile: {pid}")
+        assigned.add(key)
+expected_assignments = {(profile_ids[0], pid) for pid in valid_printings} if len(profile_ids) == 1 else set()
+if expected_assignments and assigned != expected_assignments:
+    errors.append("recognition groups do not cover every official printing exactly once")
+
+canonical_runtime_path = ROOT / "runtime/canonical-vision-index.json"
+printing_runtime_path = ROOT / "runtime/printing-recognition-index.json"
+runtime_groups_path = ROOT / "runtime/recognition-groups.json"
+if canonical_runtime_path.exists() and printing_runtime_path.exists() and runtime_groups_path.exists():
+    canonical_runtime = load("runtime/canonical-vision-index.json")
+    printing_runtime = load("runtime/printing-recognition-index.json")
+    runtime_groups = load("runtime/recognition-groups.json")
+    canonical_refs = canonical_runtime.get("references") or []
+    if len(canonical_refs) != len(cards) or {ref.get("cardId") for ref in canonical_refs} != valid_cards:
+        errors.append("canonical runtime index must contain one entry per cardId")
+    runtime_cards = printing_runtime.get("cards") or []
+    if {item.get("cardId") for item in runtime_cards} != valid_cards:
+        errors.append("printing recognition runtime index must be partitioned by every cardId")
+    if runtime_groups.get("recognitionGroups") != recognition_groups:
+        errors.append("runtime recognition groups differ from source data")
+
 goro = [p for p in unresolved if p.get("variantKind") == "legacy_unresolved" and p.get("number") == "S002"]
-if len(goro) != 1 or goro[0].get("official") is not False or goro[0].get("officialPrintingId") is not None:
-    errors.append("Goro S002 exception invalid")
+if goro:
+    errors.append("Goro S002 must not remain unresolved")
+goro_alias = [a for a in aliases.get("printings", []) if a.get("from") == "legacy-goro-hands-unclean-s002"]
+if len(goro_alias) != 1 or goro_alias[0].get("to") != "cpp-509f743f75700687" or goro_alias[0].get("reason") != "pixel_identical_official_match" or goro_alias[0].get("auditDate") != "2026-08-28":
+    errors.append("Goro S002 alias invalid")
 lucyna = [p for p in unresolved if p.get("cardId") == "cp-lucyna-kushinada"]
 if len(lucyna) != 1 or lucyna[0].get("snapshotStatus") != "historical_out_of_snapshot":
     errors.append("Lucyna exception invalid")
 if len(aliases.get("cards", [])) != 5:
     errors.append("five placeholder card aliases required")
-if len(aliases.get("printings", [])) != 5:
-    errors.append("five placeholder printing aliases required")
+if len(aliases.get("printings", [])) != 6:
+    errors.append("five placeholder aliases plus Goro printing alias required")
 
 result = {
     "ok": not errors,
@@ -144,7 +203,12 @@ result = {
     "cards": len(cards),
     "officialPrintings": len(printings),
     "visualIdentities": len(visuals),
-    "exactVisualPrintings": sum(v["mode"] == "exact_printing" for v in visuals),
+    "recognitionProfiles": len(profiles),
+    "exactRecognitionGroups": sum(g["mode"] == "exact" for g in recognition_groups),
+    "sharedRecognitionGroups": sum(g["mode"] == "shared" for g in recognition_groups),
+    "exactRecognitionPrintings": sum(len(g["printingIds"]) for g in recognition_groups if g["mode"] == "exact"),
+    "sharedRecognitionPrintings": sum(len(g["printingIds"]) for g in recognition_groups if g["mode"] == "shared"),
+    "intrinsicVisualReferences": sum(v["mode"] == "intrinsic_face_reference" for v in visuals),
     "sharedVisualPrintings": sum(len(v["candidatePrintingIds"]) for v in visuals if v["mode"] == "shared_visual_identity"),
     "sourceImages": sum(bool(p["image"].get("sourceImageUrl")) for p in printings),
     "stableRuntimeAssets": sum(bool(p["image"].get("imageUrl")) for p in printings),

@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://tcgate.example/schemas/recognition-group.schema.json",
+  "title": "TCGate recognition group",
+  "type": "object",
+  "required": [
+    "recognitionGroupId",
+    "recognitionProfileId",
+    "cardId",
+    "printingIds",
+    "candidatePrintingIds",
+    "mode",
+    "reason",
+    "evidence"
+  ],
+  "properties": {
+    "recognitionGroupId": {"type": "string", "pattern": "^cprg-[0-9a-f]{16}$"},
+    "recognitionProfileId": {"type": "string", "minLength": 1},
+    "cardId": {"type": "string", "minLength": 1},
+    "printingIds": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {"type": "string", "minLength": 1}
+    },
+    "candidatePrintingIds": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {"type": "string", "minLength": 1}
+    },
+    "mode": {"enum": ["exact", "shared"]},
+    "reason": {"type": "string", "minLength": 1},
+    "evidence": {
+      "type": "object",
+      "required": ["auditDate", "source"],
+      "properties": {
+        "auditDate": {"type": "string", "format": "date"},
+        "source": {"type": "string", "minLength": 1}
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": false
+}

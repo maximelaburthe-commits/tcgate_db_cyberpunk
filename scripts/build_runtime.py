@@ -16,6 +16,8 @@ def dump(path, value):
 cards = load("data/cards.json")["cards"]
 printings = load("data/printings.json")["printings"]
 visuals = load("data/visual-identities.json")["visualIdentities"]
+profiles = load("data/recognition-profiles.json")["recognitionProfiles"]
+recognition_groups = load("data/recognition-groups.json")["recognitionGroups"]
 sets = load("data/sets.json")
 
 runtime_cards = []
@@ -62,15 +64,15 @@ vision = []
 for identity in visuals:
     candidates = identity["candidatePrintingIds"]
     first = by_printing[candidates[0]]
-    exact = identity["mode"] == "exact_printing" and len(candidates) == 1
+    singleton = len(candidates) == 1
     vision.append({
         "visualIdentityId": identity["visualIdentityId"],
         "cardId": identity["cardId"],
-        "printingId": candidates[0] if exact else None,
+        "printingId": candidates[0] if singleton else None,
         "candidatePrintingIds": candidates,
-        "recognitionMode": "exact_printing" if exact else "shared_visual_identity",
+        "recognitionMode": "legacy_reference",
         "referenceImageUrl": identity["referenceImageUrl"],
-        "printing_id": candidates[0] if exact else identity["visualIdentityId"],
+        "printing_id": candidates[0] if singleton else identity["visualIdentityId"],
         "card_id": identity["cardId"],
         "name": card_names[identity["cardId"]],
         "set_id": first["setId"],
@@ -83,11 +85,66 @@ for identity in visuals:
 dump("runtime/cards.min.json", runtime_cards)
 dump("runtime/printings.min.json", runtime_printings)
 dump("runtime/vision-index.json", vision)
+canonical_by_card = {}
+for entry in vision:
+    canonical_by_card.setdefault(entry["cardId"], {
+        "cardId": entry["cardId"],
+        "visualIdentityId": entry["visualIdentityId"],
+        "referenceImageUrl": entry["referenceImageUrl"],
+        "name": entry["name"],
+        "assetStatus": "stable_runtime",
+    })
+for card in cards:
+    if card["cardId"] in canonical_by_card:
+        continue
+    primary = by_printing[card["primaryPrintingId"]]
+    canonical_by_card[card["cardId"]] = {
+        "cardId": card["cardId"],
+        "visualIdentityId": None,
+        "referenceImageUrl": primary["image"]["imageUrl"],
+        "name": card["name"],
+        "assetStatus": primary["image"]["status"],
+    }
+canonical_index = {
+    "recognitionProfileId": profiles[0]["recognitionProfileId"],
+    "stage": "canonical_card",
+    "references": [canonical_by_card[card["cardId"]] for card in cards],
+}
+printing_index = {
+    "recognitionProfileId": profiles[0]["recognitionProfileId"],
+    "stage": "printing_within_card",
+    "cards": [],
+}
+for card_id in sorted({group["cardId"] for group in recognition_groups}):
+    groups = []
+    for group in recognition_groups:
+        if group["cardId"] != card_id:
+            continue
+        groups.append({
+            **group,
+            "references": [
+                {
+                    "printingId": printing_id,
+                    "referenceImageUrl": by_printing[printing_id]["image"]["imageUrl"],
+                    "assetStatus": by_printing[printing_id]["image"]["status"],
+                }
+                for printing_id in group["printingIds"]
+            ],
+        })
+    printing_index["cards"].append({"cardId": card_id, "recognitionGroups": groups})
+dump("runtime/canonical-vision-index.json", canonical_index)
+dump("runtime/printing-recognition-index.json", printing_index)
+dump("runtime/recognition-groups.json", {
+    "recognitionProfileId": profiles[0]["recognitionProfileId"],
+    "recognitionGroups": recognition_groups,
+})
 dump("runtime/asset-manifest.json", {"assets": asset_manifest})
 dump("sets.json", sets)
 print(json.dumps({
     "runtimeCards": len(runtime_cards),
     "runtimePrintings": len(runtime_printings),
     "visionEntries": len(vision),
+    "canonicalVisionReferences": len(canonical_index["references"]),
+    "recognitionGroups": len(recognition_groups),
     "stableRuntimeAssets": sum(bool(a["imageUrl"]) for a in asset_manifest),
 }, indent=2))

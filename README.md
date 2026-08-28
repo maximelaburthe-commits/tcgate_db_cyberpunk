@@ -9,8 +9,11 @@ Independent Cyberpunk TCG data package. The active official snapshot is
 - `officialCardId` is the official `cb-*` identity.
 - `printingId` is TCGate's stable physical-printing identity.
 - `officialPrintingId` is the official printing UUID.
-- `visualIdentityId` describes an artwork/face that Vision can actually
-  distinguish. It never merges physical printings.
+- `visualIdentityId` describes an intrinsic artwork/face reference. It does
+  not claim that a particular matcher can distinguish a physical printing.
+- `recognitionProfileId` versions the audited Vision engine and descriptor.
+- `recognitionGroupId` records which printings that profile can safely return
+  exactly or must expose as candidates of a shared result.
 
 Official source images are provenance (`sourceImageUrl`). Only controlled,
 stable assets may appear in `imageUrl`. The current snapshot deliberately has
@@ -23,10 +26,22 @@ Canonical data lives in `data/`. Generated consumer files live in `runtime/`:
 - `runtime/cards.min.json`
 - `runtime/printings.min.json`
 - `runtime/vision-index.json`
+- `runtime/canonical-vision-index.json` (stage 1: `cardId`)
+- `runtime/printing-recognition-index.json` (stage 2: candidates within one `cardId`)
+- `runtime/recognition-groups.json`
 - `runtime/asset-manifest.json`
 
-Goro Hands Unclean S002 and Lucyna PRM-N001 are retained explicitly in
-`data/unresolved-printings.json` and excluded from the official 436 count.
+Goro Hands Unclean S002 is retained as a documented legacy alias of official
+printing `cpp-509f743f75700687`; it does not create a 437th printing. Lucyna
+PRM-N001 remains `historical_out_of_snapshot` in
+`data/unresolved-printings.json` and is excluded from the 147/436 snapshot.
+
+## Asset direction
+
+Display assets and Vision references remain independent from recognition
+groups. An ambiguous group never replaces each printing's own future image.
+No official image corpus is committed yet; `sourceImageUrl` remains provenance
+and `imageUrl` remains reserved for controlled, stable assets.
 
 ## Rebuild and validation
 
