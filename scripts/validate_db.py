@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
+import hashlib
 import json
 import re
 import sys
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
+
+from PIL import Image
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -32,9 +35,25 @@ sets = load("data/sets.json")["sets"]
 visuals = load("data/visual-identities.json")["visualIdentities"]
 profiles = load("data/recognition-profiles.json")["recognitionProfiles"]
 recognition_groups = load("data/recognition-groups.json")["recognitionGroups"]
+asset_metadata = load("data/asset-metadata.json")["assets"]
 unresolved = load("data/unresolved-printings.json")["printings"]
 aliases = load("data/id-aliases.json")
 errors = []
+
+
+def file_sha256(path):
+    digest = hashlib.sha256()
+    with path.open("rb") as handle:
+        for chunk in iter(lambda: handle.read(1024 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
+
+
+def valid_asset_path(value, expected_prefix):
+    if not isinstance(value, str) or not value.startswith(expected_prefix) or "\\" in value:
+        return False
+    path = Path(value)
+    return not path.is_absolute() and ".." not in path.parts and path.suffix.lower() == ".webp"
 
 card_ids = [c.get("cardId") for c in cards]
 official_card_ids = [c.get("officialCardId") for c in cards]
@@ -100,15 +119,76 @@ for printing in printings:
     image = printing["image"]
     if not image.get("sourceImageUrl"):
         errors.append(f"missing sourceImageUrl {printing['printingId']}")
-    runtime_url = image.get("imageUrl")
-    if runtime_url:
-        query = {key.lower() for key in parse_qs(urlparse(runtime_url).query)}
-        signed = {"expires", "signature", "key-pair-id", "x-amz-signature", "x-amz-expires"}
-        if query & signed:
-            errors.append(f"temporary signed imageUrl {printing['printingId']}")
+    display_path = image.get("displayAssetPath")
+    vision_path = image.get("visionAssetPath")
+    if not valid_asset_path(display_path, "assets/display/"):
+        errors.append(f"invalid displayAssetPath {printing['printingId']}")
+    if not valid_asset_path(vision_path, "assets/vision/"):
+        errors.append(f"invalid visionAssetPath {printing['printingId']}")
     recognition = printing["recognition"]
-    if recognition["enabled"] and not runtime_url:
+    if recognition["enabled"] and not vision_path:
         errors.append(f"recognition without stable image {printing['printingId']}")
+
+asset_by_printing = {asset.get("printingId"): asset for asset in asset_metadata}
+if len(asset_metadata) != 436 or len(asset_by_printing) != 436:
+    errors.append("asset metadata must contain 436 unique printings")
+expected_display_paths = set()
+expected_vision_paths = set()
+for printing_id in valid_printings:
+    asset = asset_by_printing.get(printing_id)
+    if not asset:
+        errors.append(f"missing asset metadata {printing_id}")
+        continue
+    printing = printings_by_id[printing_id]
+    if asset.get("officialPrintingId") != printing["officialPrintingId"] or asset.get("cardId") != printing["cardId"]:
+        errors.append(f"asset identity mismatch {printing_id}")
+    for kind, prefix in (("display", "assets/display/"), ("vision", "assets/vision/")):
+        item = asset.get(kind) or {}
+        relative = item.get("path")
+        if not valid_asset_path(relative, prefix):
+            errors.append(f"invalid {kind} metadata path {printing_id}")
+            continue
+        expected_display_paths.add(relative) if kind == "display" else expected_vision_paths.add(relative)
+        path = ROOT / relative
+        if not path.is_file():
+            errors.append(f"missing {kind} asset {printing_id}")
+            continue
+        if item.get("mimeType") != "image/webp":
+            errors.append(f"invalid {kind} MIME {printing_id}")
+        actual_hash = file_sha256(path)
+        if not re.fullmatch(r"[0-9a-f]{64}", item.get("sha256") or "") or actual_hash != item.get("sha256"):
+            errors.append(f"invalid {kind} SHA-256 {printing_id}")
+        if path.stat().st_size != item.get("bytes"):
+            errors.append(f"invalid {kind} byte size {printing_id}")
+        with Image.open(path) as image_file:
+            if image_file.format != "WEBP" or list(image_file.size) != [item.get("width"), item.get("height")]:
+                errors.append(f"invalid {kind} dimensions/format {printing_id}")
+    if asset["vision"].get("sourceDisplaySha256") != asset["display"].get("sha256"):
+        errors.append(f"vision source hash mismatch {printing_id}")
+    image = printing["image"]
+    if image.get("displayAssetPath") != asset["display"]["path"] or image.get("visionAssetPath") != asset["vision"]["path"]:
+        errors.append(f"printing asset path mismatch {printing_id}")
+    if image.get("displaySha256") != asset["display"]["sha256"] or image.get("visionSha256") != asset["vision"]["sha256"]:
+        errors.append(f"printing asset hash mismatch {printing_id}")
+
+actual_display_paths = {path.relative_to(ROOT).as_posix() for path in (ROOT / "assets/display").glob("*.webp")}
+actual_vision_paths = {path.relative_to(ROOT).as_posix() for path in (ROOT / "assets/vision").glob("*.webp")}
+if actual_display_paths != expected_display_paths:
+    errors.append("missing or orphan display assets")
+if actual_vision_paths != expected_vision_paths:
+    errors.append("missing or orphan vision assets")
+
+signed_pattern = re.compile(r"(?:Signature|Policy|Key-Pair-Id|X-Amz-Signature|X-Amz-Expires)=", re.I)
+scan_paths = [ROOT / "README.md", ROOT / "manifest.json", ROOT / "db-manifest.json"]
+for folder in ("data", "runtime", "sources"):
+    scan_paths.extend((ROOT / folder).rglob("*.json"))
+for path in scan_paths:
+    text = path.read_text(encoding="utf-8")
+    if signed_pattern.search(text):
+        errors.append(f"signed URL persisted in {path.relative_to(ROOT)}")
+for path in (ROOT / "runtime").rglob("*.json"):
+    if "punksim.net" in path.read_text(encoding="utf-8").lower():
+        errors.append(f"runtime punksim dependency in {path.relative_to(ROOT)}")
 
 for identity in visuals:
     candidates = identity.get("candidatePrintingIds") or []
@@ -211,7 +291,9 @@ result = {
     "intrinsicVisualReferences": sum(v["mode"] == "intrinsic_face_reference" for v in visuals),
     "sharedVisualPrintings": sum(len(v["candidatePrintingIds"]) for v in visuals if v["mode"] == "shared_visual_identity"),
     "sourceImages": sum(bool(p["image"].get("sourceImageUrl")) for p in printings),
-    "stableRuntimeAssets": sum(bool(p["image"].get("imageUrl")) for p in printings),
+    "stableRuntimeAssets": sum(bool(p["image"].get("displayAssetPath") and p["image"].get("visionAssetPath")) for p in printings),
+    "displayAssets": len(actual_display_paths),
+    "visionAssets": len(actual_vision_paths),
     "unresolved": len(unresolved),
     "errors": errors,
 }

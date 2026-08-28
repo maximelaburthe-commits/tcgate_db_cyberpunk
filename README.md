@@ -15,9 +15,11 @@ Independent Cyberpunk TCG data package. The active official snapshot is
 - `recognitionGroupId` records which printings that profile can safely return
   exactly or must expose as candidates of a shared result.
 
-Official source images are provenance (`sourceImageUrl`). Only controlled,
-stable assets may appear in `imageUrl`. The current snapshot deliberately has
-436 source images but only 133 stable runtime/Vision assets.
+Official source images are provenance (`sourceImageUrl`). Runtime consumers use
+relative `displayAssetPath` and `visionAssetPath` values, resolved against the
+database package base URL. No printing embeds a GitHub/CDN distribution URL.
+The current snapshot contains 436 stable display assets and 436 stable Vision
+derivatives.
 
 ## Data and runtime
 
@@ -40,8 +42,32 @@ PRM-N001 remains `historical_out_of_snapshot` in
 
 Display assets and Vision references remain independent from recognition
 groups. An ambiguous group never replaces each printing's own future image.
-No official image corpus is committed yet; `sourceImageUrl` remains provenance
-and `imageUrl` remains reserved for controlled, stable assets.
+`sourceImageUrl` remains provenance and may require a temporary official
+signature. Signed URLs are never persisted. Historical punksim URLs may remain
+in source data as provenance only; no runtime JSON depends on punksim.
+
+### Asset ingestion
+
+Asset ingestion is an explicit online maintenance operation and is never part
+of the normal build or CI:
+
+```bash
+python scripts/ingest_assets.py
+```
+
+Display files preserve the official WEBP bytes. Vision files are generated
+deterministically with Pillow 12.3.0: RGB conversion, no crop, aspect-ratio
+preserving Lanczos resize into a maximum 512×716 box, then lossy WEBP quality
+80, method 6, `exact=True`. Current 733×1024 sources produce 512×715 Vision
+files. Re-running the local derivation must reproduce identical SHA-256 values:
+
+```bash
+python scripts/ingest_assets.py --offline-verify-vision
+```
+
+Existing official bytes are never overwritten silently. A changed source
+raises `SOURCE_ASSET_CHANGED`; accepting it requires the explicit
+`--replace-existing` maintenance option and a reviewed snapshot/asset update.
 
 ## Rebuild and validation
 

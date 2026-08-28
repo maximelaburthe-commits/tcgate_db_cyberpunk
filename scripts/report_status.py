@@ -17,4 +17,4 @@ print(f"Official printings: {len(printings)}/{meta['expectedOfficialPrintings']}
 print(f"Visual identities: {len(visuals)}")
 print(f"Recognition profiles: {len(profiles)}")
 print(f"Recognition groups: {len(groups)} ({sum(g['mode'] == 'exact' for g in groups)} exact, {sum(g['mode'] == 'shared' for g in groups)} shared)")
-print(f"Stable runtime assets: {sum(bool(p['image']['imageUrl']) for p in printings)}")
+print(f"Stable local display/Vision assets: {sum(bool(p['image']['displayAssetPath'] and p['image']['visionAssetPath']) for p in printings)}")

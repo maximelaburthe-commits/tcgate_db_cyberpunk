@@ -16,10 +16,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - run: python -m pip install -r requirements.txt
       - run: python scripts/validate_db.py
       - run: python scripts/test_recognition_model.py
+      - run: python scripts/test_assets.py
       - run: python scripts/build_runtime.py
       - run: python scripts/validate_db.py
       - run: python scripts/test_recognition_model.py
+      - run: python scripts/test_assets.py
       - name: Require reproducible runtime outputs
         run: git diff --exit-code -- runtime

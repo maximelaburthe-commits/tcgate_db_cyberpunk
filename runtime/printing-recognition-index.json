@@ -27,13 +27,15 @@
           "references": [
             {
               "printingId": "cpp-90f146ec20a44e39",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-90f146ec20a44e39.webp",
+              "visionAssetPath": "assets/vision/cpp-90f146ec20a44e39.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-b7acab3fc10ef1bb",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-006.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-b7acab3fc10ef1bb.webp",
+              "visionAssetPath": "assets/vision/cpp-b7acab3fc10ef1bb.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -62,8 +64,9 @@
           "references": [
             {
               "printingId": "cpp-9f886af4075b6e9c",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-9f886af4075b6e9c.webp",
+              "visionAssetPath": "assets/vision/cpp-9f886af4075b6e9c.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         },
@@ -93,23 +96,27 @@
           "references": [
             {
               "printingId": "cpp-0c4d5b62f83947af",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-0c4d5b62f83947af.webp",
+              "visionAssetPath": "assets/vision/cpp-0c4d5b62f83947af.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-bc221071b29f2a98",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-001.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-bc221071b29f2a98.webp",
+              "visionAssetPath": "assets/vision/cpp-bc221071b29f2a98.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-bec13059d093b5a4",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-bec13059d093b5a4.webp",
+              "visionAssetPath": "assets/vision/cpp-bec13059d093b5a4.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-fff81bae871b83ec",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-fff81bae871b83ec.webp",
+              "visionAssetPath": "assets/vision/cpp-fff81bae871b83ec.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -142,18 +149,21 @@
           "references": [
             {
               "printingId": "cpp-6442a83577ad7411",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-041.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-6442a83577ad7411.webp",
+              "visionAssetPath": "assets/vision/cpp-6442a83577ad7411.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-d6010bbf2e2db17e",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-d6010bbf2e2db17e.webp",
+              "visionAssetPath": "assets/vision/cpp-d6010bbf2e2db17e.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-da46cce396eab392",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-da46cce396eab392.webp",
+              "visionAssetPath": "assets/vision/cpp-da46cce396eab392.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -184,13 +194,15 @@
           "references": [
             {
               "printingId": "cpp-635676a1780a1b99",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-059.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-635676a1780a1b99.webp",
+              "visionAssetPath": "assets/vision/cpp-635676a1780a1b99.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-847b9c89f75480ec",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-847b9c89f75480ec.webp",
+              "visionAssetPath": "assets/vision/cpp-847b9c89f75480ec.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -227,28 +239,33 @@
           "references": [
             {
               "printingId": "cpp-66122f1a59400546",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-66122f1a59400546.webp",
+              "visionAssetPath": "assets/vision/cpp-66122f1a59400546.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-a10bbe5aee93b5cd",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-a10bbe5aee93b5cd.webp",
+              "visionAssetPath": "assets/vision/cpp-a10bbe5aee93b5cd.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-a86d67874ca62e37",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-a86d67874ca62e37.webp",
+              "visionAssetPath": "assets/vision/cpp-a86d67874ca62e37.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-fc2ad7f7e1b129df",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-fc2ad7f7e1b129df.webp",
+              "visionAssetPath": "assets/vision/cpp-fc2ad7f7e1b129df.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-fff0889dad6834ee",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-065.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-fff0889dad6834ee.webp",
+              "visionAssetPath": "assets/vision/cpp-fff0889dad6834ee.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -279,13 +296,15 @@
           "references": [
             {
               "printingId": "cpp-60c0b05d9f2c81fb",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-027.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-60c0b05d9f2c81fb.webp",
+              "visionAssetPath": "assets/vision/cpp-60c0b05d9f2c81fb.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-a90b84997c367fca",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-a90b84997c367fca.webp",
+              "visionAssetPath": "assets/vision/cpp-a90b84997c367fca.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -318,18 +337,21 @@
           "references": [
             {
               "printingId": "cpp-3fabf6939f81b8ee",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-3fabf6939f81b8ee.webp",
+              "visionAssetPath": "assets/vision/cpp-3fabf6939f81b8ee.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-4aa54fc326f170f1",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-4aa54fc326f170f1.webp",
+              "visionAssetPath": "assets/vision/cpp-4aa54fc326f170f1.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-dad875e1132131df",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-042.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-dad875e1132131df.webp",
+              "visionAssetPath": "assets/vision/cpp-dad875e1132131df.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -364,23 +386,27 @@
           "references": [
             {
               "printingId": "cpp-32bdcdaf7564468c",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-32bdcdaf7564468c.webp",
+              "visionAssetPath": "assets/vision/cpp-32bdcdaf7564468c.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-92a25d343e3eef9d",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-92a25d343e3eef9d.webp",
+              "visionAssetPath": "assets/vision/cpp-92a25d343e3eef9d.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-a43c6e72edfd89f2",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-a43c6e72edfd89f2.webp",
+              "visionAssetPath": "assets/vision/cpp-a43c6e72edfd89f2.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-c6f6801f7e5aa26d",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-106.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-c6f6801f7e5aa26d.webp",
+              "visionAssetPath": "assets/vision/cpp-c6f6801f7e5aa26d.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -411,13 +437,15 @@
           "references": [
             {
               "printingId": "cpp-a3b00d354871a647",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-a3b00d354871a647.webp",
+              "visionAssetPath": "assets/vision/cpp-a3b00d354871a647.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-c16f37f3b7592e1c",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-007.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-c16f37f3b7592e1c.webp",
+              "visionAssetPath": "assets/vision/cpp-c16f37f3b7592e1c.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -448,13 +476,15 @@
           "references": [
             {
               "printingId": "cpp-294fb00e21c65ff1",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-294fb00e21c65ff1.webp",
+              "visionAssetPath": "assets/vision/cpp-294fb00e21c65ff1.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-b3d58c9c658a53d9",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-028.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-b3d58c9c658a53d9.webp",
+              "visionAssetPath": "assets/vision/cpp-b3d58c9c658a53d9.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -489,23 +519,27 @@
           "references": [
             {
               "printingId": "cpp-493bd499b1ea5a55",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-493bd499b1ea5a55.webp",
+              "visionAssetPath": "assets/vision/cpp-493bd499b1ea5a55.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-a5255cfc741c10d2",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-a5255cfc741c10d2.webp",
+              "visionAssetPath": "assets/vision/cpp-a5255cfc741c10d2.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-bb5b599fe74859d8",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-bb5b599fe74859d8.webp",
+              "visionAssetPath": "assets/vision/cpp-bb5b599fe74859d8.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-d5439afadfbc53e0",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-d5439afadfbc53e0.webp",
+              "visionAssetPath": "assets/vision/cpp-d5439afadfbc53e0.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -536,13 +570,15 @@
           "references": [
             {
               "printingId": "cpp-1c43d2759b58ae15",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-1c43d2759b58ae15.webp",
+              "visionAssetPath": "assets/vision/cpp-1c43d2759b58ae15.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-8930003633e80a21",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-043.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-8930003633e80a21.webp",
+              "visionAssetPath": "assets/vision/cpp-8930003633e80a21.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -573,13 +609,15 @@
           "references": [
             {
               "printingId": "cpp-6faba96157c02dbe",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-6faba96157c02dbe.webp",
+              "visionAssetPath": "assets/vision/cpp-6faba96157c02dbe.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-f1cc59a0c16f7ddb",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-029.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-f1cc59a0c16f7ddb.webp",
+              "visionAssetPath": "assets/vision/cpp-f1cc59a0c16f7ddb.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -610,13 +648,15 @@
           "references": [
             {
               "printingId": "cpp-6284ade0464122b3",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-6284ade0464122b3.webp",
+              "visionAssetPath": "assets/vision/cpp-6284ade0464122b3.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-c46bb2b72d5b6957",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-066.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-c46bb2b72d5b6957.webp",
+              "visionAssetPath": "assets/vision/cpp-c46bb2b72d5b6957.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -647,13 +687,15 @@
           "references": [
             {
               "printingId": "cpp-1ee9ad55bb635df7",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-044.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-1ee9ad55bb635df7.webp",
+              "visionAssetPath": "assets/vision/cpp-1ee9ad55bb635df7.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-3fd49d361a4ef00a",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-3fd49d361a4ef00a.webp",
+              "visionAssetPath": "assets/vision/cpp-3fd49d361a4ef00a.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -684,13 +726,15 @@
           "references": [
             {
               "printingId": "cpp-2e3c3117220fc4e3",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-2e3c3117220fc4e3.webp",
+              "visionAssetPath": "assets/vision/cpp-2e3c3117220fc4e3.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-af82a28bed35b8ad",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-030.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-af82a28bed35b8ad.webp",
+              "visionAssetPath": "assets/vision/cpp-af82a28bed35b8ad.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -725,23 +769,27 @@
           "references": [
             {
               "printingId": "cpp-bf8e56e69d83d96f",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-bf8e56e69d83d96f.webp",
+              "visionAssetPath": "assets/vision/cpp-bf8e56e69d83d96f.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-cb443df51c7db098",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-cb443df51c7db098.webp",
+              "visionAssetPath": "assets/vision/cpp-cb443df51c7db098.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-e2a41e1c160c0f0d",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-e2a41e1c160c0f0d.webp",
+              "visionAssetPath": "assets/vision/cpp-e2a41e1c160c0f0d.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-f2122604133d9980",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-f2122604133d9980.webp",
+              "visionAssetPath": "assets/vision/cpp-f2122604133d9980.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -772,13 +820,15 @@
           "references": [
             {
               "printingId": "cpp-b53086ed2b56a516",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-b53086ed2b56a516.webp",
+              "visionAssetPath": "assets/vision/cpp-b53086ed2b56a516.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-bca4c8ccddf27e99",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-131.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-bca4c8ccddf27e99.webp",
+              "visionAssetPath": "assets/vision/cpp-bca4c8ccddf27e99.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -815,28 +865,33 @@
           "references": [
             {
               "printingId": "cpp-0a27bbc4f72ecccf",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-0a27bbc4f72ecccf.webp",
+              "visionAssetPath": "assets/vision/cpp-0a27bbc4f72ecccf.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-1420fbeaffbd172a",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-076.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-1420fbeaffbd172a.webp",
+              "visionAssetPath": "assets/vision/cpp-1420fbeaffbd172a.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-1bc151d1a8968fbd",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-1bc151d1a8968fbd.webp",
+              "visionAssetPath": "assets/vision/cpp-1bc151d1a8968fbd.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-5aec11b6d1c4785f",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-5aec11b6d1c4785f.webp",
+              "visionAssetPath": "assets/vision/cpp-5aec11b6d1c4785f.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-8c1898b061a004af",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-8c1898b061a004af.webp",
+              "visionAssetPath": "assets/vision/cpp-8c1898b061a004af.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -873,28 +928,33 @@
           "references": [
             {
               "printingId": "cpp-736abbcf091be70a",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-736abbcf091be70a.webp",
+              "visionAssetPath": "assets/vision/cpp-736abbcf091be70a.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-962cda86aaa3db43",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-962cda86aaa3db43.webp",
+              "visionAssetPath": "assets/vision/cpp-962cda86aaa3db43.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-c153cf99d095ad0e",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-c153cf99d095ad0e.webp",
+              "visionAssetPath": "assets/vision/cpp-c153cf99d095ad0e.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-e75869a9d9b71f34",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-e75869a9d9b71f34.webp",
+              "visionAssetPath": "assets/vision/cpp-e75869a9d9b71f34.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-ff4e1430790eceab",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-097.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-ff4e1430790eceab.webp",
+              "visionAssetPath": "assets/vision/cpp-ff4e1430790eceab.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -925,13 +985,15 @@
           "references": [
             {
               "printingId": "cpp-881d3f2ece459583",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-067.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-881d3f2ece459583.webp",
+              "visionAssetPath": "assets/vision/cpp-881d3f2ece459583.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-dd60fbd3b8fcda15",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-dd60fbd3b8fcda15.webp",
+              "visionAssetPath": "assets/vision/cpp-dd60fbd3b8fcda15.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -962,13 +1024,15 @@
           "references": [
             {
               "printingId": "cpp-072bd01f8830b9ce",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-072bd01f8830b9ce.webp",
+              "visionAssetPath": "assets/vision/cpp-072bd01f8830b9ce.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-994b0d73889d38c6",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-024.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-994b0d73889d38c6.webp",
+              "visionAssetPath": "assets/vision/cpp-994b0d73889d38c6.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -1005,28 +1069,33 @@
           "references": [
             {
               "printingId": "cpp-077861a5ffc1f7a5",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-112.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-077861a5ffc1f7a5.webp",
+              "visionAssetPath": "assets/vision/cpp-077861a5ffc1f7a5.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-49528ff9b7ab6e47",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-49528ff9b7ab6e47.webp",
+              "visionAssetPath": "assets/vision/cpp-49528ff9b7ab6e47.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-53067ca754da54c0",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-53067ca754da54c0.webp",
+              "visionAssetPath": "assets/vision/cpp-53067ca754da54c0.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-6e57d7449a9cdd7d",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-6e57d7449a9cdd7d.webp",
+              "visionAssetPath": "assets/vision/cpp-6e57d7449a9cdd7d.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-8e98e9ece808b0c3",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-8e98e9ece808b0c3.webp",
+              "visionAssetPath": "assets/vision/cpp-8e98e9ece808b0c3.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -1057,13 +1126,15 @@
           "references": [
             {
               "printingId": "cpp-03ee5f74a55d9337",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-111.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-03ee5f74a55d9337.webp",
+              "visionAssetPath": "assets/vision/cpp-03ee5f74a55d9337.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-d381b3057b88c8b1",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-d381b3057b88c8b1.webp",
+              "visionAssetPath": "assets/vision/cpp-d381b3057b88c8b1.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -1094,13 +1165,15 @@
           "references": [
             {
               "printingId": "cpp-62225092172d629f",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-62225092172d629f.webp",
+              "visionAssetPath": "assets/vision/cpp-62225092172d629f.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-898b21a61328fa44",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-898b21a61328fa44.webp",
+              "visionAssetPath": "assets/vision/cpp-898b21a61328fa44.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -1133,18 +1206,21 @@
           "references": [
             {
               "printingId": "cpp-5168504edacfb5e4",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-5168504edacfb5e4.webp",
+              "visionAssetPath": "assets/vision/cpp-5168504edacfb5e4.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-58ee257b9e125fdc",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-58ee257b9e125fdc.webp",
+              "visionAssetPath": "assets/vision/cpp-58ee257b9e125fdc.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-88020317eb7d199d",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-88020317eb7d199d.webp",
+              "visionAssetPath": "assets/vision/cpp-88020317eb7d199d.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -1177,18 +1253,21 @@
           "references": [
             {
               "printingId": "cpp-b2fb59cf51b9bef0",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-b2fb59cf51b9bef0.webp",
+              "visionAssetPath": "assets/vision/cpp-b2fb59cf51b9bef0.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-baf78e9d0e876e98",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-baf78e9d0e876e98.webp",
+              "visionAssetPath": "assets/vision/cpp-baf78e9d0e876e98.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-cb7cd38e6925a981",
-              "referenceImageUrl": "https://punksim.net/images/HEIST-002.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-cb7cd38e6925a981.webp",
+              "visionAssetPath": "assets/vision/cpp-cb7cd38e6925a981.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -1219,13 +1298,15 @@
           "references": [
             {
               "printingId": "cpp-c2ef667cfaab84ad",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-098.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-c2ef667cfaab84ad.webp",
+              "visionAssetPath": "assets/vision/cpp-c2ef667cfaab84ad.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-ddb147631cf61283",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-ddb147631cf61283.webp",
+              "visionAssetPath": "assets/vision/cpp-ddb147631cf61283.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -1260,23 +1341,27 @@
           "references": [
             {
               "printingId": "cpp-58499b097b5947b8",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-58499b097b5947b8.webp",
+              "visionAssetPath": "assets/vision/cpp-58499b097b5947b8.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-59c021d8a29b8aaa",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-036.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-59c021d8a29b8aaa.webp",
+              "visionAssetPath": "assets/vision/cpp-59c021d8a29b8aaa.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-8305407ddc77541b",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-8305407ddc77541b.webp",
+              "visionAssetPath": "assets/vision/cpp-8305407ddc77541b.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-c19028c81d2e6887",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-c19028c81d2e6887.webp",
+              "visionAssetPath": "assets/vision/cpp-c19028c81d2e6887.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -1313,28 +1398,33 @@
           "references": [
             {
               "printingId": "cpp-3dbb1307e69c7bf8",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-128.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-3dbb1307e69c7bf8.webp",
+              "visionAssetPath": "assets/vision/cpp-3dbb1307e69c7bf8.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-522980d176de412b",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-522980d176de412b.webp",
+              "visionAssetPath": "assets/vision/cpp-522980d176de412b.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-7783e274e89b1580",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-7783e274e89b1580.webp",
+              "visionAssetPath": "assets/vision/cpp-7783e274e89b1580.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-7ed8790d0bef52a0",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-7ed8790d0bef52a0.webp",
+              "visionAssetPath": "assets/vision/cpp-7ed8790d0bef52a0.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-f910e1b78717ae64",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-f910e1b78717ae64.webp",
+              "visionAssetPath": "assets/vision/cpp-f910e1b78717ae64.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -1365,13 +1455,15 @@
           "references": [
             {
               "printingId": "cpp-beb5eda82a011afa",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-beb5eda82a011afa.webp",
+              "visionAssetPath": "assets/vision/cpp-beb5eda82a011afa.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-ddcc6a14f47e78d4",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-009.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-ddcc6a14f47e78d4.webp",
+              "visionAssetPath": "assets/vision/cpp-ddcc6a14f47e78d4.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -1408,28 +1500,33 @@
           "references": [
             {
               "printingId": "cpp-067773ff49018f26",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-067773ff49018f26.webp",
+              "visionAssetPath": "assets/vision/cpp-067773ff49018f26.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-1671037d24cc8ab9",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-1671037d24cc8ab9.webp",
+              "visionAssetPath": "assets/vision/cpp-1671037d24cc8ab9.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-28ef3290ed3507c2",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-28ef3290ed3507c2.webp",
+              "visionAssetPath": "assets/vision/cpp-28ef3290ed3507c2.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-6682d11a7a1c5617",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-6682d11a7a1c5617.webp",
+              "visionAssetPath": "assets/vision/cpp-6682d11a7a1c5617.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-e390a3303b82fc1e",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-077.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-e390a3303b82fc1e.webp",
+              "visionAssetPath": "assets/vision/cpp-e390a3303b82fc1e.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -1462,18 +1559,21 @@
           "references": [
             {
               "printingId": "cpp-135b165212dee6ae",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-135b165212dee6ae.webp",
+              "visionAssetPath": "assets/vision/cpp-135b165212dee6ae.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-162f9e74580f40b5",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-107.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-162f9e74580f40b5.webp",
+              "visionAssetPath": "assets/vision/cpp-162f9e74580f40b5.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-b5dd52e5eddd0410",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-b5dd52e5eddd0410.webp",
+              "visionAssetPath": "assets/vision/cpp-b5dd52e5eddd0410.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -1510,28 +1610,33 @@
           "references": [
             {
               "printingId": "cpp-2836a07f6d1d0a2d",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-2836a07f6d1d0a2d.webp",
+              "visionAssetPath": "assets/vision/cpp-2836a07f6d1d0a2d.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-62ff44d4600c9b40",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-62ff44d4600c9b40.webp",
+              "visionAssetPath": "assets/vision/cpp-62ff44d4600c9b40.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-94a4cf961a2fb801",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-94a4cf961a2fb801.webp",
+              "visionAssetPath": "assets/vision/cpp-94a4cf961a2fb801.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-d89087b7af84e213",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-113.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-d89087b7af84e213.webp",
+              "visionAssetPath": "assets/vision/cpp-d89087b7af84e213.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-f1ab2dba2797ce5c",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-f1ab2dba2797ce5c.webp",
+              "visionAssetPath": "assets/vision/cpp-f1ab2dba2797ce5c.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -1568,28 +1673,33 @@
           "references": [
             {
               "printingId": "cpp-472e174b010fe873",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-472e174b010fe873.webp",
+              "visionAssetPath": "assets/vision/cpp-472e174b010fe873.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-6a58110f46ef9c08",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-6a58110f46ef9c08.webp",
+              "visionAssetPath": "assets/vision/cpp-6a58110f46ef9c08.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-8214425ccd0d0ad3",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-078.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-8214425ccd0d0ad3.webp",
+              "visionAssetPath": "assets/vision/cpp-8214425ccd0d0ad3.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-af9be021156e3295",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-af9be021156e3295.webp",
+              "visionAssetPath": "assets/vision/cpp-af9be021156e3295.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-c7eba74ce1b673dc",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-c7eba74ce1b673dc.webp",
+              "visionAssetPath": "assets/vision/cpp-c7eba74ce1b673dc.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -1626,28 +1736,33 @@
           "references": [
             {
               "printingId": "cpp-06e49ee00eb09af2",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-06e49ee00eb09af2.webp",
+              "visionAssetPath": "assets/vision/cpp-06e49ee00eb09af2.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-240f8ed0f0318360",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-132.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-240f8ed0f0318360.webp",
+              "visionAssetPath": "assets/vision/cpp-240f8ed0f0318360.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-32456a93b0f48ec4",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-32456a93b0f48ec4.webp",
+              "visionAssetPath": "assets/vision/cpp-32456a93b0f48ec4.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-4b553731c3f879df",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-4b553731c3f879df.webp",
+              "visionAssetPath": "assets/vision/cpp-4b553731c3f879df.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-720ff9f5340043c9",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-720ff9f5340043c9.webp",
+              "visionAssetPath": "assets/vision/cpp-720ff9f5340043c9.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -1678,13 +1793,15 @@
           "references": [
             {
               "printingId": "cpp-58580f561e8e0eb1",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-099.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-58580f561e8e0eb1.webp",
+              "visionAssetPath": "assets/vision/cpp-58580f561e8e0eb1.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-f657b00aad9cc8b5",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-f657b00aad9cc8b5.webp",
+              "visionAssetPath": "assets/vision/cpp-f657b00aad9cc8b5.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -1715,13 +1832,15 @@
           "references": [
             {
               "printingId": "cpp-a55c215000f1e37d",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-a55c215000f1e37d.webp",
+              "visionAssetPath": "assets/vision/cpp-a55c215000f1e37d.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-c2e8bf355b238fd6",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-045.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-c2e8bf355b238fd6.webp",
+              "visionAssetPath": "assets/vision/cpp-c2e8bf355b238fd6.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -1752,13 +1871,15 @@
           "references": [
             {
               "printingId": "cpp-2fd333942ecb0bbb",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-060.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-2fd333942ecb0bbb.webp",
+              "visionAssetPath": "assets/vision/cpp-2fd333942ecb0bbb.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-d05cf8c3411da91a",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-d05cf8c3411da91a.webp",
+              "visionAssetPath": "assets/vision/cpp-d05cf8c3411da91a.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -1795,28 +1916,33 @@
           "references": [
             {
               "printingId": "cpp-3a9ae1f43f810252",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-3a9ae1f43f810252.webp",
+              "visionAssetPath": "assets/vision/cpp-3a9ae1f43f810252.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-509f743f75700687",
-              "referenceImageUrl": "https://punksim.net/images/EP-012.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-509f743f75700687.webp",
+              "visionAssetPath": "assets/vision/cpp-509f743f75700687.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-a47f2b5a15a4498c",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-a47f2b5a15a4498c.webp",
+              "visionAssetPath": "assets/vision/cpp-a47f2b5a15a4498c.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-b954ed5775551783",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-b954ed5775551783.webp",
+              "visionAssetPath": "assets/vision/cpp-b954ed5775551783.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-cb9e7896a1e8b01a",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-cb9e7896a1e8b01a.webp",
+              "visionAssetPath": "assets/vision/cpp-cb9e7896a1e8b01a.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -1849,18 +1975,21 @@
           "references": [
             {
               "printingId": "cpp-8aab2feb4dd7d9cd",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-8aab2feb4dd7d9cd.webp",
+              "visionAssetPath": "assets/vision/cpp-8aab2feb4dd7d9cd.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-a1e87522d2bc9270",
-              "referenceImageUrl": "https://punksim.net/images/EP-017.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-a1e87522d2bc9270.webp",
+              "visionAssetPath": "assets/vision/cpp-a1e87522d2bc9270.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-fa7618b9563b825e",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-fa7618b9563b825e.webp",
+              "visionAssetPath": "assets/vision/cpp-fa7618b9563b825e.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -1895,23 +2024,27 @@
           "references": [
             {
               "printingId": "cpp-53ac81560c2fd488",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-53ac81560c2fd488.webp",
+              "visionAssetPath": "assets/vision/cpp-53ac81560c2fd488.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-5b9f67492d1d4225",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-5b9f67492d1d4225.webp",
+              "visionAssetPath": "assets/vision/cpp-5b9f67492d1d4225.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-8b51b3dce986e893",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-071.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-8b51b3dce986e893.webp",
+              "visionAssetPath": "assets/vision/cpp-8b51b3dce986e893.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-aeec368bfa1b3fbd",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-aeec368bfa1b3fbd.webp",
+              "visionAssetPath": "assets/vision/cpp-aeec368bfa1b3fbd.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -1942,13 +2075,15 @@
           "references": [
             {
               "printingId": "cpp-72e0d75d59f262aa",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-72e0d75d59f262aa.webp",
+              "visionAssetPath": "assets/vision/cpp-72e0d75d59f262aa.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-fd8cbfd1e939ef45",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-032.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-fd8cbfd1e939ef45.webp",
+              "visionAssetPath": "assets/vision/cpp-fd8cbfd1e939ef45.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -1979,13 +2114,15 @@
           "references": [
             {
               "printingId": "cpp-ceab0ea9b2c9af4d",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-114.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-ceab0ea9b2c9af4d.webp",
+              "visionAssetPath": "assets/vision/cpp-ceab0ea9b2c9af4d.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-f3661e44ed34da62",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-f3661e44ed34da62.webp",
+              "visionAssetPath": "assets/vision/cpp-f3661e44ed34da62.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2018,18 +2155,21 @@
           "references": [
             {
               "printingId": "cpp-356554cd5d18c511",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-072.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-356554cd5d18c511.webp",
+              "visionAssetPath": "assets/vision/cpp-356554cd5d18c511.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-9467665e02c783c1",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-9467665e02c783c1.webp",
+              "visionAssetPath": "assets/vision/cpp-9467665e02c783c1.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-ba1cc3b3a71434af",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-ba1cc3b3a71434af.webp",
+              "visionAssetPath": "assets/vision/cpp-ba1cc3b3a71434af.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2062,18 +2202,21 @@
           "references": [
             {
               "printingId": "cpp-69799b909712a523",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-046.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-69799b909712a523.webp",
+              "visionAssetPath": "assets/vision/cpp-69799b909712a523.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-707abeae7389be69",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-707abeae7389be69.webp",
+              "visionAssetPath": "assets/vision/cpp-707abeae7389be69.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-e70e410751feab65",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-e70e410751feab65.webp",
+              "visionAssetPath": "assets/vision/cpp-e70e410751feab65.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2108,23 +2251,27 @@
           "references": [
             {
               "printingId": "cpp-3269c7ee898bb9bb",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-3269c7ee898bb9bb.webp",
+              "visionAssetPath": "assets/vision/cpp-3269c7ee898bb9bb.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-4d93b1f7ddb73f4a",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-4d93b1f7ddb73f4a.webp",
+              "visionAssetPath": "assets/vision/cpp-4d93b1f7ddb73f4a.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-cc02350936a5ce27",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-cc02350936a5ce27.webp",
+              "visionAssetPath": "assets/vision/cpp-cc02350936a5ce27.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-e5428fad947da466",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-e5428fad947da466.webp",
+              "visionAssetPath": "assets/vision/cpp-e5428fad947da466.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2161,28 +2308,33 @@
           "references": [
             {
               "printingId": "cpp-03d6b09216a6137e",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-033.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-03d6b09216a6137e.webp",
+              "visionAssetPath": "assets/vision/cpp-03d6b09216a6137e.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-0b01ab6398a53131",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-0b01ab6398a53131.webp",
+              "visionAssetPath": "assets/vision/cpp-0b01ab6398a53131.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-2737d5b1d541d6e7",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-2737d5b1d541d6e7.webp",
+              "visionAssetPath": "assets/vision/cpp-2737d5b1d541d6e7.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-90113f15f99edbec",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-90113f15f99edbec.webp",
+              "visionAssetPath": "assets/vision/cpp-90113f15f99edbec.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-cff7231d4983157a",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-cff7231d4983157a.webp",
+              "visionAssetPath": "assets/vision/cpp-cff7231d4983157a.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2213,13 +2365,15 @@
           "references": [
             {
               "printingId": "cpp-94febaf4f908774c",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-94febaf4f908774c.webp",
+              "visionAssetPath": "assets/vision/cpp-94febaf4f908774c.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-da388f8d51ce318c",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-115.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-da388f8d51ce318c.webp",
+              "visionAssetPath": "assets/vision/cpp-da388f8d51ce318c.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2254,23 +2408,27 @@
           "references": [
             {
               "printingId": "cpp-23c628bffab6b601",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-073.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-23c628bffab6b601.webp",
+              "visionAssetPath": "assets/vision/cpp-23c628bffab6b601.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-71e72a5d41466c21",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-71e72a5d41466c21.webp",
+              "visionAssetPath": "assets/vision/cpp-71e72a5d41466c21.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-94790158e46c6bb8",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-94790158e46c6bb8.webp",
+              "visionAssetPath": "assets/vision/cpp-94790158e46c6bb8.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-fedbde99d7cbf053",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-fedbde99d7cbf053.webp",
+              "visionAssetPath": "assets/vision/cpp-fedbde99d7cbf053.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2307,28 +2465,33 @@
           "references": [
             {
               "printingId": "cpp-051de654268a7aeb",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-051de654268a7aeb.webp",
+              "visionAssetPath": "assets/vision/cpp-051de654268a7aeb.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-89c1315f56d0aa63",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-89c1315f56d0aa63.webp",
+              "visionAssetPath": "assets/vision/cpp-89c1315f56d0aa63.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-bd0ab6102f763890",
-              "referenceImageUrl": "https://punksim.net/images/HEIST-011.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-bd0ab6102f763890.webp",
+              "visionAssetPath": "assets/vision/cpp-bd0ab6102f763890.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-bfb10e0aa37510c7",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-bfb10e0aa37510c7.webp",
+              "visionAssetPath": "assets/vision/cpp-bfb10e0aa37510c7.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-fb9b1b6288b9c64f",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-fb9b1b6288b9c64f.webp",
+              "visionAssetPath": "assets/vision/cpp-fb9b1b6288b9c64f.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2359,13 +2522,15 @@
           "references": [
             {
               "printingId": "cpp-308271ebca6ee75d",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-048.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-308271ebca6ee75d.webp",
+              "visionAssetPath": "assets/vision/cpp-308271ebca6ee75d.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-d54896c353c078f7",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-d54896c353c078f7.webp",
+              "visionAssetPath": "assets/vision/cpp-d54896c353c078f7.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2396,13 +2561,15 @@
           "references": [
             {
               "printingId": "cpp-c9d6798e32e92767",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-c9d6798e32e92767.webp",
+              "visionAssetPath": "assets/vision/cpp-c9d6798e32e92767.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-f4c94a39c5c19477",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-010.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-f4c94a39c5c19477.webp",
+              "visionAssetPath": "assets/vision/cpp-f4c94a39c5c19477.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2433,13 +2600,15 @@
           "references": [
             {
               "printingId": "cpp-95a676b10cec7bf3",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-95a676b10cec7bf3.webp",
+              "visionAssetPath": "assets/vision/cpp-95a676b10cec7bf3.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-ad4c12d992ca2eb8",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-011.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-ad4c12d992ca2eb8.webp",
+              "visionAssetPath": "assets/vision/cpp-ad4c12d992ca2eb8.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2472,18 +2641,21 @@
           "references": [
             {
               "printingId": "cpp-983be921f146e5aa",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-983be921f146e5aa.webp",
+              "visionAssetPath": "assets/vision/cpp-983be921f146e5aa.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-aad91e09ce70f4e7",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-aad91e09ce70f4e7.webp",
+              "visionAssetPath": "assets/vision/cpp-aad91e09ce70f4e7.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-fb6579c1aa399ca9",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-003.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-fb6579c1aa399ca9.webp",
+              "visionAssetPath": "assets/vision/cpp-fb6579c1aa399ca9.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2518,23 +2690,27 @@
           "references": [
             {
               "printingId": "cpp-99d7c772b73ea459",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-99d7c772b73ea459.webp",
+              "visionAssetPath": "assets/vision/cpp-99d7c772b73ea459.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-a0fec5f312f39165",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-a0fec5f312f39165.webp",
+              "visionAssetPath": "assets/vision/cpp-a0fec5f312f39165.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-ac0d5e2e42a90758",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-108.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-ac0d5e2e42a90758.webp",
+              "visionAssetPath": "assets/vision/cpp-ac0d5e2e42a90758.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-effee63a89dd2a7a",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-effee63a89dd2a7a.webp",
+              "visionAssetPath": "assets/vision/cpp-effee63a89dd2a7a.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2567,18 +2743,21 @@
           "references": [
             {
               "printingId": "cpp-00f91c72a098f4c6",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-00f91c72a098f4c6.webp",
+              "visionAssetPath": "assets/vision/cpp-00f91c72a098f4c6.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-0dceb118ad99cc8f",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-0dceb118ad99cc8f.webp",
+              "visionAssetPath": "assets/vision/cpp-0dceb118ad99cc8f.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-9be3dc9a666eea6d",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-116.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-9be3dc9a666eea6d.webp",
+              "visionAssetPath": "assets/vision/cpp-9be3dc9a666eea6d.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2611,18 +2790,21 @@
           "references": [
             {
               "printingId": "cpp-69585b6cb2f147a5",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-037.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-69585b6cb2f147a5.webp",
+              "visionAssetPath": "assets/vision/cpp-69585b6cb2f147a5.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-e7cdc75dfad2bf10",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-e7cdc75dfad2bf10.webp",
+              "visionAssetPath": "assets/vision/cpp-e7cdc75dfad2bf10.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-eda70936c81091c0",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-eda70936c81091c0.webp",
+              "visionAssetPath": "assets/vision/cpp-eda70936c81091c0.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2653,13 +2835,15 @@
           "references": [
             {
               "printingId": "cpp-0cae10822d620d4c",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-0cae10822d620d4c.webp",
+              "visionAssetPath": "assets/vision/cpp-0cae10822d620d4c.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-9547b93680cbb8b7",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-012.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-9547b93680cbb8b7.webp",
+              "visionAssetPath": "assets/vision/cpp-9547b93680cbb8b7.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2696,28 +2880,33 @@
           "references": [
             {
               "printingId": "cpp-27bff1fb13ac9e0c",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-27bff1fb13ac9e0c.webp",
+              "visionAssetPath": "assets/vision/cpp-27bff1fb13ac9e0c.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-358d67a7335f1ddf",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-358d67a7335f1ddf.webp",
+              "visionAssetPath": "assets/vision/cpp-358d67a7335f1ddf.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-4bf9928b9eaad5d5",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-4bf9928b9eaad5d5.webp",
+              "visionAssetPath": "assets/vision/cpp-4bf9928b9eaad5d5.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-c7e65ab815ac1a49",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-c7e65ab815ac1a49.webp",
+              "visionAssetPath": "assets/vision/cpp-c7e65ab815ac1a49.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-eb439ced9c26677a",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-061.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-eb439ced9c26677a.webp",
+              "visionAssetPath": "assets/vision/cpp-eb439ced9c26677a.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2748,13 +2937,15 @@
           "references": [
             {
               "printingId": "cpp-483ef8669d87edce",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-013.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-483ef8669d87edce.webp",
+              "visionAssetPath": "assets/vision/cpp-483ef8669d87edce.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-d6c71eb1e105f1f2",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-d6c71eb1e105f1f2.webp",
+              "visionAssetPath": "assets/vision/cpp-d6c71eb1e105f1f2.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2785,13 +2976,15 @@
           "references": [
             {
               "printingId": "cpp-4954dc3d5f8bd915",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-4954dc3d5f8bd915.webp",
+              "visionAssetPath": "assets/vision/cpp-4954dc3d5f8bd915.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-6e4d31bea8587fcc",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-133.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-6e4d31bea8587fcc.webp",
+              "visionAssetPath": "assets/vision/cpp-6e4d31bea8587fcc.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2822,13 +3015,15 @@
           "references": [
             {
               "printingId": "cpp-73a918a4ee46230a",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-068.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-73a918a4ee46230a.webp",
+              "visionAssetPath": "assets/vision/cpp-73a918a4ee46230a.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-fdb2e522620c1831",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-fdb2e522620c1831.webp",
+              "visionAssetPath": "assets/vision/cpp-fdb2e522620c1831.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2859,13 +3054,15 @@
           "references": [
             {
               "printingId": "cpp-726985c2541c8252",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-726985c2541c8252.webp",
+              "visionAssetPath": "assets/vision/cpp-726985c2541c8252.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-cb2f33bbe78fcdfb",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-117.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-cb2f33bbe78fcdfb.webp",
+              "visionAssetPath": "assets/vision/cpp-cb2f33bbe78fcdfb.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2896,13 +3093,15 @@
           "references": [
             {
               "printingId": "cpp-0673c7af57068c54",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-049.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-0673c7af57068c54.webp",
+              "visionAssetPath": "assets/vision/cpp-0673c7af57068c54.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-b8f89954ac128038",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-b8f89954ac128038.webp",
+              "visionAssetPath": "assets/vision/cpp-b8f89954ac128038.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2933,13 +3132,15 @@
           "references": [
             {
               "printingId": "cpp-0eb986c8459d91ca",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-079.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-0eb986c8459d91ca.webp",
+              "visionAssetPath": "assets/vision/cpp-0eb986c8459d91ca.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-f5274f503c96e429",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-f5274f503c96e429.webp",
+              "visionAssetPath": "assets/vision/cpp-f5274f503c96e429.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -2970,13 +3171,15 @@
           "references": [
             {
               "printingId": "cpp-83bf929bf0cc525a",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-83bf929bf0cc525a.webp",
+              "visionAssetPath": "assets/vision/cpp-83bf929bf0cc525a.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-d4161a4649d4ccce",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-118.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-d4161a4649d4ccce.webp",
+              "visionAssetPath": "assets/vision/cpp-d4161a4649d4ccce.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3013,28 +3216,33 @@
           "references": [
             {
               "printingId": "cpp-33aebb1f68d8181f",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-33aebb1f68d8181f.webp",
+              "visionAssetPath": "assets/vision/cpp-33aebb1f68d8181f.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-6d99103d9a5d659a",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-6d99103d9a5d659a.webp",
+              "visionAssetPath": "assets/vision/cpp-6d99103d9a5d659a.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-93208a4bf7b3eac4",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-93208a4bf7b3eac4.webp",
+              "visionAssetPath": "assets/vision/cpp-93208a4bf7b3eac4.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-9c807f3e4f6baedf",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-9c807f3e4f6baedf.webp",
+              "visionAssetPath": "assets/vision/cpp-9c807f3e4f6baedf.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-e1574af3d4bb03ee",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-062.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-e1574af3d4bb03ee.webp",
+              "visionAssetPath": "assets/vision/cpp-e1574af3d4bb03ee.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3073,33 +3281,39 @@
           "references": [
             {
               "printingId": "cpp-03290e8752e5e383",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-03290e8752e5e383.webp",
+              "visionAssetPath": "assets/vision/cpp-03290e8752e5e383.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-409e98021d52ce13",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-409e98021d52ce13.webp",
+              "visionAssetPath": "assets/vision/cpp-409e98021d52ce13.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-4f35243029829892",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-4f35243029829892.webp",
+              "visionAssetPath": "assets/vision/cpp-4f35243029829892.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-514cdefe2f534dc6",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-025.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-514cdefe2f534dc6.webp",
+              "visionAssetPath": "assets/vision/cpp-514cdefe2f534dc6.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-846545e23d83dce1",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-846545e23d83dce1.webp",
+              "visionAssetPath": "assets/vision/cpp-846545e23d83dce1.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-ccf12e0d6e534d86",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-ccf12e0d6e534d86.webp",
+              "visionAssetPath": "assets/vision/cpp-ccf12e0d6e534d86.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3134,23 +3348,27 @@
           "references": [
             {
               "printingId": "cpp-76cfb56911184337",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-76cfb56911184337.webp",
+              "visionAssetPath": "assets/vision/cpp-76cfb56911184337.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-925ca4ac754c8f37",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-925ca4ac754c8f37.webp",
+              "visionAssetPath": "assets/vision/cpp-925ca4ac754c8f37.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-ce261182dfe0b79c",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-ce261182dfe0b79c.webp",
+              "visionAssetPath": "assets/vision/cpp-ce261182dfe0b79c.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-dfc60f75efbc0a48",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-dfc60f75efbc0a48.webp",
+              "visionAssetPath": "assets/vision/cpp-dfc60f75efbc0a48.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3181,13 +3399,15 @@
           "references": [
             {
               "printingId": "cpp-7d9dab7276c9ad19",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-7d9dab7276c9ad19.webp",
+              "visionAssetPath": "assets/vision/cpp-7d9dab7276c9ad19.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-7f907cb8cc7810eb",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-7f907cb8cc7810eb.webp",
+              "visionAssetPath": "assets/vision/cpp-7f907cb8cc7810eb.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3218,13 +3438,15 @@
           "references": [
             {
               "printingId": "cpp-11dafc1574948b75",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-11dafc1574948b75.webp",
+              "visionAssetPath": "assets/vision/cpp-11dafc1574948b75.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-60c0459645904c37",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-082.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-60c0459645904c37.webp",
+              "visionAssetPath": "assets/vision/cpp-60c0459645904c37.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3255,13 +3477,15 @@
           "references": [
             {
               "printingId": "cpp-48af99413ee2b9de",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-48af99413ee2b9de.webp",
+              "visionAssetPath": "assets/vision/cpp-48af99413ee2b9de.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-eb65600a3e6706c1",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-050.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-eb65600a3e6706c1.webp",
+              "visionAssetPath": "assets/vision/cpp-eb65600a3e6706c1.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3292,13 +3516,15 @@
           "references": [
             {
               "printingId": "cpp-ca62ce901d6f65fa",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-014.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-ca62ce901d6f65fa.webp",
+              "visionAssetPath": "assets/vision/cpp-ca62ce901d6f65fa.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-f8586c8d6af201e1",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-f8586c8d6af201e1.webp",
+              "visionAssetPath": "assets/vision/cpp-f8586c8d6af201e1.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3331,18 +3557,21 @@
           "references": [
             {
               "printingId": "cpp-0ae6eb04a549311c",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-0ae6eb04a549311c.webp",
+              "visionAssetPath": "assets/vision/cpp-0ae6eb04a549311c.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-84e9acdbcff49c2c",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-84e9acdbcff49c2c.webp",
+              "visionAssetPath": "assets/vision/cpp-84e9acdbcff49c2c.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-b3672ca0b4ccc812",
-              "referenceImageUrl": "https://punksim.net/images/EP-003.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-b3672ca0b4ccc812.webp",
+              "visionAssetPath": "assets/vision/cpp-b3672ca0b4ccc812.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3373,13 +3602,15 @@
           "references": [
             {
               "printingId": "cpp-1cfd280cecba09ea",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-119.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-1cfd280cecba09ea.webp",
+              "visionAssetPath": "assets/vision/cpp-1cfd280cecba09ea.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-333456f171bbaaf2",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-333456f171bbaaf2.webp",
+              "visionAssetPath": "assets/vision/cpp-333456f171bbaaf2.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3410,13 +3641,15 @@
           "references": [
             {
               "printingId": "cpp-87bdebc840a44aa4",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-120.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-87bdebc840a44aa4.webp",
+              "visionAssetPath": "assets/vision/cpp-87bdebc840a44aa4.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-edd0e4489c6e618b",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-edd0e4489c6e618b.webp",
+              "visionAssetPath": "assets/vision/cpp-edd0e4489c6e618b.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3447,13 +3680,15 @@
           "references": [
             {
               "printingId": "cpp-568e0f69e93dee10",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-568e0f69e93dee10.webp",
+              "visionAssetPath": "assets/vision/cpp-568e0f69e93dee10.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-a7beea5591205534",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-121.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-a7beea5591205534.webp",
+              "visionAssetPath": "assets/vision/cpp-a7beea5591205534.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3484,13 +3719,15 @@
           "references": [
             {
               "printingId": "cpp-28f8c3c44fa5753c",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-122.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-28f8c3c44fa5753c.webp",
+              "visionAssetPath": "assets/vision/cpp-28f8c3c44fa5753c.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-50102c200ddc2426",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-50102c200ddc2426.webp",
+              "visionAssetPath": "assets/vision/cpp-50102c200ddc2426.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3523,18 +3760,21 @@
           "references": [
             {
               "printingId": "cpp-006c5ab3b524d821",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-006c5ab3b524d821.webp",
+              "visionAssetPath": "assets/vision/cpp-006c5ab3b524d821.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-1d1db3259608c313",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-1d1db3259608c313.webp",
+              "visionAssetPath": "assets/vision/cpp-1d1db3259608c313.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-a5aa543f8af65490",
-              "referenceImageUrl": "https://punksim.net/images/HEIST-015.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-a5aa543f8af65490.webp",
+              "visionAssetPath": "assets/vision/cpp-a5aa543f8af65490.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3567,18 +3807,21 @@
           "references": [
             {
               "printingId": "cpp-5d7b2b63624ae8d0",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-5d7b2b63624ae8d0.webp",
+              "visionAssetPath": "assets/vision/cpp-5d7b2b63624ae8d0.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-766de3be28b8a7c3",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-038.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-766de3be28b8a7c3.webp",
+              "visionAssetPath": "assets/vision/cpp-766de3be28b8a7c3.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-eccef983f27ff07a",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-eccef983f27ff07a.webp",
+              "visionAssetPath": "assets/vision/cpp-eccef983f27ff07a.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3609,13 +3852,15 @@
           "references": [
             {
               "printingId": "cpp-1de57a6c7c72c9bf",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-083.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-1de57a6c7c72c9bf.webp",
+              "visionAssetPath": "assets/vision/cpp-1de57a6c7c72c9bf.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-4f9b21ac443463de",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-4f9b21ac443463de.webp",
+              "visionAssetPath": "assets/vision/cpp-4f9b21ac443463de.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3646,13 +3891,15 @@
           "references": [
             {
               "printingId": "cpp-7634b1121bed0285",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-7634b1121bed0285.webp",
+              "visionAssetPath": "assets/vision/cpp-7634b1121bed0285.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-ae887fe7ad55acd8",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-129.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-ae887fe7ad55acd8.webp",
+              "visionAssetPath": "assets/vision/cpp-ae887fe7ad55acd8.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3683,13 +3930,15 @@
           "references": [
             {
               "printingId": "cpp-94c7380b71019c41",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-94c7380b71019c41.webp",
+              "visionAssetPath": "assets/vision/cpp-94c7380b71019c41.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-9a22a72ffdb28768",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-9a22a72ffdb28768.webp",
+              "visionAssetPath": "assets/vision/cpp-9a22a72ffdb28768.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3720,13 +3969,15 @@
           "references": [
             {
               "printingId": "cpp-ab5751a90bce12ac",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-015.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-ab5751a90bce12ac.webp",
+              "visionAssetPath": "assets/vision/cpp-ab5751a90bce12ac.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-bee8f30173a3b054",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-bee8f30173a3b054.webp",
+              "visionAssetPath": "assets/vision/cpp-bee8f30173a3b054.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3761,23 +4012,27 @@
           "references": [
             {
               "printingId": "cpp-5a3fffd2b4cbdcab",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-5a3fffd2b4cbdcab.webp",
+              "visionAssetPath": "assets/vision/cpp-5a3fffd2b4cbdcab.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-65583317f314b5e9",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-65583317f314b5e9.webp",
+              "visionAssetPath": "assets/vision/cpp-65583317f314b5e9.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-8df637e8d88eef07",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-051.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-8df637e8d88eef07.webp",
+              "visionAssetPath": "assets/vision/cpp-8df637e8d88eef07.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-bdfba5e6be5d0191",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-bdfba5e6be5d0191.webp",
+              "visionAssetPath": "assets/vision/cpp-bdfba5e6be5d0191.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3814,28 +4069,33 @@
           "references": [
             {
               "printingId": "cpp-266f88343f7078f9",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-266f88343f7078f9.webp",
+              "visionAssetPath": "assets/vision/cpp-266f88343f7078f9.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-70944dbe2a428b14",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-70944dbe2a428b14.webp",
+              "visionAssetPath": "assets/vision/cpp-70944dbe2a428b14.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-765283992edf7a53",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-765283992edf7a53.webp",
+              "visionAssetPath": "assets/vision/cpp-765283992edf7a53.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-aee69fd1082109d2",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-aee69fd1082109d2.webp",
+              "visionAssetPath": "assets/vision/cpp-aee69fd1082109d2.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-cb07e6320cc04c2f",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-034.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-cb07e6320cc04c2f.webp",
+              "visionAssetPath": "assets/vision/cpp-cb07e6320cc04c2f.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3868,18 +4128,21 @@
           "references": [
             {
               "printingId": "cpp-1c86c74c40d2184c",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-1c86c74c40d2184c.webp",
+              "visionAssetPath": "assets/vision/cpp-1c86c74c40d2184c.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-3c17ceaf89588407",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-093.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-3c17ceaf89588407.webp",
+              "visionAssetPath": "assets/vision/cpp-3c17ceaf89588407.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-a6d4d424b806e506",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-a6d4d424b806e506.webp",
+              "visionAssetPath": "assets/vision/cpp-a6d4d424b806e506.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3910,13 +4173,15 @@
           "references": [
             {
               "printingId": "cpp-032722a518003b43",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-032722a518003b43.webp",
+              "visionAssetPath": "assets/vision/cpp-032722a518003b43.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-ef5a1a8db9b52808",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-084.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-ef5a1a8db9b52808.webp",
+              "visionAssetPath": "assets/vision/cpp-ef5a1a8db9b52808.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3949,18 +4214,21 @@
           "references": [
             {
               "printingId": "cpp-133e0ca1d87fbfcb",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-133e0ca1d87fbfcb.webp",
+              "visionAssetPath": "assets/vision/cpp-133e0ca1d87fbfcb.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-a78f680c0ab895fe",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-a78f680c0ab895fe.webp",
+              "visionAssetPath": "assets/vision/cpp-a78f680c0ab895fe.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-d8c8d0b83dfce7f0",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-074.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-d8c8d0b83dfce7f0.webp",
+              "visionAssetPath": "assets/vision/cpp-d8c8d0b83dfce7f0.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -3995,23 +4263,27 @@
           "references": [
             {
               "printingId": "cpp-0221b3e04b4a81ba",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-0221b3e04b4a81ba.webp",
+              "visionAssetPath": "assets/vision/cpp-0221b3e04b4a81ba.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-a74310684529d97d",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-a74310684529d97d.webp",
+              "visionAssetPath": "assets/vision/cpp-a74310684529d97d.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-bde377fd8c27bb06",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-bde377fd8c27bb06.webp",
+              "visionAssetPath": "assets/vision/cpp-bde377fd8c27bb06.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-fda2bd51e9b0c9ac",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-075.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-fda2bd51e9b0c9ac.webp",
+              "visionAssetPath": "assets/vision/cpp-fda2bd51e9b0c9ac.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -4044,18 +4316,21 @@
           "references": [
             {
               "printingId": "cpp-135ac68004e4a078",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-135ac68004e4a078.webp",
+              "visionAssetPath": "assets/vision/cpp-135ac68004e4a078.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-4e759abae11a4428",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-085.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-4e759abae11a4428.webp",
+              "visionAssetPath": "assets/vision/cpp-4e759abae11a4428.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-616b00aeba439d76",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-616b00aeba439d76.webp",
+              "visionAssetPath": "assets/vision/cpp-616b00aeba439d76.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -4086,13 +4361,15 @@
           "references": [
             {
               "printingId": "cpp-5eae5e98367d1823",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-5eae5e98367d1823.webp",
+              "visionAssetPath": "assets/vision/cpp-5eae5e98367d1823.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-734552d1189ae641",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-101.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-734552d1189ae641.webp",
+              "visionAssetPath": "assets/vision/cpp-734552d1189ae641.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -4123,13 +4400,15 @@
           "references": [
             {
               "printingId": "cpp-598a837abe28a565",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-086.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-598a837abe28a565.webp",
+              "visionAssetPath": "assets/vision/cpp-598a837abe28a565.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-703690aa4591825a",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-703690aa4591825a.webp",
+              "visionAssetPath": "assets/vision/cpp-703690aa4591825a.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -4160,13 +4439,15 @@
           "references": [
             {
               "printingId": "cpp-1146ee9596d13f7a",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-1146ee9596d13f7a.webp",
+              "visionAssetPath": "assets/vision/cpp-1146ee9596d13f7a.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-180078d05370e589",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-123.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-180078d05370e589.webp",
+              "visionAssetPath": "assets/vision/cpp-180078d05370e589.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -4203,28 +4484,33 @@
           "references": [
             {
               "printingId": "cpp-272727304f25c1f1",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-272727304f25c1f1.webp",
+              "visionAssetPath": "assets/vision/cpp-272727304f25c1f1.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-307407bd47480dbf",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-307407bd47480dbf.webp",
+              "visionAssetPath": "assets/vision/cpp-307407bd47480dbf.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-49239102470acd4d",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-49239102470acd4d.webp",
+              "visionAssetPath": "assets/vision/cpp-49239102470acd4d.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-837ec01a96ddd09e",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-837ec01a96ddd09e.webp",
+              "visionAssetPath": "assets/vision/cpp-837ec01a96ddd09e.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-e410e6b99e9f357c",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-124.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-e410e6b99e9f357c.webp",
+              "visionAssetPath": "assets/vision/cpp-e410e6b99e9f357c.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -4255,13 +4541,15 @@
           "references": [
             {
               "printingId": "cpp-3b7b4695442558ee",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-135.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-3b7b4695442558ee.webp",
+              "visionAssetPath": "assets/vision/cpp-3b7b4695442558ee.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-892463bb7f74d732",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-892463bb7f74d732.webp",
+              "visionAssetPath": "assets/vision/cpp-892463bb7f74d732.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -4290,8 +4578,9 @@
           "references": [
             {
               "printingId": "cpp-6263ba43e331461f",
-              "referenceImageUrl": "https://punksim.net/images/PRM01-005.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-6263ba43e331461f.webp",
+              "visionAssetPath": "assets/vision/cpp-6263ba43e331461f.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         },
@@ -4315,8 +4604,9 @@
           "references": [
             {
               "printingId": "cpp-ccf6800a501ada4b",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-ccf6800a501ada4b.webp",
+              "visionAssetPath": "assets/vision/cpp-ccf6800a501ada4b.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -4353,28 +4643,33 @@
           "references": [
             {
               "printingId": "cpp-555830e26b4db745",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-555830e26b4db745.webp",
+              "visionAssetPath": "assets/vision/cpp-555830e26b4db745.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-7a5859d950fd65c6",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-7a5859d950fd65c6.webp",
+              "visionAssetPath": "assets/vision/cpp-7a5859d950fd65c6.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-a5bb90c669bb6590",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-a5bb90c669bb6590.webp",
+              "visionAssetPath": "assets/vision/cpp-a5bb90c669bb6590.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-b4676f85ad1ee16e",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-b4676f85ad1ee16e.webp",
+              "visionAssetPath": "assets/vision/cpp-b4676f85ad1ee16e.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-ffe2a50f1865e83d",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-136.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-ffe2a50f1865e83d.webp",
+              "visionAssetPath": "assets/vision/cpp-ffe2a50f1865e83d.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -4405,13 +4700,15 @@
           "references": [
             {
               "printingId": "cpp-26d2e82dd10ba521",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-26d2e82dd10ba521.webp",
+              "visionAssetPath": "assets/vision/cpp-26d2e82dd10ba521.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-dcef0ee6e8b00ca4",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-087.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-dcef0ee6e8b00ca4.webp",
+              "visionAssetPath": "assets/vision/cpp-dcef0ee6e8b00ca4.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -4442,13 +4739,15 @@
           "references": [
             {
               "printingId": "cpp-360da0311dc9267a",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-360da0311dc9267a.webp",
+              "visionAssetPath": "assets/vision/cpp-360da0311dc9267a.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-62372dd2f034bacd",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-094.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-62372dd2f034bacd.webp",
+              "visionAssetPath": "assets/vision/cpp-62372dd2f034bacd.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -4479,13 +4778,15 @@
           "references": [
             {
               "printingId": "cpp-62251b0366bdde8b",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-125.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-62251b0366bdde8b.webp",
+              "visionAssetPath": "assets/vision/cpp-62251b0366bdde8b.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-6bf00dc7e8bf1208",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-6bf00dc7e8bf1208.webp",
+              "visionAssetPath": "assets/vision/cpp-6bf00dc7e8bf1208.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -4520,23 +4821,27 @@
           "references": [
             {
               "printingId": "cpp-1346a40a4077a2b6",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-039.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-1346a40a4077a2b6.webp",
+              "visionAssetPath": "assets/vision/cpp-1346a40a4077a2b6.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-2be7c57127e1193f",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-2be7c57127e1193f.webp",
+              "visionAssetPath": "assets/vision/cpp-2be7c57127e1193f.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-b4a6ae1488912a84",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-b4a6ae1488912a84.webp",
+              "visionAssetPath": "assets/vision/cpp-b4a6ae1488912a84.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-f657ddf13ba22d79",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-f657ddf13ba22d79.webp",
+              "visionAssetPath": "assets/vision/cpp-f657ddf13ba22d79.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -4567,13 +4872,15 @@
           "references": [
             {
               "printingId": "cpp-951ddf4214118162",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-052.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-951ddf4214118162.webp",
+              "visionAssetPath": "assets/vision/cpp-951ddf4214118162.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-9579e83a3227bd28",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-9579e83a3227bd28.webp",
+              "visionAssetPath": "assets/vision/cpp-9579e83a3227bd28.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -4608,23 +4915,27 @@
           "references": [
             {
               "printingId": "cpp-4f8d00888c1b1f59",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-040.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-4f8d00888c1b1f59.webp",
+              "visionAssetPath": "assets/vision/cpp-4f8d00888c1b1f59.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-b6e25ec4b5373869",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-b6e25ec4b5373869.webp",
+              "visionAssetPath": "assets/vision/cpp-b6e25ec4b5373869.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-cdf5fa21d429ef17",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-cdf5fa21d429ef17.webp",
+              "visionAssetPath": "assets/vision/cpp-cdf5fa21d429ef17.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-efe544c12c45a8c1",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-efe544c12c45a8c1.webp",
+              "visionAssetPath": "assets/vision/cpp-efe544c12c45a8c1.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -4657,18 +4968,21 @@
           "references": [
             {
               "printingId": "cpp-0d34154d8e518fd2",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-0d34154d8e518fd2.webp",
+              "visionAssetPath": "assets/vision/cpp-0d34154d8e518fd2.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-b6048a7ce8ad079c",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-b6048a7ce8ad079c.webp",
+              "visionAssetPath": "assets/vision/cpp-b6048a7ce8ad079c.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-bbbab68f92a3d3ed",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-bbbab68f92a3d3ed.webp",
+              "visionAssetPath": "assets/vision/cpp-bbbab68f92a3d3ed.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -4699,13 +5013,15 @@
           "references": [
             {
               "printingId": "cpp-64215c21382171c0",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-016.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-64215c21382171c0.webp",
+              "visionAssetPath": "assets/vision/cpp-64215c21382171c0.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-fd103cdef9cf48c5",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-fd103cdef9cf48c5.webp",
+              "visionAssetPath": "assets/vision/cpp-fd103cdef9cf48c5.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -4740,23 +5056,27 @@
           "references": [
             {
               "printingId": "cpp-4d8cb1f2e028d27b",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-4d8cb1f2e028d27b.webp",
+              "visionAssetPath": "assets/vision/cpp-4d8cb1f2e028d27b.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-6d213cfa534078a1",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-004.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-6d213cfa534078a1.webp",
+              "visionAssetPath": "assets/vision/cpp-6d213cfa534078a1.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-89a834f8afa1dbcd",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-89a834f8afa1dbcd.webp",
+              "visionAssetPath": "assets/vision/cpp-89a834f8afa1dbcd.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-f952962700c37df5",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-f952962700c37df5.webp",
+              "visionAssetPath": "assets/vision/cpp-f952962700c37df5.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -4791,23 +5111,27 @@
           "references": [
             {
               "printingId": "cpp-260ed0642b12771c",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-260ed0642b12771c.webp",
+              "visionAssetPath": "assets/vision/cpp-260ed0642b12771c.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-8171f19e24af1017",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-8171f19e24af1017.webp",
+              "visionAssetPath": "assets/vision/cpp-8171f19e24af1017.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-d49e05f4f3f7c08d",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-d49e05f4f3f7c08d.webp",
+              "visionAssetPath": "assets/vision/cpp-d49e05f4f3f7c08d.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-ffa0c5c1ae90fbe3",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-ffa0c5c1ae90fbe3.webp",
+              "visionAssetPath": "assets/vision/cpp-ffa0c5c1ae90fbe3.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -4844,28 +5168,33 @@
           "references": [
             {
               "printingId": "cpp-08f3a3d838a0b4fb",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-08f3a3d838a0b4fb.webp",
+              "visionAssetPath": "assets/vision/cpp-08f3a3d838a0b4fb.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-3b2f06e67090625e",
-              "referenceImageUrl": "https://punksim.net/images/EP-013.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-3b2f06e67090625e.webp",
+              "visionAssetPath": "assets/vision/cpp-3b2f06e67090625e.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-479c6982b7ff4f96",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-479c6982b7ff4f96.webp",
+              "visionAssetPath": "assets/vision/cpp-479c6982b7ff4f96.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-ba51fc8da355a815",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-ba51fc8da355a815.webp",
+              "visionAssetPath": "assets/vision/cpp-ba51fc8da355a815.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-cbc69702ebbaf489",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-cbc69702ebbaf489.webp",
+              "visionAssetPath": "assets/vision/cpp-cbc69702ebbaf489.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -4896,13 +5225,15 @@
           "references": [
             {
               "printingId": "cpp-371ab17cd9e217ec",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-371ab17cd9e217ec.webp",
+              "visionAssetPath": "assets/vision/cpp-371ab17cd9e217ec.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-bebee8ba9212f0bc",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-069.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-bebee8ba9212f0bc.webp",
+              "visionAssetPath": "assets/vision/cpp-bebee8ba9212f0bc.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -4935,18 +5266,21 @@
           "references": [
             {
               "printingId": "cpp-073710736e7695a5",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-073710736e7695a5.webp",
+              "visionAssetPath": "assets/vision/cpp-073710736e7695a5.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-18c5a8956f09d52c",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-18c5a8956f09d52c.webp",
+              "visionAssetPath": "assets/vision/cpp-18c5a8956f09d52c.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-ef35751db3ce602a",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-088.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-ef35751db3ce602a.webp",
+              "visionAssetPath": "assets/vision/cpp-ef35751db3ce602a.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -4981,23 +5315,27 @@
           "references": [
             {
               "printingId": "cpp-6f91a3cb589a8e82",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-6f91a3cb589a8e82.webp",
+              "visionAssetPath": "assets/vision/cpp-6f91a3cb589a8e82.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-dbeb59958d4314a6",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-095.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-dbeb59958d4314a6.webp",
+              "visionAssetPath": "assets/vision/cpp-dbeb59958d4314a6.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-f13cc34598f4143f",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-f13cc34598f4143f.webp",
+              "visionAssetPath": "assets/vision/cpp-f13cc34598f4143f.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-f8f986be36b159dd",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-f8f986be36b159dd.webp",
+              "visionAssetPath": "assets/vision/cpp-f8f986be36b159dd.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5030,18 +5368,21 @@
           "references": [
             {
               "printingId": "cpp-93310c51e1ab876e",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-109.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-93310c51e1ab876e.webp",
+              "visionAssetPath": "assets/vision/cpp-93310c51e1ab876e.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-b2f6f7f08f699546",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-b2f6f7f08f699546.webp",
+              "visionAssetPath": "assets/vision/cpp-b2f6f7f08f699546.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-f6683933619efe80",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-f6683933619efe80.webp",
+              "visionAssetPath": "assets/vision/cpp-f6683933619efe80.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5078,28 +5419,33 @@
           "references": [
             {
               "printingId": "cpp-3a34504413511fe9",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-3a34504413511fe9.webp",
+              "visionAssetPath": "assets/vision/cpp-3a34504413511fe9.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-6018ea30af7a9b53",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-6018ea30af7a9b53.webp",
+              "visionAssetPath": "assets/vision/cpp-6018ea30af7a9b53.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-9358342257b4ebc4",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-9358342257b4ebc4.webp",
+              "visionAssetPath": "assets/vision/cpp-9358342257b4ebc4.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-cce6c481df036fda",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-026.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-cce6c481df036fda.webp",
+              "visionAssetPath": "assets/vision/cpp-cce6c481df036fda.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-e4b922b9ed6031ea",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-e4b922b9ed6031ea.webp",
+              "visionAssetPath": "assets/vision/cpp-e4b922b9ed6031ea.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5130,13 +5476,15 @@
           "references": [
             {
               "printingId": "cpp-af335bd1350da2dd",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-089.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-af335bd1350da2dd.webp",
+              "visionAssetPath": "assets/vision/cpp-af335bd1350da2dd.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-e61841698f774ab9",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-e61841698f774ab9.webp",
+              "visionAssetPath": "assets/vision/cpp-e61841698f774ab9.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5167,13 +5515,15 @@
           "references": [
             {
               "printingId": "cpp-10c378f232887a61",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-10c378f232887a61.webp",
+              "visionAssetPath": "assets/vision/cpp-10c378f232887a61.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-86d902ed5c1d1f2e",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-018.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-86d902ed5c1d1f2e.webp",
+              "visionAssetPath": "assets/vision/cpp-86d902ed5c1d1f2e.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5210,28 +5560,33 @@
           "references": [
             {
               "printingId": "cpp-287bf6c21babb8a4",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-053.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-287bf6c21babb8a4.webp",
+              "visionAssetPath": "assets/vision/cpp-287bf6c21babb8a4.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-5175fbbae5c4290c",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-5175fbbae5c4290c.webp",
+              "visionAssetPath": "assets/vision/cpp-5175fbbae5c4290c.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-722016bfa4ac8a36",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-722016bfa4ac8a36.webp",
+              "visionAssetPath": "assets/vision/cpp-722016bfa4ac8a36.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-f058203805ecf3b1",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-f058203805ecf3b1.webp",
+              "visionAssetPath": "assets/vision/cpp-f058203805ecf3b1.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-f25e9588b83dba71",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-f25e9588b83dba71.webp",
+              "visionAssetPath": "assets/vision/cpp-f25e9588b83dba71.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5266,23 +5621,27 @@
           "references": [
             {
               "printingId": "cpp-3c982dedac6aa8e1",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-3c982dedac6aa8e1.webp",
+              "visionAssetPath": "assets/vision/cpp-3c982dedac6aa8e1.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-97c77343abf10a4e",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-97c77343abf10a4e.webp",
+              "visionAssetPath": "assets/vision/cpp-97c77343abf10a4e.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-afc6a9bf446b9e3f",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-afc6a9bf446b9e3f.webp",
+              "visionAssetPath": "assets/vision/cpp-afc6a9bf446b9e3f.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-d27bb6b5b5830722",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-d27bb6b5b5830722.webp",
+              "visionAssetPath": "assets/vision/cpp-d27bb6b5b5830722.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5313,13 +5672,15 @@
           "references": [
             {
               "printingId": "cpp-47d6c78571ac9ca8",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-054.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-47d6c78571ac9ca8.webp",
+              "visionAssetPath": "assets/vision/cpp-47d6c78571ac9ca8.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-7a3ba4284bbc62e6",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-7a3ba4284bbc62e6.webp",
+              "visionAssetPath": "assets/vision/cpp-7a3ba4284bbc62e6.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5356,28 +5717,33 @@
           "references": [
             {
               "printingId": "cpp-0fa5137e53fee2ef",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-0fa5137e53fee2ef.webp",
+              "visionAssetPath": "assets/vision/cpp-0fa5137e53fee2ef.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-7a54bfb2657fdf82",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-019.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-7a54bfb2657fdf82.webp",
+              "visionAssetPath": "assets/vision/cpp-7a54bfb2657fdf82.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-8d5150a466ee0647",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-8d5150a466ee0647.webp",
+              "visionAssetPath": "assets/vision/cpp-8d5150a466ee0647.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-bce8254066ea3646",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-bce8254066ea3646.webp",
+              "visionAssetPath": "assets/vision/cpp-bce8254066ea3646.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-db89036dc8a0b165",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-db89036dc8a0b165.webp",
+              "visionAssetPath": "assets/vision/cpp-db89036dc8a0b165.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5408,13 +5774,15 @@
           "references": [
             {
               "printingId": "cpp-0b3a05c46f1b6503",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-0b3a05c46f1b6503.webp",
+              "visionAssetPath": "assets/vision/cpp-0b3a05c46f1b6503.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-d7d5b94aa52225d3",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-102.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-d7d5b94aa52225d3.webp",
+              "visionAssetPath": "assets/vision/cpp-d7d5b94aa52225d3.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5449,23 +5817,27 @@
           "references": [
             {
               "printingId": "cpp-1446fc47d35b5bc5",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-055.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-1446fc47d35b5bc5.webp",
+              "visionAssetPath": "assets/vision/cpp-1446fc47d35b5bc5.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-542c68a2f799f104",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-542c68a2f799f104.webp",
+              "visionAssetPath": "assets/vision/cpp-542c68a2f799f104.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-65fee9959efddf6a",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-65fee9959efddf6a.webp",
+              "visionAssetPath": "assets/vision/cpp-65fee9959efddf6a.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-9711e52cb7c5e7cd",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-9711e52cb7c5e7cd.webp",
+              "visionAssetPath": "assets/vision/cpp-9711e52cb7c5e7cd.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5496,13 +5868,15 @@
           "references": [
             {
               "printingId": "cpp-329e45127808123e",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-329e45127808123e.webp",
+              "visionAssetPath": "assets/vision/cpp-329e45127808123e.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-d37d525dfa3c04b5",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-103.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-d37d525dfa3c04b5.webp",
+              "visionAssetPath": "assets/vision/cpp-d37d525dfa3c04b5.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5537,23 +5911,27 @@
           "references": [
             {
               "printingId": "cpp-2d0127808363b0ca",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-2d0127808363b0ca.webp",
+              "visionAssetPath": "assets/vision/cpp-2d0127808363b0ca.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-86ef2bcb97f4019c",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-86ef2bcb97f4019c.webp",
+              "visionAssetPath": "assets/vision/cpp-86ef2bcb97f4019c.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-c291fc4d3e00c181",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-c291fc4d3e00c181.webp",
+              "visionAssetPath": "assets/vision/cpp-c291fc4d3e00c181.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-ed4be6ed4eac2b57",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-ed4be6ed4eac2b57.webp",
+              "visionAssetPath": "assets/vision/cpp-ed4be6ed4eac2b57.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5584,13 +5962,15 @@
           "references": [
             {
               "printingId": "cpp-935a214855b34ce6",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-935a214855b34ce6.webp",
+              "visionAssetPath": "assets/vision/cpp-935a214855b34ce6.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-d86914fe7d5e9235",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-070.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-d86914fe7d5e9235.webp",
+              "visionAssetPath": "assets/vision/cpp-d86914fe7d5e9235.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5621,13 +6001,15 @@
           "references": [
             {
               "printingId": "cpp-2017c7a126decd71",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-063.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-2017c7a126decd71.webp",
+              "visionAssetPath": "assets/vision/cpp-2017c7a126decd71.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-b0829ed52b2b5105",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-b0829ed52b2b5105.webp",
+              "visionAssetPath": "assets/vision/cpp-b0829ed52b2b5105.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5658,13 +6040,15 @@
           "references": [
             {
               "printingId": "cpp-6437525418c5bcc7",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-6437525418c5bcc7.webp",
+              "visionAssetPath": "assets/vision/cpp-6437525418c5bcc7.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-f7d8397b82cecdfb",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-f7d8397b82cecdfb.webp",
+              "visionAssetPath": "assets/vision/cpp-f7d8397b82cecdfb.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5695,13 +6079,15 @@
           "references": [
             {
               "printingId": "cpp-87c1d0e8c47191f6",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-87c1d0e8c47191f6.webp",
+              "visionAssetPath": "assets/vision/cpp-87c1d0e8c47191f6.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-eb8e45f0acc3a525",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-056.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-eb8e45f0acc3a525.webp",
+              "visionAssetPath": "assets/vision/cpp-eb8e45f0acc3a525.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5732,13 +6118,15 @@
           "references": [
             {
               "printingId": "cpp-a9a171c7e38178ec",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-a9a171c7e38178ec.webp",
+              "visionAssetPath": "assets/vision/cpp-a9a171c7e38178ec.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-ba93bbe4c9d589d5",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-139.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-ba93bbe4c9d589d5.webp",
+              "visionAssetPath": "assets/vision/cpp-ba93bbe4c9d589d5.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5769,13 +6157,15 @@
           "references": [
             {
               "printingId": "cpp-dcdc8d429d5331fd",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-dcdc8d429d5331fd.webp",
+              "visionAssetPath": "assets/vision/cpp-dcdc8d429d5331fd.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-eef8f1d28001db6f",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-140.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-eef8f1d28001db6f.webp",
+              "visionAssetPath": "assets/vision/cpp-eef8f1d28001db6f.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5812,28 +6202,33 @@
           "references": [
             {
               "printingId": "cpp-0bfea2da353580f3",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-0bfea2da353580f3.webp",
+              "visionAssetPath": "assets/vision/cpp-0bfea2da353580f3.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-3131bc9c206414fe",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-3131bc9c206414fe.webp",
+              "visionAssetPath": "assets/vision/cpp-3131bc9c206414fe.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-a18df9abe9c2b16d",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-a18df9abe9c2b16d.webp",
+              "visionAssetPath": "assets/vision/cpp-a18df9abe9c2b16d.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-cb75583028994bc3",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-cb75583028994bc3.webp",
+              "visionAssetPath": "assets/vision/cpp-cb75583028994bc3.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-f017c200a38d3bd4",
-              "referenceImageUrl": "https://punksim.net/images/HEIST-012.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-f017c200a38d3bd4.webp",
+              "visionAssetPath": "assets/vision/cpp-f017c200a38d3bd4.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5864,13 +6259,15 @@
           "references": [
             {
               "printingId": "cpp-cd5033a60300fee0",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-cd5033a60300fee0.webp",
+              "visionAssetPath": "assets/vision/cpp-cd5033a60300fee0.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-d7bb62380163393b",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-020.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-d7bb62380163393b.webp",
+              "visionAssetPath": "assets/vision/cpp-d7bb62380163393b.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5907,28 +6304,33 @@
           "references": [
             {
               "printingId": "cpp-5e874ee26873a8c1",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-5e874ee26873a8c1.webp",
+              "visionAssetPath": "assets/vision/cpp-5e874ee26873a8c1.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-65ce57629ea9b9f1",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-65ce57629ea9b9f1.webp",
+              "visionAssetPath": "assets/vision/cpp-65ce57629ea9b9f1.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-71f174b24ca73d47",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-005a.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-71f174b24ca73d47.webp",
+              "visionAssetPath": "assets/vision/cpp-71f174b24ca73d47.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-a16f6664e470dfdc",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-a16f6664e470dfdc.webp",
+              "visionAssetPath": "assets/vision/cpp-a16f6664e470dfdc.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-cf69de231e0a5d29",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-cf69de231e0a5d29.webp",
+              "visionAssetPath": "assets/vision/cpp-cf69de231e0a5d29.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5959,13 +6361,15 @@
           "references": [
             {
               "printingId": "cpp-3fed8313a78d0ff6",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-021.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-3fed8313a78d0ff6.webp",
+              "visionAssetPath": "assets/vision/cpp-3fed8313a78d0ff6.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-538b15491a1b8fa2",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-538b15491a1b8fa2.webp",
+              "visionAssetPath": "assets/vision/cpp-538b15491a1b8fa2.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -5996,13 +6400,15 @@
           "references": [
             {
               "printingId": "cpp-e3be2ed0c1eec7dc",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-091.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-e3be2ed0c1eec7dc.webp",
+              "visionAssetPath": "assets/vision/cpp-e3be2ed0c1eec7dc.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-f59499784035643d",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-f59499784035643d.webp",
+              "visionAssetPath": "assets/vision/cpp-f59499784035643d.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -6033,13 +6439,15 @@
           "references": [
             {
               "printingId": "cpp-6951072283168d04",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-6951072283168d04.webp",
+              "visionAssetPath": "assets/vision/cpp-6951072283168d04.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-eaf7a58af5b99b55",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-057.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-eaf7a58af5b99b55.webp",
+              "visionAssetPath": "assets/vision/cpp-eaf7a58af5b99b55.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -6076,28 +6484,33 @@
           "references": [
             {
               "printingId": "cpp-02d159a15874e78e",
-              "referenceImageUrl": "https://punksim.net/images/HEIST-001.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-02d159a15874e78e.webp",
+              "visionAssetPath": "assets/vision/cpp-02d159a15874e78e.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-19e1a05ecf36ef40",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-19e1a05ecf36ef40.webp",
+              "visionAssetPath": "assets/vision/cpp-19e1a05ecf36ef40.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-23e720f827ef22cf",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-23e720f827ef22cf.webp",
+              "visionAssetPath": "assets/vision/cpp-23e720f827ef22cf.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-a80da1b6bca84aeb",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-a80da1b6bca84aeb.webp",
+              "visionAssetPath": "assets/vision/cpp-a80da1b6bca84aeb.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-db5e7c731b5f8c6f",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-db5e7c731b5f8c6f.webp",
+              "visionAssetPath": "assets/vision/cpp-db5e7c731b5f8c6f.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -6128,13 +6541,15 @@
           "references": [
             {
               "printingId": "cpp-461b090f895195ca",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-058.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-461b090f895195ca.webp",
+              "visionAssetPath": "assets/vision/cpp-461b090f895195ca.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-d9de31d8cbd913d2",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-d9de31d8cbd913d2.webp",
+              "visionAssetPath": "assets/vision/cpp-d9de31d8cbd913d2.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -6165,13 +6580,15 @@
           "references": [
             {
               "printingId": "cpp-aa00bc6d3d741dc6",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-aa00bc6d3d741dc6.webp",
+              "visionAssetPath": "assets/vision/cpp-aa00bc6d3d741dc6.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-e630fb858f7b542c",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-110.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-e630fb858f7b542c.webp",
+              "visionAssetPath": "assets/vision/cpp-e630fb858f7b542c.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -6202,13 +6619,15 @@
           "references": [
             {
               "printingId": "cpp-0cac86e75d592211",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-0cac86e75d592211.webp",
+              "visionAssetPath": "assets/vision/cpp-0cac86e75d592211.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-739b8ee7632725c1",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-739b8ee7632725c1.webp",
+              "visionAssetPath": "assets/vision/cpp-739b8ee7632725c1.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -6239,13 +6658,15 @@
           "references": [
             {
               "printingId": "cpp-bb5a3a3a08ff7cc3",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-105.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-bb5a3a3a08ff7cc3.webp",
+              "visionAssetPath": "assets/vision/cpp-bb5a3a3a08ff7cc3.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-dc303c98e28eeed5",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-dc303c98e28eeed5.webp",
+              "visionAssetPath": "assets/vision/cpp-dc303c98e28eeed5.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -6276,13 +6697,15 @@
           "references": [
             {
               "printingId": "cpp-7f11fb70f2dffbd8",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-092.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-7f11fb70f2dffbd8.webp",
+              "visionAssetPath": "assets/vision/cpp-7f11fb70f2dffbd8.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-b4c7bd1fc8d07660",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-b4c7bd1fc8d07660.webp",
+              "visionAssetPath": "assets/vision/cpp-b4c7bd1fc8d07660.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -6319,28 +6742,33 @@
           "references": [
             {
               "printingId": "cpp-1da38af8a879835a",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-1da38af8a879835a.webp",
+              "visionAssetPath": "assets/vision/cpp-1da38af8a879835a.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-74b0f20818534d83",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-74b0f20818534d83.webp",
+              "visionAssetPath": "assets/vision/cpp-74b0f20818534d83.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-7e103c1ba10fa7ef",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-7e103c1ba10fa7ef.webp",
+              "visionAssetPath": "assets/vision/cpp-7e103c1ba10fa7ef.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-d6e1cdd1927cf886",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-d6e1cdd1927cf886.webp",
+              "visionAssetPath": "assets/vision/cpp-d6e1cdd1927cf886.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-fedb842e7045d811",
-              "referenceImageUrl": "https://punksim.net/images/EP-001.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-fedb842e7045d811.webp",
+              "visionAssetPath": "assets/vision/cpp-fedb842e7045d811.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -6371,13 +6799,15 @@
           "references": [
             {
               "printingId": "cpp-3150a39e0e47e6d4",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-022.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-3150a39e0e47e6d4.webp",
+              "visionAssetPath": "assets/vision/cpp-3150a39e0e47e6d4.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-c9f566dd49c6240a",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-c9f566dd49c6240a.webp",
+              "visionAssetPath": "assets/vision/cpp-c9f566dd49c6240a.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -6408,13 +6838,15 @@
           "references": [
             {
               "printingId": "cpp-da12d9d3784fe46e",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-096.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-da12d9d3784fe46e.webp",
+              "visionAssetPath": "assets/vision/cpp-da12d9d3784fe46e.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-dd949a8fa8078e33",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-dd949a8fa8078e33.webp",
+              "visionAssetPath": "assets/vision/cpp-dd949a8fa8078e33.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }
@@ -6449,23 +6881,27 @@
           "references": [
             {
               "printingId": "cpp-07a5cb0b55970b17",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-07a5cb0b55970b17.webp",
+              "visionAssetPath": "assets/vision/cpp-07a5cb0b55970b17.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-58674b48782a968f",
-              "referenceImageUrl": "https://punksim.net/images/WNTC-064.png",
-              "assetStatus": "stable_runtime"
+              "referenceImageUrl": "assets/vision/cpp-58674b48782a968f.webp",
+              "visionAssetPath": "assets/vision/cpp-58674b48782a968f.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-b3a0a4a14f46206e",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-b3a0a4a14f46206e.webp",
+              "visionAssetPath": "assets/vision/cpp-b3a0a4a14f46206e.webp",
+              "assetStatus": "stable_local_assets"
             },
             {
               "printingId": "cpp-d75553bf7a19ca7a",
-              "referenceImageUrl": null,
-              "assetStatus": "source_only"
+              "referenceImageUrl": "assets/vision/cpp-d75553bf7a19ca7a.webp",
+              "visionAssetPath": "assets/vision/cpp-d75553bf7a19ca7a.webp",
+              "assetStatus": "stable_local_assets"
             }
           ]
         }

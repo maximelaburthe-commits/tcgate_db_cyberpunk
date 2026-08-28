@@ -18,6 +18,7 @@ printings = load("data/printings.json")["printings"]
 visuals = load("data/visual-identities.json")["visualIdentities"]
 profiles = load("data/recognition-profiles.json")["recognitionProfiles"]
 recognition_groups = load("data/recognition-groups.json")["recognitionGroups"]
+asset_metadata = load("data/asset-metadata.json")
 sets = load("data/sets.json")
 
 runtime_cards = []
@@ -30,7 +31,6 @@ for card in cards:
     })
 
 runtime_printings = []
-asset_manifest = []
 for printing in printings:
     image = printing["image"]
     runtime_printings.append({
@@ -41,21 +41,13 @@ for printing in printings:
         "number": printing["number"],
         "catalogNumber": printing["catalogNumber"],
         "variantKind": printing["variantKind"],
-        "imageUrl": image["imageUrl"],
+        "displayAssetPath": image["displayAssetPath"],
+        "visionAssetPath": image["visionAssetPath"],
+        "imageUrl": image["displayAssetPath"],
         "imageSource": image["imageSource"],
+        "displaySha256": image["displaySha256"],
+        "visionSha256": image["visionSha256"],
         "recognition": printing["recognition"],
-    })
-    asset_manifest.append({
-        "printingId": printing["printingId"],
-        "cardId": printing["cardId"],
-        "sourceImageUrl": image["sourceImageUrl"],
-        "imageUrl": image["imageUrl"],
-        "imageSource": image["imageSource"],
-        "mimeType": image["mimeType"],
-        "sha256": image["sha256"],
-        "width": image["width"],
-        "height": image["height"],
-        "status": image["status"],
     })
 
 by_printing = {p["printingId"]: p for p in printings}
@@ -72,6 +64,8 @@ for identity in visuals:
         "candidatePrintingIds": candidates,
         "recognitionMode": "legacy_reference",
         "referenceImageUrl": identity["referenceImageUrl"],
+        "visionAssetPath": identity["referenceImageUrl"],
+        "displayAssetPath": first["image"]["displayAssetPath"],
         "printing_id": candidates[0] if singleton else identity["visualIdentityId"],
         "card_id": identity["cardId"],
         "name": card_names[identity["cardId"]],
@@ -79,7 +73,7 @@ for identity in visuals:
         "number": first["number"],
         "variant_kind": first["variantKind"],
         "image_url": identity["referenceImageUrl"],
-        "image_source": first["image"]["imageSource"],
+        "image_source": "local_db_asset",
     })
 
 dump("runtime/cards.min.json", runtime_cards)
@@ -92,7 +86,8 @@ for entry in vision:
         "visualIdentityId": entry["visualIdentityId"],
         "referenceImageUrl": entry["referenceImageUrl"],
         "name": entry["name"],
-        "assetStatus": "stable_runtime",
+        "visionAssetPath": entry["visionAssetPath"],
+        "assetStatus": "stable_local_assets",
     })
 for card in cards:
     if card["cardId"] in canonical_by_card:
@@ -101,7 +96,8 @@ for card in cards:
     canonical_by_card[card["cardId"]] = {
         "cardId": card["cardId"],
         "visualIdentityId": None,
-        "referenceImageUrl": primary["image"]["imageUrl"],
+        "referenceImageUrl": primary["image"]["visionAssetPath"],
+        "visionAssetPath": primary["image"]["visionAssetPath"],
         "name": card["name"],
         "assetStatus": primary["image"]["status"],
     }
@@ -125,7 +121,8 @@ for card_id in sorted({group["cardId"] for group in recognition_groups}):
             "references": [
                 {
                     "printingId": printing_id,
-                    "referenceImageUrl": by_printing[printing_id]["image"]["imageUrl"],
+                    "referenceImageUrl": by_printing[printing_id]["image"]["visionAssetPath"],
+                    "visionAssetPath": by_printing[printing_id]["image"]["visionAssetPath"],
                     "assetStatus": by_printing[printing_id]["image"]["status"],
                 }
                 for printing_id in group["printingIds"]
@@ -138,7 +135,21 @@ dump("runtime/recognition-groups.json", {
     "recognitionProfileId": profiles[0]["recognitionProfileId"],
     "recognitionGroups": recognition_groups,
 })
-dump("runtime/asset-manifest.json", {"assets": asset_manifest})
+display_assets = []
+vision_assets = []
+for asset in asset_metadata["assets"]:
+    common = {
+        "printingId": asset["printingId"],
+        "officialPrintingId": asset["officialPrintingId"],
+        "cardId": asset["cardId"],
+    }
+    display_assets.append({**common, **asset["display"], "provenance": asset["provenance"]})
+    vision_assets.append({**common, **asset["vision"]})
+dump("runtime/asset-manifest.json", {
+    "assetProfileVersion": asset_metadata["assetProfileVersion"],
+    "displayAssets": display_assets,
+    "visionAssets": vision_assets,
+})
 dump("sets.json", sets)
 print(json.dumps({
     "runtimeCards": len(runtime_cards),
@@ -146,5 +157,5 @@ print(json.dumps({
     "visionEntries": len(vision),
     "canonicalVisionReferences": len(canonical_index["references"]),
     "recognitionGroups": len(recognition_groups),
-    "stableRuntimeAssets": sum(bool(a["imageUrl"]) for a in asset_manifest),
+    "stableRuntimeAssets": len(display_assets),
 }, indent=2))

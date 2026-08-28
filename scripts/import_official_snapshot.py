@@ -215,6 +215,8 @@ def main() -> None:
 
     old_cards = load("data/cards.json")["cards"]
     old_printings = load("data/printings.json")["printings"]
+    asset_metadata = load("data/asset-metadata.json")["assets"] if (ROOT / "data/asset-metadata.json").exists() else []
+    assets_by_printing = {asset["printingId"]: asset for asset in asset_metadata}
     old_unresolved = load("data/unresolved-printings.json")["printings"] if (ROOT / "data/unresolved-printings.json").exists() else []
     old_by_name = {normalized(c.get("name")): c for c in old_cards if c.get("name")}
     old_print_by_key = {
@@ -288,8 +290,9 @@ def main() -> None:
             printing_id = (old_print.get("id") or old_print["printingId"]) if old_print else deterministic_printing_id(card_id, set_id, item["number"])
             old_image = (old_print or {}).get("image") or {}
             old_recognition = (old_print or {}).get("recognition") or {}
-            stable_image = old_image.get("remote_url") or old_image.get("imageUrl")
-            image_source = old_image.get("source") or ("punksim_community_cache" if stable_image else "official_cyberpunk_tcg")
+            historical_image = old_image.get("historicalImageUrl") or old_image.get("remote_url") or old_image.get("imageUrl")
+            asset = assets_by_printing.get(printing_id)
+            vision_asset_path = asset["vision"]["path"] if asset else None
             printings.append({
                 "printingId": printing_id,
                 "officialPrintingId": item["officialPrintingId"],
@@ -302,17 +305,24 @@ def main() -> None:
                 "rarity": item["rarity"], "finish": item["finish"], "artist": item["artist"],
                 "sourceUrl": source_card["sourceUrl"] + "?printing=" + item["officialPrintingId"],
                 "image": {
-                    "imageUrl": stable_image,
+                    "displayAssetPath": asset["display"]["path"] if asset else None,
+                    "visionAssetPath": vision_asset_path,
                     "sourceImageUrl": item["sourceImageUrl"],
-                    "imageSource": image_source,
-                    "mimeType": None, "sha256": None, "width": None, "height": None,
-                    "status": "stable_runtime" if stable_image else "source_only",
+                    "imageSource": "official_cyberpunk_tcg",
+                    "historicalImageUrl": historical_image,
+                    "displaySha256": asset["display"]["sha256"] if asset else None,
+                    "visionSha256": asset["vision"]["sha256"] if asset else None,
+                    "displayWidth": asset["display"]["width"] if asset else None,
+                    "displayHeight": asset["display"]["height"] if asset else None,
+                    "visionWidth": asset["vision"]["width"] if asset else None,
+                    "visionHeight": asset["vision"]["height"] if asset else None,
+                    "status": "stable_local_assets" if asset else "source_only",
                 },
                 "recognition": {
-                    "enabled": bool(old_recognition.get("enabled") and stable_image),
-                    "visualIdentityId": ("cpvi-" + printing_id[4:]) if old_recognition.get("enabled") and stable_image else None,
-                    "referenceImageUrl": stable_image if old_recognition.get("enabled") and stable_image else None,
-                    "status": "reference_available" if old_recognition.get("enabled") and stable_image else "pending_asset",
+                    "enabled": bool(old_recognition.get("enabled") and vision_asset_path),
+                    "visualIdentityId": ("cpvi-" + printing_id[4:]) if old_recognition.get("enabled") and vision_asset_path else None,
+                    "referenceImageUrl": vision_asset_path if old_recognition.get("enabled") and vision_asset_path else None,
+                    "status": "reference_available" if old_recognition.get("enabled") and vision_asset_path else "not_in_legacy_index",
                 },
                 "provenance": {"authority": "official", "lastVerifiedAt": args.snapshot_date},
             })

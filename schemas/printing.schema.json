@@ -17,7 +17,7 @@
     "finish": {"type": ["string", "null"]},
     "artist": {"type": ["string", "null"]},
     "sourceUrl": {"type": "string", "format": "uri"},
-    "image": {"type": "object", "required": ["imageUrl", "sourceImageUrl", "imageSource", "mimeType", "sha256", "width", "height", "status"]},
+    "image": {"type": "object", "required": ["displayAssetPath", "visionAssetPath", "sourceImageUrl", "imageSource", "displaySha256", "visionSha256", "displayWidth", "displayHeight", "visionWidth", "visionHeight", "status"]},
     "recognition": {"type": "object", "required": ["enabled", "visualIdentityId", "referenceImageUrl", "status"]},
     "provenance": {"type": "object", "required": ["authority", "lastVerifiedAt"]}
   }

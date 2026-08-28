@@ -5,1031 +5,1178 @@
     {
       "cardId": "cp-v-streetkid",
       "visualIdentityId": "cpvi-71f174b24ca73d47",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-005a.png",
+      "referenceImageUrl": "assets/vision/cpp-71f174b24ca73d47.webp",
       "name": "V — Streetkid",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-71f174b24ca73d47.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-royce-psycho-on-the-edge",
       "visualIdentityId": "cpvi-6d213cfa534078a1",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-004.png",
+      "referenceImageUrl": "assets/vision/cpp-6d213cfa534078a1.webp",
       "name": "Royce — Psycho on the Edge",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-6d213cfa534078a1.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-adam-smasher-ender-of-legends",
       "visualIdentityId": "cpvi-bc221071b29f2a98",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-001.png",
+      "referenceImageUrl": "assets/vision/cpp-bc221071b29f2a98.webp",
       "name": "Adam Smasher — Ender of Legends",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-bc221071b29f2a98.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-dexter-deshawn-off-the-grid",
       "visualIdentityId": null,
-      "referenceImageUrl": null,
+      "referenceImageUrl": "assets/vision/cpp-58ee257b9e125fdc.webp",
+      "visionAssetPath": "assets/vision/cpp-58ee257b9e125fdc.webp",
       "name": "Dexter DeShawn — Off the Grid",
-      "assetStatus": "source_only"
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-johnny-silverhand-rocking-renegade",
       "visualIdentityId": "cpvi-fb6579c1aa399ca9",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-003.png",
+      "referenceImageUrl": "assets/vision/cpp-fb6579c1aa399ca9.webp",
       "name": "Johnny Silverhand — Rocking Renegade",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-fb6579c1aa399ca9.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-rebecca-having-a-moment",
       "visualIdentityId": "cpvi-6263ba43e331461f",
-      "referenceImageUrl": "https://punksim.net/images/PRM01-005.png",
+      "referenceImageUrl": "assets/vision/cpp-6263ba43e331461f.webp",
       "name": "Rebecca — Having a Moment",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-6263ba43e331461f.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-yorinobu-arasaka-embracing-destruction",
       "visualIdentityId": "cpvi-fedb842e7045d811",
-      "referenceImageUrl": "https://punksim.net/images/EP-001.png",
+      "referenceImageUrl": "assets/vision/cpp-fedb842e7045d811.webp",
       "name": "Yorinobu Arasaka — Embracing Destruction",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-fedb842e7045d811.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-japantown-jonin",
       "visualIdentityId": "cpvi-f4c94a39c5c19477",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-010.png",
+      "referenceImageUrl": "assets/vision/cpp-f4c94a39c5c19477.webp",
       "name": "Japantown Jonin",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-f4c94a39c5c19477.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-ruthless-lowlife",
       "visualIdentityId": null,
-      "referenceImageUrl": null,
+      "referenceImageUrl": "assets/vision/cpp-260ed0642b12771c.webp",
+      "visionAssetPath": "assets/vision/cpp-260ed0642b12771c.webp",
       "name": "Ruthless Lowlife",
-      "assetStatus": "source_only"
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-la-llorona-ghost-of-the-past",
       "visualIdentityId": "cpvi-483ef8669d87edce",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-013.png",
+      "referenceImageUrl": "assets/vision/cpp-483ef8669d87edce.webp",
       "name": "La Llorona — Ghost of the Past",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-483ef8669d87edce.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-swordwise-huscle",
       "visualIdentityId": "cpvi-7a54bfb2657fdf82",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-019.png",
+      "referenceImageUrl": "assets/vision/cpp-7a54bfb2657fdf82.webp",
       "name": "Swordwise Huscle",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-7a54bfb2657fdf82.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-valentino-guerrera",
       "visualIdentityId": "cpvi-3fed8313a78d0ff6",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-021.png",
+      "referenceImageUrl": "assets/vision/cpp-3fed8313a78d0ff6.webp",
       "name": "Valentino Guerrera",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-3fed8313a78d0ff6.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-6th-street-recruits",
       "visualIdentityId": "cpvi-b7acab3fc10ef1bb",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-006.png",
+      "referenceImageUrl": "assets/vision/cpp-b7acab3fc10ef1bb.webp",
       "name": "6th Street Recruits",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-b7acab3fc10ef1bb.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-kerry-eurodyne-the-last-rockerboy",
       "visualIdentityId": "cpvi-9547b93680cbb8b7",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-012.png",
+      "referenceImageUrl": "assets/vision/cpp-9547b93680cbb8b7.webp",
       "name": "Kerry Eurodyne — The Last Rockerboy",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-9547b93680cbb8b7.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-meredith-stout-stone-cold-corpo",
       "visualIdentityId": "cpvi-ca62ce901d6f65fa",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-014.png",
+      "referenceImageUrl": "assets/vision/cpp-ca62ce901d6f65fa.webp",
       "name": "Meredith Stout — Stone Cold Corpo",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-ca62ce901d6f65fa.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-chrome-fang",
       "visualIdentityId": null,
-      "referenceImageUrl": null,
+      "referenceImageUrl": "assets/vision/cpp-cb443df51c7db098.webp",
+      "visionAssetPath": "assets/vision/cpp-cb443df51c7db098.webp",
       "name": "Chrome Fang",
-      "assetStatus": "source_only"
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-el-sombreron-la-venganza-lenta",
       "visualIdentityId": "cpvi-ddcc6a14f47e78d4",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-009.png",
+      "referenceImageUrl": "assets/vision/cpp-ddcc6a14f47e78d4.webp",
       "name": "El Sombrerón — La Venganza Lenta",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-ddcc6a14f47e78d4.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-royce-don-t-call-me-simon",
       "visualIdentityId": "cpvi-64215c21382171c0",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-016.png",
+      "referenceImageUrl": "assets/vision/cpp-64215c21382171c0.webp",
       "name": "Royce — Don't Call Me Simon",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-64215c21382171c0.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-screw-lovelorn-fool",
       "visualIdentityId": "cpvi-86d902ed5c1d1f2e",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-018.png",
+      "referenceImageUrl": "assets/vision/cpp-86d902ed5c1d1f2e.webp",
       "name": "Screw — Lovelorn Fool",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-86d902ed5c1d1f2e.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-v-roamer-of-the-badlands",
       "visualIdentityId": "cpvi-d7bb62380163393b",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-020.png",
+      "referenceImageUrl": "assets/vision/cpp-d7bb62380163393b.webp",
       "name": "V — Roamer of the Badlands",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-d7bb62380163393b.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-animals-wrecker",
       "visualIdentityId": "cpvi-c16f37f3b7592e1c",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-007.png",
+      "referenceImageUrl": "assets/vision/cpp-c16f37f3b7592e1c.webp",
       "name": "Animals Wrecker",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-c16f37f3b7592e1c.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-johnny-silverhand-never-stop-fighting",
       "visualIdentityId": "cpvi-ad4c12d992ca2eb8",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-011.png",
+      "referenceImageUrl": "assets/vision/cpp-ad4c12d992ca2eb8.webp",
       "name": "Johnny Silverhand — Never Stop Fighting",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-ad4c12d992ca2eb8.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-minotaur",
       "visualIdentityId": "cpvi-b3672ca0b4ccc812",
-      "referenceImageUrl": "https://punksim.net/images/EP-003.png",
+      "referenceImageUrl": "assets/vision/cpp-b3672ca0b4ccc812.webp",
       "name": "Minotaur",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-b3672ca0b4ccc812.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-octant",
       "visualIdentityId": "cpvi-ab5751a90bce12ac",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-015.png",
+      "referenceImageUrl": "assets/vision/cpp-ab5751a90bce12ac.webp",
       "name": "Octant",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-ab5751a90bce12ac.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-yorinobu-arasaka-steel-dragon",
       "visualIdentityId": "cpvi-3150a39e0e47e6d4",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-022.png",
+      "referenceImageUrl": "assets/vision/cpp-3150a39e0e47e6d4.webp",
       "name": "Yorinobu Arasaka — Steel Dragon",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-3150a39e0e47e6d4.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-mantis-blades",
       "visualIdentityId": "cpvi-514cdefe2f534dc6",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-025.png",
+      "referenceImageUrl": "assets/vision/cpp-514cdefe2f534dc6.webp",
       "name": "Mantis Blades",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-514cdefe2f534dc6.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-arasaka-emergency-radioport",
       "visualIdentityId": null,
-      "referenceImageUrl": null,
+      "referenceImageUrl": "assets/vision/cpp-a5255cfc741c10d2.webp",
+      "visionAssetPath": "assets/vision/cpp-a5255cfc741c10d2.webp",
       "name": "Arasaka Emergency Radioport",
-      "assetStatus": "source_only"
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-satori-sword-of-saburo",
       "visualIdentityId": "cpvi-cce6c481df036fda",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-026.png",
+      "referenceImageUrl": "assets/vision/cpp-cce6c481df036fda.webp",
       "name": "Satori — Sword of Saburo",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-cce6c481df036fda.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-deadman-transmitter",
       "visualIdentityId": "cpvi-994b0d73889d38c6",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-024.png",
+      "referenceImageUrl": "assets/vision/cpp-994b0d73889d38c6.webp",
       "name": "Deadman Transmitter",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-994b0d73889d38c6.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-all-is-lost",
       "visualIdentityId": "cpvi-60c0b05d9f2c81fb",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-027.png",
+      "referenceImageUrl": "assets/vision/cpp-60c0b05d9f2c81fb.webp",
       "name": "All is Lost",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-60c0b05d9f2c81fb.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-detonate",
       "visualIdentityId": null,
-      "referenceImageUrl": null,
+      "referenceImageUrl": "assets/vision/cpp-898b21a61328fa44.webp",
+      "visionAssetPath": "assets/vision/cpp-898b21a61328fa44.webp",
       "name": "Detonate",
-      "assetStatus": "source_only"
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-industrial-assembly",
       "visualIdentityId": "cpvi-03d6b09216a6137e",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-033.png",
+      "referenceImageUrl": "assets/vision/cpp-03d6b09216a6137e.webp",
       "name": "Industrial Assembly",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-03d6b09216a6137e.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-appetite-for-destruction",
       "visualIdentityId": "cpvi-b3d58c9c658a53d9",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-028.png",
+      "referenceImageUrl": "assets/vision/cpp-b3d58c9c658a53d9.webp",
       "name": "Appetite for Destruction",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-b3d58c9c658a53d9.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-bonnie-and-clyde",
       "visualIdentityId": "cpvi-f1cc59a0c16f7ddb",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-029.png",
+      "referenceImageUrl": "assets/vision/cpp-f1cc59a0c16f7ddb.webp",
       "name": "Bonnie and Clyde",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-f1cc59a0c16f7ddb.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-over-the-edge",
       "visualIdentityId": "cpvi-cb07e6320cc04c2f",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-034.png",
+      "referenceImageUrl": "assets/vision/cpp-cb07e6320cc04c2f.webp",
       "name": "Over the Edge",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-cb07e6320cc04c2f.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-gunpoint-diplomacy",
       "visualIdentityId": "cpvi-fd8cbfd1e939ef45",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-032.png",
+      "referenceImageUrl": "assets/vision/cpp-fd8cbfd1e939ef45.webp",
       "name": "Gunpoint Diplomacy",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-fd8cbfd1e939ef45.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-shattered-memories",
       "visualIdentityId": null,
-      "referenceImageUrl": null,
+      "referenceImageUrl": "assets/vision/cpp-afc6a9bf446b9e3f.webp",
+      "visionAssetPath": "assets/vision/cpp-afc6a9bf446b9e3f.webp",
       "name": "Shattered Memories",
-      "assetStatus": "source_only"
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-carnage-at-the-colosseum",
       "visualIdentityId": "cpvi-af82a28bed35b8ad",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-030.png",
+      "referenceImageUrl": "assets/vision/cpp-af82a28bed35b8ad.webp",
       "name": "Carnage at the Colosseum",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-af82a28bed35b8ad.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-rogue-amendiares-preem-solo",
       "visualIdentityId": "cpvi-4f8d00888c1b1f59",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-040.png",
+      "referenceImageUrl": "assets/vision/cpp-4f8d00888c1b1f59.webp",
       "name": "Rogue Amendiares — Preem Solo",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-4f8d00888c1b1f59.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-dum-dum-maelstrom-triggerman",
       "visualIdentityId": "cpvi-59c021d8a29b8aaa",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-036.png",
+      "referenceImageUrl": "assets/vision/cpp-59c021d8a29b8aaa.webp",
       "name": "Dum Dum — Maelstrom Triggerman",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-59c021d8a29b8aaa.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-kerry-eurodyne-axe-attitude-audience",
       "visualIdentityId": "cpvi-69585b6cb2f147a5",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-037.png",
+      "referenceImageUrl": "assets/vision/cpp-69585b6cb2f147a5.webp",
       "name": "Kerry Eurodyne — Axe, Attitude, Audience",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-69585b6cb2f147a5.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-muamar-reyes-el-capitan",
       "visualIdentityId": "cpvi-766de3be28b8a7c3",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-038.png",
+      "referenceImageUrl": "assets/vision/cpp-766de3be28b8a7c3.webp",
       "name": "Muamar Reyes — El Capitán",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-766de3be28b8a7c3.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-river-ward-detective-on-the-hunt",
       "visualIdentityId": "cpvi-1346a40a4077a2b6",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-039.png",
+      "referenceImageUrl": "assets/vision/cpp-1346a40a4077a2b6.webp",
       "name": "River Ward — Detective on the Hunt",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-1346a40a4077a2b6.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-viktor-vektor-sit-down-and-relax",
       "visualIdentityId": "cpvi-02d159a15874e78e",
-      "referenceImageUrl": "https://punksim.net/images/HEIST-001.png",
+      "referenceImageUrl": "assets/vision/cpp-02d159a15874e78e.webp",
       "name": "Viktor Vektor — Sit Down and Relax",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-02d159a15874e78e.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-secondhand-bombus",
       "visualIdentityId": "cpvi-287bf6c21babb8a4",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-053.png",
+      "referenceImageUrl": "assets/vision/cpp-287bf6c21babb8a4.webp",
       "name": "Secondhand Bombus",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-287bf6c21babb8a4.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-sketchy-ripper",
       "visualIdentityId": "cpvi-47d6c78571ac9ca8",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-054.png",
+      "referenceImageUrl": "assets/vision/cpp-47d6c78571ac9ca8.webp",
       "name": "Sketchy Ripper",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-47d6c78571ac9ca8.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-augmented-negotiators",
       "visualIdentityId": "cpvi-8930003633e80a21",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-043.png",
+      "referenceImageUrl": "assets/vision/cpp-8930003633e80a21.webp",
       "name": "Augmented Negotiators",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-8930003633e80a21.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-dexter-deshawn-one-last-chance",
       "visualIdentityId": "cpvi-cb7cd38e6925a981",
-      "referenceImageUrl": "https://punksim.net/images/HEIST-002.png",
+      "referenceImageUrl": "assets/vision/cpp-cb7cd38e6925a981.webp",
       "name": "Dexter DeShawn — One Last Chance",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-cb7cd38e6925a981.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-maelstrom-goons",
       "visualIdentityId": "cpvi-0673c7af57068c54",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-049.png",
+      "referenceImageUrl": "assets/vision/cpp-0673c7af57068c54.webp",
       "name": "Maelstrom Goons",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-0673c7af57068c54.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-viktor-vektor-you-might-feel-a-little-pinch",
       "visualIdentityId": "cpvi-461b090f895195ca",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-058.png",
+      "referenceImageUrl": "assets/vision/cpp-461b090f895195ca.webp",
       "name": "Viktor Vektor — You Might Feel a Little Pinch",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-461b090f895195ca.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-gilded-maton",
       "visualIdentityId": "cpvi-c2e8bf355b238fd6",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-045.png",
+      "referenceImageUrl": "assets/vision/cpp-c2e8bf355b238fd6.webp",
       "name": "Gilded Matón",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-c2e8bf355b238fd6.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-hanako-arasaka-in-a-gilded-cage",
       "visualIdentityId": "cpvi-69799b909712a523",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-046.png",
+      "referenceImageUrl": "assets/vision/cpp-69799b909712a523.webp",
       "name": "Hanako Arasaka — In a Gilded Cage",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-69799b909712a523.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-offduty-malfini",
       "visualIdentityId": "cpvi-8df637e8d88eef07",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-051.png",
+      "referenceImageUrl": "assets/vision/cpp-8df637e8d88eef07.webp",
       "name": "Offduty Malfini",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-8df637e8d88eef07.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-t-bug-amateur-philosopher",
       "visualIdentityId": "cpvi-1446fc47d35b5bc5",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-055.png",
+      "referenceImageUrl": "assets/vision/cpp-1446fc47d35b5bc5.webp",
       "name": "T-Bug — Amateur Philosopher",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-1446fc47d35b5bc5.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-caliber-totentanz-s-top-dog",
       "visualIdentityId": "cpvi-1ee9ad55bb635df7",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-044.png",
+      "referenceImageUrl": "assets/vision/cpp-1ee9ad55bb635df7.webp",
       "name": "Caliber — Totentanz's Top Dog",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-1ee9ad55bb635df7.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-maxtac-suppression-team",
       "visualIdentityId": "cpvi-eb65600a3e6706c1",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-050.png",
+      "referenceImageUrl": "assets/vision/cpp-eb65600a3e6706c1.webp",
       "name": "MaxTac Suppression Team",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-eb65600a3e6706c1.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-rockn-rockerboy",
       "visualIdentityId": "cpvi-951ddf4214118162",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-052.png",
+      "referenceImageUrl": "assets/vision/cpp-951ddf4214118162.webp",
       "name": "Rockn' Rockerboy",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-951ddf4214118162.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-viktor-vektor-drop-your-illusions",
       "visualIdentityId": "cpvi-eaf7a58af5b99b55",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-057.png",
+      "referenceImageUrl": "assets/vision/cpp-eaf7a58af5b99b55.webp",
       "name": "Viktor Vektor — Drop Your Illusions",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-eaf7a58af5b99b55.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-heywood-ripperdoc",
       "visualIdentityId": null,
-      "referenceImageUrl": null,
+      "referenceImageUrl": "assets/vision/cpp-3269c7ee898bb9bb.webp",
+      "visionAssetPath": "assets/vision/cpp-3269c7ee898bb9bb.webp",
       "name": "Heywood Ripperdoc",
-      "assetStatus": "source_only"
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-jackie-welles-ride-or-die-choom",
       "visualIdentityId": "cpvi-308271ebca6ee75d",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-048.png",
+      "referenceImageUrl": "assets/vision/cpp-308271ebca6ee75d.webp",
       "name": "Jackie Welles — Ride or Die Choom",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-308271ebca6ee75d.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-trauma-team-operatives",
       "visualIdentityId": "cpvi-eb8e45f0acc3a525",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-056.png",
+      "referenceImageUrl": "assets/vision/cpp-eb8e45f0acc3a525.webp",
       "name": "Trauma Team Operatives",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-eb8e45f0acc3a525.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-alt-cunningham-mother-of-daemons",
       "visualIdentityId": "cpvi-dad875e1132131df",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-042.png",
+      "referenceImageUrl": "assets/vision/cpp-dad875e1132131df.webp",
       "name": "Alt Cunningham — Mother of Daemons",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-dad875e1132131df.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-adam-smasher-metal-over-meat",
       "visualIdentityId": "cpvi-6442a83577ad7411",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-041.png",
+      "referenceImageUrl": "assets/vision/cpp-6442a83577ad7411.webp",
       "name": "Adam Smasher — Metal Over Meat",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-6442a83577ad7411.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-kiroshi-optics",
       "visualIdentityId": "cpvi-eb439ced9c26677a",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-061.png",
+      "referenceImageUrl": "assets/vision/cpp-eb439ced9c26677a.webp",
       "name": "Kiroshi Optics",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-eb439ced9c26677a.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-mandibular-upgrade",
       "visualIdentityId": "cpvi-e1574af3d4bb03ee",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-062.png",
+      "referenceImageUrl": "assets/vision/cpp-e1574af3d4bb03ee.webp",
       "name": "Mandibular Upgrade",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-e1574af3d4bb03ee.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-adrenaline-converter",
       "visualIdentityId": "cpvi-635676a1780a1b99",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-059.png",
+      "referenceImageUrl": "assets/vision/cpp-635676a1780a1b99.webp",
       "name": "Adrenaline Converter",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-635676a1780a1b99.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-zetatech-faceplate",
       "visualIdentityId": "cpvi-58674b48782a968f",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-064.png",
+      "referenceImageUrl": "assets/vision/cpp-58674b48782a968f.webp",
       "name": "Zetatech Faceplate",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-58674b48782a968f.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-gorilla-arms",
       "visualIdentityId": "cpvi-2fd333942ecb0bbb",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-060.png",
+      "referenceImageUrl": "assets/vision/cpp-2fd333942ecb0bbb.webp",
       "name": "Gorilla Arms",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-2fd333942ecb0bbb.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-the-relic-experimental-biochip",
       "visualIdentityId": "cpvi-2017c7a126decd71",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-063.png",
+      "referenceImageUrl": "assets/vision/cpp-2017c7a126decd71.webp",
       "name": "The Relic — Experimental Biochip",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-2017c7a126decd71.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-afterparty-at-lizzie-s",
       "visualIdentityId": "cpvi-fff0889dad6834ee",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-065.png",
+      "referenceImageUrl": "assets/vision/cpp-fff0889dad6834ee.webp",
       "name": "Afterparty at Lizzie's",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-fff0889dad6834ee.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-safety-override",
       "visualIdentityId": "cpvi-bebee8ba9212f0bc",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-069.png",
+      "referenceImageUrl": "assets/vision/cpp-bebee8ba9212f0bc.webp",
       "name": "Safety Override",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-bebee8ba9212f0bc.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-the-heist",
       "visualIdentityId": "cpvi-d86914fe7d5e9235",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-070.png",
+      "referenceImageUrl": "assets/vision/cpp-d86914fe7d5e9235.webp",
       "name": "The Heist",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-d86914fe7d5e9235.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-cyberpsychosis",
       "visualIdentityId": "cpvi-881d3f2ece459583",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-067.png",
+      "referenceImageUrl": "assets/vision/cpp-881d3f2ece459583.webp",
       "name": "Cyberpsychosis",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-881d3f2ece459583.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-live-with-the-aftermath",
       "visualIdentityId": "cpvi-73a918a4ee46230a",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-068.png",
+      "referenceImageUrl": "assets/vision/cpp-73a918a4ee46230a.webp",
       "name": "Live with the Aftermath",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-73a918a4ee46230a.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-bootleg-black-sapphire-show",
       "visualIdentityId": "cpvi-c46bb2b72d5b6957",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-066.png",
+      "referenceImageUrl": "assets/vision/cpp-c46bb2b72d5b6957.webp",
       "name": "Bootleg Black Sapphire Show",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-c46bb2b72d5b6957.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-goro-takemura-hands-unclean",
       "visualIdentityId": "cpvi-509f743f75700687",
-      "referenceImageUrl": "https://punksim.net/images/EP-012.png",
+      "referenceImageUrl": "assets/vision/cpp-509f743f75700687.webp",
       "name": "Goro Takemura — Hands Unclean",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-509f743f75700687.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-jackie-welles-mama-s-favorite",
       "visualIdentityId": "cpvi-23c628bffab6b601",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-073.png",
+      "referenceImageUrl": "assets/vision/cpp-23c628bffab6b601.webp",
       "name": "Jackie Welles — Mama's Favorite",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-23c628bffab6b601.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-goro-takemura-vengeful-bodyguard",
       "visualIdentityId": "cpvi-8b51b3dce986e893",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-071.png",
+      "referenceImageUrl": "assets/vision/cpp-8b51b3dce986e893.webp",
       "name": "Goro Takemura — Vengeful Bodyguard",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-8b51b3dce986e893.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-hanako-arasaka-daughter-of-the-emperor",
       "visualIdentityId": "cpvi-356554cd5d18c511",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-072.png",
+      "referenceImageUrl": "assets/vision/cpp-356554cd5d18c511.webp",
       "name": "Hanako Arasaka — Daughter of the Emperor",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-356554cd5d18c511.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-padre-man-of-the-cross",
       "visualIdentityId": "cpvi-d8c8d0b83dfce7f0",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-074.png",
+      "referenceImageUrl": "assets/vision/cpp-d8c8d0b83dfce7f0.webp",
       "name": "Padre — Man of the Cross",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-d8c8d0b83dfce7f0.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-panam-palmer-nomad-cavalry",
       "visualIdentityId": "cpvi-fda2bd51e9b0c9ac",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-075.png",
+      "referenceImageUrl": "assets/vision/cpp-fda2bd51e9b0c9ac.webp",
       "name": "Panam Palmer — Nomad Cavalry",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-fda2bd51e9b0c9ac.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-saburo-arasaka-stubborn-patriarch",
       "visualIdentityId": "cpvi-3b2f06e67090625e",
-      "referenceImageUrl": "https://punksim.net/images/EP-013.png",
+      "referenceImageUrl": "assets/vision/cpp-3b2f06e67090625e.webp",
       "name": "Saburo Arasaka — Stubborn Patriarch",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-3b2f06e67090625e.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-corpo-security",
       "visualIdentityId": "cpvi-1420fbeaffbd172a",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-076.png",
+      "referenceImageUrl": "assets/vision/cpp-1420fbeaffbd172a.webp",
       "name": "Corpo Security",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-1420fbeaffbd172a.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-emergency-atlus",
       "visualIdentityId": "cpvi-e390a3303b82fc1e",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-077.png",
+      "referenceImageUrl": "assets/vision/cpp-e390a3303b82fc1e.webp",
       "name": "Emergency Atlus",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-e390a3303b82fc1e.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-field-operator",
       "visualIdentityId": "cpvi-8214425ccd0d0ad3",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-078.png",
+      "referenceImageUrl": "assets/vision/cpp-8214425ccd0d0ad3.webp",
       "name": "Field Operator",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-8214425ccd0d0ad3.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-maxtac-squadron",
       "visualIdentityId": "cpvi-60c0459645904c37",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-082.png",
+      "referenceImageUrl": "assets/vision/cpp-60c0459645904c37.webp",
       "name": "MaxTac Squadron",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-60c0459645904c37.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-valentino-street-racer",
       "visualIdentityId": "cpvi-e3be2ed0c1eec7dc",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-091.png",
+      "referenceImageUrl": "assets/vision/cpp-e3be2ed0c1eec7dc.webp",
       "name": "Valentino Street Racer",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-e3be2ed0c1eec7dc.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-goro-takemura-losing-his-way",
       "visualIdentityId": "cpvi-a1e87522d2bc9270",
-      "referenceImageUrl": "https://punksim.net/images/EP-017.png",
+      "referenceImageUrl": "assets/vision/cpp-a1e87522d2bc9270.webp",
       "name": "Goro Takemura — Losing His Way",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-a1e87522d2bc9270.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-maelstrom-zealots",
       "visualIdentityId": "cpvi-0eb986c8459d91ca",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-079.png",
+      "referenceImageUrl": "assets/vision/cpp-0eb986c8459d91ca.webp",
       "name": "Maelstrom Zealots",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-0eb986c8459d91ca.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-pacifica-netrunner",
       "visualIdentityId": "cpvi-ef5a1a8db9b52808",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-084.png",
+      "referenceImageUrl": "assets/vision/cpp-ef5a1a8db9b52808.webp",
       "name": "Pacifica Netrunner",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-ef5a1a8db9b52808.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-pepe-najarro-working-doubles",
       "visualIdentityId": "cpvi-598a837abe28a565",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-086.png",
+      "referenceImageUrl": "assets/vision/cpp-598a837abe28a565.webp",
       "name": "Pepe Najarro — Working Doubles",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-598a837abe28a565.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-maxtac-av",
       "visualIdentityId": null,
-      "referenceImageUrl": null,
+      "referenceImageUrl": "assets/vision/cpp-ce261182dfe0b79c.webp",
+      "visionAssetPath": "assets/vision/cpp-ce261182dfe0b79c.webp",
       "name": "MaxTac AV",
-      "assetStatus": "source_only"
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-riding-nomad",
       "visualIdentityId": "cpvi-dcef0ee6e8b00ca4",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-087.png",
+      "referenceImageUrl": "assets/vision/cpp-dcef0ee6e8b00ca4.webp",
       "name": "Riding Nomad",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-dcef0ee6e8b00ca4.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-wraith-marauders",
       "visualIdentityId": "cpvi-7f11fb70f2dffbd8",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-092.png",
+      "referenceImageUrl": "assets/vision/cpp-7f11fb70f2dffbd8.webp",
       "name": "Wraith Marauders",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-7f11fb70f2dffbd8.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-nadia-fighting-through-grief",
       "visualIdentityId": "cpvi-1de57a6c7c72c9bf",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-083.png",
+      "referenceImageUrl": "assets/vision/cpp-1de57a6c7c72c9bf.webp",
       "name": "Nadia — Fighting Through Grief",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-1de57a6c7c72c9bf.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-panam-palmer-strength-through-family",
       "visualIdentityId": "cpvi-4e759abae11a4428",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-085.png",
+      "referenceImageUrl": "assets/vision/cpp-4e759abae11a4428.webp",
       "name": "Panam Palmer — Strength Through Family",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-4e759abae11a4428.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-maxtac-heavy",
       "visualIdentityId": null,
-      "referenceImageUrl": null,
+      "referenceImageUrl": "assets/vision/cpp-7f907cb8cc7810eb.webp",
+      "visionAssetPath": "assets/vision/cpp-7f907cb8cc7810eb.webp",
       "name": "MaxTac Heavy",
-      "assetStatus": "source_only"
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-sandayu-oda-hanako-s-guardian",
       "visualIdentityId": "cpvi-ef35751db3ce602a",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-088.png",
+      "referenceImageUrl": "assets/vision/cpp-ef35751db3ce602a.webp",
       "name": "Sandayu Oda — Hanako's Guardian",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-ef35751db3ce602a.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-saul-bright-stormrider",
       "visualIdentityId": "cpvi-af335bd1350da2dd",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-089.png",
+      "referenceImageUrl": "assets/vision/cpp-af335bd1350da2dd.webp",
       "name": "Saul Bright — Stormrider",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-af335bd1350da2dd.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-riot-shield",
       "visualIdentityId": "cpvi-62372dd2f034bacd",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-094.png",
+      "referenceImageUrl": "assets/vision/cpp-62372dd2f034bacd.webp",
       "name": "Riot Shield",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-62372dd2f034bacd.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-sandevistan",
       "visualIdentityId": "cpvi-dbeb59958d4314a6",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-095.png",
+      "referenceImageUrl": "assets/vision/cpp-dbeb59958d4314a6.webp",
       "name": "Sandevistan",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-dbeb59958d4314a6.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-overwatch-panam-s-gift",
       "visualIdentityId": "cpvi-3c17ceaf89588407",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-093.png",
+      "referenceImageUrl": "assets/vision/cpp-3c17ceaf89588407.webp",
       "name": "Overwatch — Panam's Gift",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-3c17ceaf89588407.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-zetatech-berserk",
       "visualIdentityId": "cpvi-da12d9d3784fe46e",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-096.png",
+      "referenceImageUrl": "assets/vision/cpp-da12d9d3784fe46e.webp",
       "name": "Zetatech Berserk",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-da12d9d3784fe46e.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-peace-offering",
       "visualIdentityId": "cpvi-734552d1189ae641",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-101.png",
+      "referenceImageUrl": "assets/vision/cpp-734552d1189ae641.webp",
       "name": "Peace Offering",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-734552d1189ae641.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-synapse-burnout",
       "visualIdentityId": "cpvi-d7d5b94aa52225d3",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-102.png",
+      "referenceImageUrl": "assets/vision/cpp-d7d5b94aa52225d3.webp",
       "name": "Synapse Burnout",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-d7d5b94aa52225d3.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-corporate-surveillance",
       "visualIdentityId": "cpvi-ff4e1430790eceab",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-097.png",
+      "referenceImageUrl": "assets/vision/cpp-ff4e1430790eceab.webp",
       "name": "Corporate Surveillance",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-ff4e1430790eceab.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-fool-on-the-hill",
       "visualIdentityId": "cpvi-58580f561e8e0eb1",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-099.png",
+      "referenceImageUrl": "assets/vision/cpp-58580f561e8e0eb1.webp",
       "name": "Fool on the Hill",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-58580f561e8e0eb1.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-take-control",
       "visualIdentityId": "cpvi-d37d525dfa3c04b5",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-103.png",
+      "referenceImageUrl": "assets/vision/cpp-d37d525dfa3c04b5.webp",
       "name": "Take Control",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-d37d525dfa3c04b5.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-wild-in-the-streets",
       "visualIdentityId": "cpvi-bb5a3a3a08ff7cc3",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-105.png",
+      "referenceImageUrl": "assets/vision/cpp-bb5a3a3a08ff7cc3.webp",
       "name": "Wild in the Streets",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-bb5a3a3a08ff7cc3.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-don-t-fear-the-reaper",
       "visualIdentityId": "cpvi-c2ef667cfaab84ad",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-098.png",
+      "referenceImageUrl": "assets/vision/cpp-c2ef667cfaab84ad.webp",
       "name": "(Don't Fear) The Reaper",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-c2ef667cfaab84ad.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-sasha-yakovleva-won-t-let-you-down",
       "visualIdentityId": "cpvi-93310c51e1ab876e",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-109.png",
+      "referenceImageUrl": "assets/vision/cpp-93310c51e1ab876e.webp",
       "name": "Sasha Yakovleva — Won't Let You Down",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-93310c51e1ab876e.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-v-corporate-exile",
       "visualIdentityId": "cpvi-f017c200a38d3bd4",
-      "referenceImageUrl": "https://punksim.net/images/HEIST-012.png",
+      "referenceImageUrl": "assets/vision/cpp-f017c200a38d3bd4.webp",
       "name": "V — Corporate Exile",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-f017c200a38d3bd4.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-alt-cunningham-soulkiller-architect",
       "visualIdentityId": "cpvi-c6f6801f7e5aa26d",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-106.png",
+      "referenceImageUrl": "assets/vision/cpp-c6f6801f7e5aa26d.webp",
       "name": "Alt Cunningham — Soulkiller Architect",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-c6f6801f7e5aa26d.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-evelyn-parker-beautiful-enigma",
       "visualIdentityId": "cpvi-162f9e74580f40b5",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-107.png",
+      "referenceImageUrl": "assets/vision/cpp-162f9e74580f40b5.webp",
       "name": "Evelyn Parker — Beautiful Enigma",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-162f9e74580f40b5.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-jackie-welles-pour-one-out-for-me",
       "visualIdentityId": "cpvi-bd0ab6102f763890",
-      "referenceImageUrl": "https://punksim.net/images/HEIST-011.png",
+      "referenceImageUrl": "assets/vision/cpp-bd0ab6102f763890.webp",
       "name": "Jackie Welles — Pour One Out For Me",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-bd0ab6102f763890.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-judy-alvarez-braindance-maestro",
       "visualIdentityId": "cpvi-ac0d5e2e42a90758",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-108.png",
+      "referenceImageUrl": "assets/vision/cpp-ac0d5e2e42a90758.webp",
       "name": "Judy Álvarez — Braindance Maestro",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-ac0d5e2e42a90758.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-wakako-okada-peace-and-harmony",
       "visualIdentityId": "cpvi-e630fb858f7b542c",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-110.png",
+      "referenceImageUrl": "assets/vision/cpp-e630fb858f7b542c.webp",
       "name": "Wakako Okada — Peace and Harmony",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-e630fb858f7b542c.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-evelyn-parker-scheming-siren",
       "visualIdentityId": "cpvi-d89087b7af84e213",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-113.png",
+      "referenceImageUrl": "assets/vision/cpp-d89087b7af84e213.webp",
       "name": "Evelyn Parker — Scheming Siren",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-d89087b7af84e213.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-jacked-in-voodoo-boy",
       "visualIdentityId": "cpvi-da388f8d51ce318c",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-115.png",
+      "referenceImageUrl": "assets/vision/cpp-da388f8d51ce318c.webp",
       "name": "Jacked-In Voodoo Boy",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-da388f8d51ce318c.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-delamain-rideshare-ai",
       "visualIdentityId": "cpvi-03ee5f74a55d9337",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-111.png",
+      "referenceImageUrl": "assets/vision/cpp-03ee5f74a55d9337.webp",
       "name": "Delamain — Rideshare AI",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-03ee5f74a55d9337.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-misty-olszewski-mender-of-broken-spirits",
       "visualIdentityId": "cpvi-1cfd280cecba09ea",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-119.png",
+      "referenceImageUrl": "assets/vision/cpp-1cfd280cecba09ea.webp",
       "name": "Misty Olszewski — Mender of Broken Spirits",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-1cfd280cecba09ea.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-mox-inciters",
       "visualIdentityId": "cpvi-28f8c3c44fa5753c",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-122.png",
+      "referenceImageUrl": "assets/vision/cpp-28f8c3c44fa5753c.webp",
       "name": "Mox Inciters",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-28f8c3c44fa5753c.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-delamain-cab",
       "visualIdentityId": "cpvi-077861a5ffc1f7a5",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-112.png",
+      "referenceImageUrl": "assets/vision/cpp-077861a5ffc1f7a5.webp",
       "name": "Delamain Cab",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-077861a5ffc1f7a5.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-hacked-corpo",
       "visualIdentityId": "cpvi-ceab0ea9b2c9af4d",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-114.png",
+      "referenceImageUrl": "assets/vision/cpp-ceab0ea9b2c9af4d.webp",
       "name": "Hacked Corpo",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-ceab0ea9b2c9af4d.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-psycho-squad",
       "visualIdentityId": "cpvi-e410e6b99e9f357c",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-124.png",
+      "referenceImageUrl": "assets/vision/cpp-e410e6b99e9f357c.webp",
       "name": "Psycho Squad",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-e410e6b99e9f357c.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-rita-wheeler-no-stupid-questions",
       "visualIdentityId": "cpvi-62251b0366bdde8b",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-125.png",
+      "referenceImageUrl": "assets/vision/cpp-62251b0366bdde8b.webp",
       "name": "Rita Wheeler — No Stupid Questions",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-62251b0366bdde8b.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-westbrook-netrunner",
       "visualIdentityId": null,
-      "referenceImageUrl": null,
+      "referenceImageUrl": "assets/vision/cpp-739b8ee7632725c1.webp",
+      "visionAssetPath": "assets/vision/cpp-739b8ee7632725c1.webp",
       "name": "Westbrook Netrunner",
-      "assetStatus": "source_only"
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-lizzy-wizzy-delicate-weapon",
       "visualIdentityId": "cpvi-cb2f33bbe78fcdfb",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-117.png",
+      "referenceImageUrl": "assets/vision/cpp-cb2f33bbe78fcdfb.webp",
       "name": "Lizzy Wizzy — Delicate Weapon",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-cb2f33bbe78fcdfb.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-maman-brigitte-spirit-of-death",
       "visualIdentityId": "cpvi-d4161a4649d4ccce",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-118.png",
+      "referenceImageUrl": "assets/vision/cpp-d4161a4649d4ccce.webp",
       "name": "Maman Brigitte — Spirit of Death",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-d4161a4649d4ccce.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-modded-muramasa",
       "visualIdentityId": "cpvi-a7beea5591205534",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-121.png",
+      "referenceImageUrl": "assets/vision/cpp-a7beea5591205534.webp",
       "name": "Modded Muramasa",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-a7beea5591205534.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-mt0d12-flathead",
       "visualIdentityId": "cpvi-a5aa543f8af65490",
-      "referenceImageUrl": "https://punksim.net/images/HEIST-015.png",
+      "referenceImageUrl": "assets/vision/cpp-a5aa543f8af65490.webp",
       "name": "MT0D12 Flathead",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-a5aa543f8af65490.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-rogue-amendiares-queen-of-the-afterlife",
       "visualIdentityId": null,
-      "referenceImageUrl": null,
+      "referenceImageUrl": "assets/vision/cpp-bbbab68f92a3d3ed.webp",
+      "visionAssetPath": "assets/vision/cpp-bbbab68f92a3d3ed.webp",
       "name": "Rogue Amendiares — Queen of the Afterlife",
-      "assetStatus": "source_only"
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-judy-alvarez-nothing-to-doubt",
       "visualIdentityId": "cpvi-9be3dc9a666eea6d",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-116.png",
+      "referenceImageUrl": "assets/vision/cpp-9be3dc9a666eea6d.webp",
       "name": "Judy Álvarez — Nothing to Doubt",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-9be3dc9a666eea6d.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-modded-kusanagi",
       "visualIdentityId": "cpvi-87bdebc840a44aa4",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-120.png",
+      "referenceImageUrl": "assets/vision/cpp-87bdebc840a44aa4.webp",
       "name": "Modded Kusanagi",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-87bdebc840a44aa4.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-placide-voodoo-sentinel",
       "visualIdentityId": "cpvi-180078d05370e589",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-123.png",
+      "referenceImageUrl": "assets/vision/cpp-180078d05370e589.webp",
       "name": "Placide — Voodoo Sentinel",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-180078d05370e589.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-tetratronic-rippler",
       "visualIdentityId": null,
-      "referenceImageUrl": null,
+      "referenceImageUrl": "assets/vision/cpp-ed4be6ed4eac2b57.webp",
+      "visionAssetPath": "assets/vision/cpp-ed4be6ed4eac2b57.webp",
       "name": "Tetratronic Rippler",
-      "assetStatus": "source_only"
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-dying-night-v-s-pistol",
       "visualIdentityId": "cpvi-3dbb1307e69c7bf8",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-128.png",
+      "referenceImageUrl": "assets/vision/cpp-3dbb1307e69c7bf8.webp",
       "name": "Dying Night — V's Pistol",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-3dbb1307e69c7bf8.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-netwatch-netdriver",
       "visualIdentityId": "cpvi-ae887fe7ad55acd8",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-129.png",
+      "referenceImageUrl": "assets/vision/cpp-ae887fe7ad55acd8.webp",
       "name": "NetWatch Netdriver",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-ae887fe7ad55acd8.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-floor-it",
       "visualIdentityId": "cpvi-240f8ed0f0318360",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-132.png",
+      "referenceImageUrl": "assets/vision/cpp-240f8ed0f0318360.webp",
       "name": "Floor It",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-240f8ed0f0318360.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-trust-no-one",
       "visualIdentityId": "cpvi-ba93bbe4c9d589d5",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-139.png",
+      "referenceImageUrl": "assets/vision/cpp-ba93bbe4c9d589d5.webp",
       "name": "Trust No One",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-ba93bbe4c9d589d5.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-reboot-optics",
       "visualIdentityId": "cpvi-ffe2a50f1865e83d",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-136.png",
+      "referenceImageUrl": "assets/vision/cpp-ffe2a50f1865e83d.webp",
       "name": "Reboot Optics",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-ffe2a50f1865e83d.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-three-mouths-one-desire",
       "visualIdentityId": null,
-      "referenceImageUrl": null,
+      "referenceImageUrl": "assets/vision/cpp-f7d8397b82cecdfb.webp",
+      "visionAssetPath": "assets/vision/cpp-f7d8397b82cecdfb.webp",
       "name": "Three Mouths, One Desire",
-      "assetStatus": "source_only"
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-chrome-reverie",
       "visualIdentityId": "cpvi-bca4c8ccddf27e99",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-131.png",
+      "referenceImageUrl": "assets/vision/cpp-bca4c8ccddf27e99.webp",
       "name": "Chrome Reverie",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-bca4c8ccddf27e99.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-nocturne-op55-n1",
       "visualIdentityId": null,
-      "referenceImageUrl": null,
+      "referenceImageUrl": "assets/vision/cpp-9a22a72ffdb28768.webp",
+      "visionAssetPath": "assets/vision/cpp-9a22a72ffdb28768.webp",
       "name": "Nocturne OP55 N1",
-      "assetStatus": "source_only"
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-pyramid-song",
       "visualIdentityId": "cpvi-3b7b4695442558ee",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-135.png",
+      "referenceImageUrl": "assets/vision/cpp-3b7b4695442558ee.webp",
       "name": "Pyramid Song",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-3b7b4695442558ee.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-unlikely-bond",
       "visualIdentityId": "cpvi-eef8f1d28001db6f",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-140.png",
+      "referenceImageUrl": "assets/vision/cpp-eef8f1d28001db6f.webp",
       "name": "Unlikely Bond",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-eef8f1d28001db6f.webp",
+      "assetStatus": "stable_local_assets"
     },
     {
       "cardId": "cp-les-elemens",
       "visualIdentityId": "cpvi-6e4d31bea8587fcc",
-      "referenceImageUrl": "https://punksim.net/images/WNTC-133.png",
+      "referenceImageUrl": "assets/vision/cpp-6e4d31bea8587fcc.webp",
       "name": "Les Élémens",
-      "assetStatus": "stable_runtime"
+      "visionAssetPath": "assets/vision/cpp-6e4d31bea8587fcc.webp",
+      "assetStatus": "stable_local_assets"
     }
   ]
 }

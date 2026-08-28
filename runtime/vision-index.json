@@ -7,15 +7,17 @@
       "cpp-71f174b24ca73d47"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-005a.png",
+    "referenceImageUrl": "assets/vision/cpp-71f174b24ca73d47.webp",
+    "visionAssetPath": "assets/vision/cpp-71f174b24ca73d47.webp",
+    "displayAssetPath": "assets/display/cpp-71f174b24ca73d47.webp",
     "printing_id": "cpp-71f174b24ca73d47",
     "card_id": "cp-v-streetkid",
     "name": "V — Streetkid",
     "set_id": "wtnc-retail",
     "number": "005a",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-005a.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-71f174b24ca73d47.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-6d213cfa534078a1",
@@ -25,15 +27,17 @@
       "cpp-6d213cfa534078a1"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-004.png",
+    "referenceImageUrl": "assets/vision/cpp-6d213cfa534078a1.webp",
+    "visionAssetPath": "assets/vision/cpp-6d213cfa534078a1.webp",
+    "displayAssetPath": "assets/display/cpp-6d213cfa534078a1.webp",
     "printing_id": "cpp-6d213cfa534078a1",
     "card_id": "cp-royce-psycho-on-the-edge",
     "name": "Royce — Psycho on the Edge",
     "set_id": "wtnc-retail",
     "number": "004",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-004.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-6d213cfa534078a1.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-bc221071b29f2a98",
@@ -43,15 +47,17 @@
       "cpp-bc221071b29f2a98"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-001.png",
+    "referenceImageUrl": "assets/vision/cpp-bc221071b29f2a98.webp",
+    "visionAssetPath": "assets/vision/cpp-bc221071b29f2a98.webp",
+    "displayAssetPath": "assets/display/cpp-bc221071b29f2a98.webp",
     "printing_id": "cpp-bc221071b29f2a98",
     "card_id": "cp-adam-smasher-ender-of-legends",
     "name": "Adam Smasher — Ender of Legends",
     "set_id": "wtnc-retail",
     "number": "001",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-001.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-bc221071b29f2a98.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-fb6579c1aa399ca9",
@@ -61,15 +67,17 @@
       "cpp-fb6579c1aa399ca9"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-003.png",
+    "referenceImageUrl": "assets/vision/cpp-fb6579c1aa399ca9.webp",
+    "visionAssetPath": "assets/vision/cpp-fb6579c1aa399ca9.webp",
+    "displayAssetPath": "assets/display/cpp-fb6579c1aa399ca9.webp",
     "printing_id": "cpp-fb6579c1aa399ca9",
     "card_id": "cp-johnny-silverhand-rocking-renegade",
     "name": "Johnny Silverhand — Rocking Renegade",
     "set_id": "wtnc-retail",
     "number": "003",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-003.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-fb6579c1aa399ca9.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-6263ba43e331461f",
@@ -79,15 +87,17 @@
       "cpp-6263ba43e331461f"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/PRM01-005.png",
+    "referenceImageUrl": "assets/vision/cpp-6263ba43e331461f.webp",
+    "visionAssetPath": "assets/vision/cpp-6263ba43e331461f.webp",
+    "displayAssetPath": "assets/display/cpp-6263ba43e331461f.webp",
     "printing_id": "cpp-6263ba43e331461f",
     "card_id": "cp-rebecca-having-a-moment",
     "name": "Rebecca — Having a Moment",
     "set_id": "set-1-promos",
     "number": "005",
     "variant_kind": "promo_art",
-    "image_url": "https://punksim.net/images/PRM01-005.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-6263ba43e331461f.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-fedb842e7045d811",
@@ -97,15 +107,17 @@
       "cpp-fedb842e7045d811"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/EP-001.png",
+    "referenceImageUrl": "assets/vision/cpp-fedb842e7045d811.webp",
+    "visionAssetPath": "assets/vision/cpp-fedb842e7045d811.webp",
+    "displayAssetPath": "assets/display/cpp-fedb842e7045d811.webp",
     "printing_id": "cpp-fedb842e7045d811",
     "card_id": "cp-yorinobu-arasaka-embracing-destruction",
     "name": "Yorinobu Arasaka — Embracing Destruction",
     "set_id": "embracing-power-retail",
     "number": "001",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/EP-001.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-fedb842e7045d811.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-f4c94a39c5c19477",
@@ -115,15 +127,17 @@
       "cpp-f4c94a39c5c19477"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-010.png",
+    "referenceImageUrl": "assets/vision/cpp-f4c94a39c5c19477.webp",
+    "visionAssetPath": "assets/vision/cpp-f4c94a39c5c19477.webp",
+    "displayAssetPath": "assets/display/cpp-f4c94a39c5c19477.webp",
     "printing_id": "cpp-f4c94a39c5c19477",
     "card_id": "cp-japantown-jonin",
     "name": "Japantown Jonin",
     "set_id": "wtnc-retail",
     "number": "010",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-010.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-f4c94a39c5c19477.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-483ef8669d87edce",
@@ -133,15 +147,17 @@
       "cpp-483ef8669d87edce"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-013.png",
+    "referenceImageUrl": "assets/vision/cpp-483ef8669d87edce.webp",
+    "visionAssetPath": "assets/vision/cpp-483ef8669d87edce.webp",
+    "displayAssetPath": "assets/display/cpp-483ef8669d87edce.webp",
     "printing_id": "cpp-483ef8669d87edce",
     "card_id": "cp-la-llorona-ghost-of-the-past",
     "name": "La Llorona — Ghost of the Past",
     "set_id": "wtnc-retail",
     "number": "013",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-013.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-483ef8669d87edce.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-7a54bfb2657fdf82",
@@ -151,15 +167,17 @@
       "cpp-7a54bfb2657fdf82"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-019.png",
+    "referenceImageUrl": "assets/vision/cpp-7a54bfb2657fdf82.webp",
+    "visionAssetPath": "assets/vision/cpp-7a54bfb2657fdf82.webp",
+    "displayAssetPath": "assets/display/cpp-7a54bfb2657fdf82.webp",
     "printing_id": "cpp-7a54bfb2657fdf82",
     "card_id": "cp-swordwise-huscle",
     "name": "Swordwise Huscle",
     "set_id": "wtnc-retail",
     "number": "019",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-019.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-7a54bfb2657fdf82.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-3fed8313a78d0ff6",
@@ -169,15 +187,17 @@
       "cpp-3fed8313a78d0ff6"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-021.png",
+    "referenceImageUrl": "assets/vision/cpp-3fed8313a78d0ff6.webp",
+    "visionAssetPath": "assets/vision/cpp-3fed8313a78d0ff6.webp",
+    "displayAssetPath": "assets/display/cpp-3fed8313a78d0ff6.webp",
     "printing_id": "cpp-3fed8313a78d0ff6",
     "card_id": "cp-valentino-guerrera",
     "name": "Valentino Guerrera",
     "set_id": "wtnc-retail",
     "number": "021",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-021.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-3fed8313a78d0ff6.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-b7acab3fc10ef1bb",
@@ -187,15 +207,17 @@
       "cpp-b7acab3fc10ef1bb"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-006.png",
+    "referenceImageUrl": "assets/vision/cpp-b7acab3fc10ef1bb.webp",
+    "visionAssetPath": "assets/vision/cpp-b7acab3fc10ef1bb.webp",
+    "displayAssetPath": "assets/display/cpp-b7acab3fc10ef1bb.webp",
     "printing_id": "cpp-b7acab3fc10ef1bb",
     "card_id": "cp-6th-street-recruits",
     "name": "6th Street Recruits",
     "set_id": "wtnc-retail",
     "number": "006",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-006.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-b7acab3fc10ef1bb.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-9547b93680cbb8b7",
@@ -205,15 +227,17 @@
       "cpp-9547b93680cbb8b7"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-012.png",
+    "referenceImageUrl": "assets/vision/cpp-9547b93680cbb8b7.webp",
+    "visionAssetPath": "assets/vision/cpp-9547b93680cbb8b7.webp",
+    "displayAssetPath": "assets/display/cpp-9547b93680cbb8b7.webp",
     "printing_id": "cpp-9547b93680cbb8b7",
     "card_id": "cp-kerry-eurodyne-the-last-rockerboy",
     "name": "Kerry Eurodyne — The Last Rockerboy",
     "set_id": "wtnc-retail",
     "number": "012",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-012.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-9547b93680cbb8b7.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-ca62ce901d6f65fa",
@@ -223,15 +247,17 @@
       "cpp-ca62ce901d6f65fa"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-014.png",
+    "referenceImageUrl": "assets/vision/cpp-ca62ce901d6f65fa.webp",
+    "visionAssetPath": "assets/vision/cpp-ca62ce901d6f65fa.webp",
+    "displayAssetPath": "assets/display/cpp-ca62ce901d6f65fa.webp",
     "printing_id": "cpp-ca62ce901d6f65fa",
     "card_id": "cp-meredith-stout-stone-cold-corpo",
     "name": "Meredith Stout — Stone Cold Corpo",
     "set_id": "wtnc-retail",
     "number": "014",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-014.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-ca62ce901d6f65fa.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-ddcc6a14f47e78d4",
@@ -241,15 +267,17 @@
       "cpp-ddcc6a14f47e78d4"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-009.png",
+    "referenceImageUrl": "assets/vision/cpp-ddcc6a14f47e78d4.webp",
+    "visionAssetPath": "assets/vision/cpp-ddcc6a14f47e78d4.webp",
+    "displayAssetPath": "assets/display/cpp-ddcc6a14f47e78d4.webp",
     "printing_id": "cpp-ddcc6a14f47e78d4",
     "card_id": "cp-el-sombreron-la-venganza-lenta",
     "name": "El Sombrerón — La Venganza Lenta",
     "set_id": "wtnc-retail",
     "number": "009",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-009.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-ddcc6a14f47e78d4.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-64215c21382171c0",
@@ -259,15 +287,17 @@
       "cpp-64215c21382171c0"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-016.png",
+    "referenceImageUrl": "assets/vision/cpp-64215c21382171c0.webp",
+    "visionAssetPath": "assets/vision/cpp-64215c21382171c0.webp",
+    "displayAssetPath": "assets/display/cpp-64215c21382171c0.webp",
     "printing_id": "cpp-64215c21382171c0",
     "card_id": "cp-royce-don-t-call-me-simon",
     "name": "Royce — Don't Call Me Simon",
     "set_id": "wtnc-retail",
     "number": "016",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-016.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-64215c21382171c0.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-86d902ed5c1d1f2e",
@@ -277,15 +307,17 @@
       "cpp-86d902ed5c1d1f2e"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-018.png",
+    "referenceImageUrl": "assets/vision/cpp-86d902ed5c1d1f2e.webp",
+    "visionAssetPath": "assets/vision/cpp-86d902ed5c1d1f2e.webp",
+    "displayAssetPath": "assets/display/cpp-86d902ed5c1d1f2e.webp",
     "printing_id": "cpp-86d902ed5c1d1f2e",
     "card_id": "cp-screw-lovelorn-fool",
     "name": "Screw — Lovelorn Fool",
     "set_id": "wtnc-retail",
     "number": "018",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-018.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-86d902ed5c1d1f2e.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-d7bb62380163393b",
@@ -295,15 +327,17 @@
       "cpp-d7bb62380163393b"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-020.png",
+    "referenceImageUrl": "assets/vision/cpp-d7bb62380163393b.webp",
+    "visionAssetPath": "assets/vision/cpp-d7bb62380163393b.webp",
+    "displayAssetPath": "assets/display/cpp-d7bb62380163393b.webp",
     "printing_id": "cpp-d7bb62380163393b",
     "card_id": "cp-v-roamer-of-the-badlands",
     "name": "V — Roamer of the Badlands",
     "set_id": "wtnc-retail",
     "number": "020",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-020.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-d7bb62380163393b.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-c16f37f3b7592e1c",
@@ -313,15 +347,17 @@
       "cpp-c16f37f3b7592e1c"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-007.png",
+    "referenceImageUrl": "assets/vision/cpp-c16f37f3b7592e1c.webp",
+    "visionAssetPath": "assets/vision/cpp-c16f37f3b7592e1c.webp",
+    "displayAssetPath": "assets/display/cpp-c16f37f3b7592e1c.webp",
     "printing_id": "cpp-c16f37f3b7592e1c",
     "card_id": "cp-animals-wrecker",
     "name": "Animals Wrecker",
     "set_id": "wtnc-retail",
     "number": "007",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-007.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-c16f37f3b7592e1c.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-ad4c12d992ca2eb8",
@@ -331,15 +367,17 @@
       "cpp-ad4c12d992ca2eb8"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-011.png",
+    "referenceImageUrl": "assets/vision/cpp-ad4c12d992ca2eb8.webp",
+    "visionAssetPath": "assets/vision/cpp-ad4c12d992ca2eb8.webp",
+    "displayAssetPath": "assets/display/cpp-ad4c12d992ca2eb8.webp",
     "printing_id": "cpp-ad4c12d992ca2eb8",
     "card_id": "cp-johnny-silverhand-never-stop-fighting",
     "name": "Johnny Silverhand — Never Stop Fighting",
     "set_id": "wtnc-retail",
     "number": "011",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-011.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-ad4c12d992ca2eb8.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-b3672ca0b4ccc812",
@@ -349,15 +387,17 @@
       "cpp-b3672ca0b4ccc812"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/EP-003.png",
+    "referenceImageUrl": "assets/vision/cpp-b3672ca0b4ccc812.webp",
+    "visionAssetPath": "assets/vision/cpp-b3672ca0b4ccc812.webp",
+    "displayAssetPath": "assets/display/cpp-b3672ca0b4ccc812.webp",
     "printing_id": "cpp-b3672ca0b4ccc812",
     "card_id": "cp-minotaur",
     "name": "Minotaur",
     "set_id": "embracing-power-retail",
     "number": "003",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/EP-003.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-b3672ca0b4ccc812.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-ab5751a90bce12ac",
@@ -367,15 +407,17 @@
       "cpp-ab5751a90bce12ac"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-015.png",
+    "referenceImageUrl": "assets/vision/cpp-ab5751a90bce12ac.webp",
+    "visionAssetPath": "assets/vision/cpp-ab5751a90bce12ac.webp",
+    "displayAssetPath": "assets/display/cpp-ab5751a90bce12ac.webp",
     "printing_id": "cpp-ab5751a90bce12ac",
     "card_id": "cp-octant",
     "name": "Octant",
     "set_id": "wtnc-retail",
     "number": "015",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-015.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-ab5751a90bce12ac.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-3150a39e0e47e6d4",
@@ -385,15 +427,17 @@
       "cpp-3150a39e0e47e6d4"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-022.png",
+    "referenceImageUrl": "assets/vision/cpp-3150a39e0e47e6d4.webp",
+    "visionAssetPath": "assets/vision/cpp-3150a39e0e47e6d4.webp",
+    "displayAssetPath": "assets/display/cpp-3150a39e0e47e6d4.webp",
     "printing_id": "cpp-3150a39e0e47e6d4",
     "card_id": "cp-yorinobu-arasaka-steel-dragon",
     "name": "Yorinobu Arasaka — Steel Dragon",
     "set_id": "wtnc-retail",
     "number": "022",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-022.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-3150a39e0e47e6d4.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-514cdefe2f534dc6",
@@ -403,15 +447,17 @@
       "cpp-514cdefe2f534dc6"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-025.png",
+    "referenceImageUrl": "assets/vision/cpp-514cdefe2f534dc6.webp",
+    "visionAssetPath": "assets/vision/cpp-514cdefe2f534dc6.webp",
+    "displayAssetPath": "assets/display/cpp-514cdefe2f534dc6.webp",
     "printing_id": "cpp-514cdefe2f534dc6",
     "card_id": "cp-mantis-blades",
     "name": "Mantis Blades",
     "set_id": "wtnc-retail",
     "number": "025",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-025.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-514cdefe2f534dc6.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-cce6c481df036fda",
@@ -421,15 +467,17 @@
       "cpp-cce6c481df036fda"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-026.png",
+    "referenceImageUrl": "assets/vision/cpp-cce6c481df036fda.webp",
+    "visionAssetPath": "assets/vision/cpp-cce6c481df036fda.webp",
+    "displayAssetPath": "assets/display/cpp-cce6c481df036fda.webp",
     "printing_id": "cpp-cce6c481df036fda",
     "card_id": "cp-satori-sword-of-saburo",
     "name": "Satori — Sword of Saburo",
     "set_id": "wtnc-retail",
     "number": "026",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-026.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-cce6c481df036fda.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-994b0d73889d38c6",
@@ -439,15 +487,17 @@
       "cpp-994b0d73889d38c6"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-024.png",
+    "referenceImageUrl": "assets/vision/cpp-994b0d73889d38c6.webp",
+    "visionAssetPath": "assets/vision/cpp-994b0d73889d38c6.webp",
+    "displayAssetPath": "assets/display/cpp-994b0d73889d38c6.webp",
     "printing_id": "cpp-994b0d73889d38c6",
     "card_id": "cp-deadman-transmitter",
     "name": "Deadman Transmitter",
     "set_id": "wtnc-retail",
     "number": "024",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-024.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-994b0d73889d38c6.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-60c0b05d9f2c81fb",
@@ -457,15 +507,17 @@
       "cpp-60c0b05d9f2c81fb"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-027.png",
+    "referenceImageUrl": "assets/vision/cpp-60c0b05d9f2c81fb.webp",
+    "visionAssetPath": "assets/vision/cpp-60c0b05d9f2c81fb.webp",
+    "displayAssetPath": "assets/display/cpp-60c0b05d9f2c81fb.webp",
     "printing_id": "cpp-60c0b05d9f2c81fb",
     "card_id": "cp-all-is-lost",
     "name": "All is Lost",
     "set_id": "wtnc-retail",
     "number": "027",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-027.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-60c0b05d9f2c81fb.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-03d6b09216a6137e",
@@ -475,15 +527,17 @@
       "cpp-03d6b09216a6137e"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-033.png",
+    "referenceImageUrl": "assets/vision/cpp-03d6b09216a6137e.webp",
+    "visionAssetPath": "assets/vision/cpp-03d6b09216a6137e.webp",
+    "displayAssetPath": "assets/display/cpp-03d6b09216a6137e.webp",
     "printing_id": "cpp-03d6b09216a6137e",
     "card_id": "cp-industrial-assembly",
     "name": "Industrial Assembly",
     "set_id": "wtnc-retail",
     "number": "033",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-033.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-03d6b09216a6137e.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-b3d58c9c658a53d9",
@@ -493,15 +547,17 @@
       "cpp-b3d58c9c658a53d9"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-028.png",
+    "referenceImageUrl": "assets/vision/cpp-b3d58c9c658a53d9.webp",
+    "visionAssetPath": "assets/vision/cpp-b3d58c9c658a53d9.webp",
+    "displayAssetPath": "assets/display/cpp-b3d58c9c658a53d9.webp",
     "printing_id": "cpp-b3d58c9c658a53d9",
     "card_id": "cp-appetite-for-destruction",
     "name": "Appetite for Destruction",
     "set_id": "wtnc-retail",
     "number": "028",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-028.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-b3d58c9c658a53d9.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-f1cc59a0c16f7ddb",
@@ -511,15 +567,17 @@
       "cpp-f1cc59a0c16f7ddb"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-029.png",
+    "referenceImageUrl": "assets/vision/cpp-f1cc59a0c16f7ddb.webp",
+    "visionAssetPath": "assets/vision/cpp-f1cc59a0c16f7ddb.webp",
+    "displayAssetPath": "assets/display/cpp-f1cc59a0c16f7ddb.webp",
     "printing_id": "cpp-f1cc59a0c16f7ddb",
     "card_id": "cp-bonnie-and-clyde",
     "name": "Bonnie and Clyde",
     "set_id": "wtnc-retail",
     "number": "029",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-029.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-f1cc59a0c16f7ddb.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-cb07e6320cc04c2f",
@@ -529,15 +587,17 @@
       "cpp-cb07e6320cc04c2f"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-034.png",
+    "referenceImageUrl": "assets/vision/cpp-cb07e6320cc04c2f.webp",
+    "visionAssetPath": "assets/vision/cpp-cb07e6320cc04c2f.webp",
+    "displayAssetPath": "assets/display/cpp-cb07e6320cc04c2f.webp",
     "printing_id": "cpp-cb07e6320cc04c2f",
     "card_id": "cp-over-the-edge",
     "name": "Over the Edge",
     "set_id": "wtnc-retail",
     "number": "034",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-034.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-cb07e6320cc04c2f.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-fd8cbfd1e939ef45",
@@ -547,15 +607,17 @@
       "cpp-fd8cbfd1e939ef45"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-032.png",
+    "referenceImageUrl": "assets/vision/cpp-fd8cbfd1e939ef45.webp",
+    "visionAssetPath": "assets/vision/cpp-fd8cbfd1e939ef45.webp",
+    "displayAssetPath": "assets/display/cpp-fd8cbfd1e939ef45.webp",
     "printing_id": "cpp-fd8cbfd1e939ef45",
     "card_id": "cp-gunpoint-diplomacy",
     "name": "Gunpoint Diplomacy",
     "set_id": "wtnc-retail",
     "number": "032",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-032.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-fd8cbfd1e939ef45.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-af82a28bed35b8ad",
@@ -565,15 +627,17 @@
       "cpp-af82a28bed35b8ad"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-030.png",
+    "referenceImageUrl": "assets/vision/cpp-af82a28bed35b8ad.webp",
+    "visionAssetPath": "assets/vision/cpp-af82a28bed35b8ad.webp",
+    "displayAssetPath": "assets/display/cpp-af82a28bed35b8ad.webp",
     "printing_id": "cpp-af82a28bed35b8ad",
     "card_id": "cp-carnage-at-the-colosseum",
     "name": "Carnage at the Colosseum",
     "set_id": "wtnc-retail",
     "number": "030",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-030.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-af82a28bed35b8ad.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-4f8d00888c1b1f59",
@@ -583,15 +647,17 @@
       "cpp-4f8d00888c1b1f59"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-040.png",
+    "referenceImageUrl": "assets/vision/cpp-4f8d00888c1b1f59.webp",
+    "visionAssetPath": "assets/vision/cpp-4f8d00888c1b1f59.webp",
+    "displayAssetPath": "assets/display/cpp-4f8d00888c1b1f59.webp",
     "printing_id": "cpp-4f8d00888c1b1f59",
     "card_id": "cp-rogue-amendiares-preem-solo",
     "name": "Rogue Amendiares — Preem Solo",
     "set_id": "wtnc-retail",
     "number": "040",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-040.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-4f8d00888c1b1f59.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-59c021d8a29b8aaa",
@@ -601,15 +667,17 @@
       "cpp-59c021d8a29b8aaa"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-036.png",
+    "referenceImageUrl": "assets/vision/cpp-59c021d8a29b8aaa.webp",
+    "visionAssetPath": "assets/vision/cpp-59c021d8a29b8aaa.webp",
+    "displayAssetPath": "assets/display/cpp-59c021d8a29b8aaa.webp",
     "printing_id": "cpp-59c021d8a29b8aaa",
     "card_id": "cp-dum-dum-maelstrom-triggerman",
     "name": "Dum Dum — Maelstrom Triggerman",
     "set_id": "wtnc-retail",
     "number": "036",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-036.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-59c021d8a29b8aaa.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-69585b6cb2f147a5",
@@ -619,15 +687,17 @@
       "cpp-69585b6cb2f147a5"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-037.png",
+    "referenceImageUrl": "assets/vision/cpp-69585b6cb2f147a5.webp",
+    "visionAssetPath": "assets/vision/cpp-69585b6cb2f147a5.webp",
+    "displayAssetPath": "assets/display/cpp-69585b6cb2f147a5.webp",
     "printing_id": "cpp-69585b6cb2f147a5",
     "card_id": "cp-kerry-eurodyne-axe-attitude-audience",
     "name": "Kerry Eurodyne — Axe, Attitude, Audience",
     "set_id": "wtnc-retail",
     "number": "037",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-037.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-69585b6cb2f147a5.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-766de3be28b8a7c3",
@@ -637,15 +707,17 @@
       "cpp-766de3be28b8a7c3"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-038.png",
+    "referenceImageUrl": "assets/vision/cpp-766de3be28b8a7c3.webp",
+    "visionAssetPath": "assets/vision/cpp-766de3be28b8a7c3.webp",
+    "displayAssetPath": "assets/display/cpp-766de3be28b8a7c3.webp",
     "printing_id": "cpp-766de3be28b8a7c3",
     "card_id": "cp-muamar-reyes-el-capitan",
     "name": "Muamar Reyes — El Capitán",
     "set_id": "wtnc-retail",
     "number": "038",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-038.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-766de3be28b8a7c3.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-1346a40a4077a2b6",
@@ -655,15 +727,17 @@
       "cpp-1346a40a4077a2b6"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-039.png",
+    "referenceImageUrl": "assets/vision/cpp-1346a40a4077a2b6.webp",
+    "visionAssetPath": "assets/vision/cpp-1346a40a4077a2b6.webp",
+    "displayAssetPath": "assets/display/cpp-1346a40a4077a2b6.webp",
     "printing_id": "cpp-1346a40a4077a2b6",
     "card_id": "cp-river-ward-detective-on-the-hunt",
     "name": "River Ward — Detective on the Hunt",
     "set_id": "wtnc-retail",
     "number": "039",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-039.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-1346a40a4077a2b6.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-02d159a15874e78e",
@@ -673,15 +747,17 @@
       "cpp-02d159a15874e78e"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/HEIST-001.png",
+    "referenceImageUrl": "assets/vision/cpp-02d159a15874e78e.webp",
+    "visionAssetPath": "assets/vision/cpp-02d159a15874e78e.webp",
+    "displayAssetPath": "assets/display/cpp-02d159a15874e78e.webp",
     "printing_id": "cpp-02d159a15874e78e",
     "card_id": "cp-viktor-vektor-sit-down-and-relax",
     "name": "Viktor Vektor — Sit Down and Relax",
     "set_id": "the-heist-retail",
     "number": "001",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/HEIST-001.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-02d159a15874e78e.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-287bf6c21babb8a4",
@@ -691,15 +767,17 @@
       "cpp-287bf6c21babb8a4"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-053.png",
+    "referenceImageUrl": "assets/vision/cpp-287bf6c21babb8a4.webp",
+    "visionAssetPath": "assets/vision/cpp-287bf6c21babb8a4.webp",
+    "displayAssetPath": "assets/display/cpp-287bf6c21babb8a4.webp",
     "printing_id": "cpp-287bf6c21babb8a4",
     "card_id": "cp-secondhand-bombus",
     "name": "Secondhand Bombus",
     "set_id": "wtnc-retail",
     "number": "053",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-053.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-287bf6c21babb8a4.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-47d6c78571ac9ca8",
@@ -709,15 +787,17 @@
       "cpp-47d6c78571ac9ca8"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-054.png",
+    "referenceImageUrl": "assets/vision/cpp-47d6c78571ac9ca8.webp",
+    "visionAssetPath": "assets/vision/cpp-47d6c78571ac9ca8.webp",
+    "displayAssetPath": "assets/display/cpp-47d6c78571ac9ca8.webp",
     "printing_id": "cpp-47d6c78571ac9ca8",
     "card_id": "cp-sketchy-ripper",
     "name": "Sketchy Ripper",
     "set_id": "wtnc-retail",
     "number": "054",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-054.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-47d6c78571ac9ca8.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-8930003633e80a21",
@@ -727,15 +807,17 @@
       "cpp-8930003633e80a21"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-043.png",
+    "referenceImageUrl": "assets/vision/cpp-8930003633e80a21.webp",
+    "visionAssetPath": "assets/vision/cpp-8930003633e80a21.webp",
+    "displayAssetPath": "assets/display/cpp-8930003633e80a21.webp",
     "printing_id": "cpp-8930003633e80a21",
     "card_id": "cp-augmented-negotiators",
     "name": "Augmented Negotiators",
     "set_id": "wtnc-retail",
     "number": "043",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-043.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-8930003633e80a21.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-cb7cd38e6925a981",
@@ -745,15 +827,17 @@
       "cpp-cb7cd38e6925a981"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/HEIST-002.png",
+    "referenceImageUrl": "assets/vision/cpp-cb7cd38e6925a981.webp",
+    "visionAssetPath": "assets/vision/cpp-cb7cd38e6925a981.webp",
+    "displayAssetPath": "assets/display/cpp-cb7cd38e6925a981.webp",
     "printing_id": "cpp-cb7cd38e6925a981",
     "card_id": "cp-dexter-deshawn-one-last-chance",
     "name": "Dexter DeShawn — One Last Chance",
     "set_id": "the-heist-retail",
     "number": "002",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/HEIST-002.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-cb7cd38e6925a981.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-0673c7af57068c54",
@@ -763,15 +847,17 @@
       "cpp-0673c7af57068c54"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-049.png",
+    "referenceImageUrl": "assets/vision/cpp-0673c7af57068c54.webp",
+    "visionAssetPath": "assets/vision/cpp-0673c7af57068c54.webp",
+    "displayAssetPath": "assets/display/cpp-0673c7af57068c54.webp",
     "printing_id": "cpp-0673c7af57068c54",
     "card_id": "cp-maelstrom-goons",
     "name": "Maelstrom Goons",
     "set_id": "wtnc-retail",
     "number": "049",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-049.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-0673c7af57068c54.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-461b090f895195ca",
@@ -781,15 +867,17 @@
       "cpp-461b090f895195ca"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-058.png",
+    "referenceImageUrl": "assets/vision/cpp-461b090f895195ca.webp",
+    "visionAssetPath": "assets/vision/cpp-461b090f895195ca.webp",
+    "displayAssetPath": "assets/display/cpp-461b090f895195ca.webp",
     "printing_id": "cpp-461b090f895195ca",
     "card_id": "cp-viktor-vektor-you-might-feel-a-little-pinch",
     "name": "Viktor Vektor — You Might Feel a Little Pinch",
     "set_id": "wtnc-retail",
     "number": "058",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-058.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-461b090f895195ca.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-c2e8bf355b238fd6",
@@ -799,15 +887,17 @@
       "cpp-c2e8bf355b238fd6"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-045.png",
+    "referenceImageUrl": "assets/vision/cpp-c2e8bf355b238fd6.webp",
+    "visionAssetPath": "assets/vision/cpp-c2e8bf355b238fd6.webp",
+    "displayAssetPath": "assets/display/cpp-c2e8bf355b238fd6.webp",
     "printing_id": "cpp-c2e8bf355b238fd6",
     "card_id": "cp-gilded-maton",
     "name": "Gilded Matón",
     "set_id": "wtnc-retail",
     "number": "045",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-045.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-c2e8bf355b238fd6.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-69799b909712a523",
@@ -817,15 +907,17 @@
       "cpp-69799b909712a523"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-046.png",
+    "referenceImageUrl": "assets/vision/cpp-69799b909712a523.webp",
+    "visionAssetPath": "assets/vision/cpp-69799b909712a523.webp",
+    "displayAssetPath": "assets/display/cpp-69799b909712a523.webp",
     "printing_id": "cpp-69799b909712a523",
     "card_id": "cp-hanako-arasaka-in-a-gilded-cage",
     "name": "Hanako Arasaka — In a Gilded Cage",
     "set_id": "wtnc-retail",
     "number": "046",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-046.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-69799b909712a523.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-8df637e8d88eef07",
@@ -835,15 +927,17 @@
       "cpp-8df637e8d88eef07"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-051.png",
+    "referenceImageUrl": "assets/vision/cpp-8df637e8d88eef07.webp",
+    "visionAssetPath": "assets/vision/cpp-8df637e8d88eef07.webp",
+    "displayAssetPath": "assets/display/cpp-8df637e8d88eef07.webp",
     "printing_id": "cpp-8df637e8d88eef07",
     "card_id": "cp-offduty-malfini",
     "name": "Offduty Malfini",
     "set_id": "wtnc-retail",
     "number": "051",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-051.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-8df637e8d88eef07.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-1446fc47d35b5bc5",
@@ -853,15 +947,17 @@
       "cpp-1446fc47d35b5bc5"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-055.png",
+    "referenceImageUrl": "assets/vision/cpp-1446fc47d35b5bc5.webp",
+    "visionAssetPath": "assets/vision/cpp-1446fc47d35b5bc5.webp",
+    "displayAssetPath": "assets/display/cpp-1446fc47d35b5bc5.webp",
     "printing_id": "cpp-1446fc47d35b5bc5",
     "card_id": "cp-t-bug-amateur-philosopher",
     "name": "T-Bug — Amateur Philosopher",
     "set_id": "wtnc-retail",
     "number": "055",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-055.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-1446fc47d35b5bc5.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-1ee9ad55bb635df7",
@@ -871,15 +967,17 @@
       "cpp-1ee9ad55bb635df7"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-044.png",
+    "referenceImageUrl": "assets/vision/cpp-1ee9ad55bb635df7.webp",
+    "visionAssetPath": "assets/vision/cpp-1ee9ad55bb635df7.webp",
+    "displayAssetPath": "assets/display/cpp-1ee9ad55bb635df7.webp",
     "printing_id": "cpp-1ee9ad55bb635df7",
     "card_id": "cp-caliber-totentanz-s-top-dog",
     "name": "Caliber — Totentanz's Top Dog",
     "set_id": "wtnc-retail",
     "number": "044",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-044.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-1ee9ad55bb635df7.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-eb65600a3e6706c1",
@@ -889,15 +987,17 @@
       "cpp-eb65600a3e6706c1"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-050.png",
+    "referenceImageUrl": "assets/vision/cpp-eb65600a3e6706c1.webp",
+    "visionAssetPath": "assets/vision/cpp-eb65600a3e6706c1.webp",
+    "displayAssetPath": "assets/display/cpp-eb65600a3e6706c1.webp",
     "printing_id": "cpp-eb65600a3e6706c1",
     "card_id": "cp-maxtac-suppression-team",
     "name": "MaxTac Suppression Team",
     "set_id": "wtnc-retail",
     "number": "050",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-050.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-eb65600a3e6706c1.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-951ddf4214118162",
@@ -907,15 +1007,17 @@
       "cpp-951ddf4214118162"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-052.png",
+    "referenceImageUrl": "assets/vision/cpp-951ddf4214118162.webp",
+    "visionAssetPath": "assets/vision/cpp-951ddf4214118162.webp",
+    "displayAssetPath": "assets/display/cpp-951ddf4214118162.webp",
     "printing_id": "cpp-951ddf4214118162",
     "card_id": "cp-rockn-rockerboy",
     "name": "Rockn' Rockerboy",
     "set_id": "wtnc-retail",
     "number": "052",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-052.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-951ddf4214118162.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-eaf7a58af5b99b55",
@@ -925,15 +1027,17 @@
       "cpp-eaf7a58af5b99b55"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-057.png",
+    "referenceImageUrl": "assets/vision/cpp-eaf7a58af5b99b55.webp",
+    "visionAssetPath": "assets/vision/cpp-eaf7a58af5b99b55.webp",
+    "displayAssetPath": "assets/display/cpp-eaf7a58af5b99b55.webp",
     "printing_id": "cpp-eaf7a58af5b99b55",
     "card_id": "cp-viktor-vektor-drop-your-illusions",
     "name": "Viktor Vektor — Drop Your Illusions",
     "set_id": "wtnc-retail",
     "number": "057",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-057.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-eaf7a58af5b99b55.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-308271ebca6ee75d",
@@ -943,15 +1047,17 @@
       "cpp-308271ebca6ee75d"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-048.png",
+    "referenceImageUrl": "assets/vision/cpp-308271ebca6ee75d.webp",
+    "visionAssetPath": "assets/vision/cpp-308271ebca6ee75d.webp",
+    "displayAssetPath": "assets/display/cpp-308271ebca6ee75d.webp",
     "printing_id": "cpp-308271ebca6ee75d",
     "card_id": "cp-jackie-welles-ride-or-die-choom",
     "name": "Jackie Welles — Ride or Die Choom",
     "set_id": "wtnc-retail",
     "number": "048",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-048.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-308271ebca6ee75d.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-eb8e45f0acc3a525",
@@ -961,15 +1067,17 @@
       "cpp-eb8e45f0acc3a525"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-056.png",
+    "referenceImageUrl": "assets/vision/cpp-eb8e45f0acc3a525.webp",
+    "visionAssetPath": "assets/vision/cpp-eb8e45f0acc3a525.webp",
+    "displayAssetPath": "assets/display/cpp-eb8e45f0acc3a525.webp",
     "printing_id": "cpp-eb8e45f0acc3a525",
     "card_id": "cp-trauma-team-operatives",
     "name": "Trauma Team Operatives",
     "set_id": "wtnc-retail",
     "number": "056",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-056.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-eb8e45f0acc3a525.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-dad875e1132131df",
@@ -979,15 +1087,17 @@
       "cpp-dad875e1132131df"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-042.png",
+    "referenceImageUrl": "assets/vision/cpp-dad875e1132131df.webp",
+    "visionAssetPath": "assets/vision/cpp-dad875e1132131df.webp",
+    "displayAssetPath": "assets/display/cpp-dad875e1132131df.webp",
     "printing_id": "cpp-dad875e1132131df",
     "card_id": "cp-alt-cunningham-mother-of-daemons",
     "name": "Alt Cunningham — Mother of Daemons",
     "set_id": "wtnc-retail",
     "number": "042",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-042.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-dad875e1132131df.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-6442a83577ad7411",
@@ -997,15 +1107,17 @@
       "cpp-6442a83577ad7411"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-041.png",
+    "referenceImageUrl": "assets/vision/cpp-6442a83577ad7411.webp",
+    "visionAssetPath": "assets/vision/cpp-6442a83577ad7411.webp",
+    "displayAssetPath": "assets/display/cpp-6442a83577ad7411.webp",
     "printing_id": "cpp-6442a83577ad7411",
     "card_id": "cp-adam-smasher-metal-over-meat",
     "name": "Adam Smasher — Metal Over Meat",
     "set_id": "wtnc-retail",
     "number": "041",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-041.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-6442a83577ad7411.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-eb439ced9c26677a",
@@ -1015,15 +1127,17 @@
       "cpp-eb439ced9c26677a"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-061.png",
+    "referenceImageUrl": "assets/vision/cpp-eb439ced9c26677a.webp",
+    "visionAssetPath": "assets/vision/cpp-eb439ced9c26677a.webp",
+    "displayAssetPath": "assets/display/cpp-eb439ced9c26677a.webp",
     "printing_id": "cpp-eb439ced9c26677a",
     "card_id": "cp-kiroshi-optics",
     "name": "Kiroshi Optics",
     "set_id": "wtnc-retail",
     "number": "061",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-061.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-eb439ced9c26677a.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-e1574af3d4bb03ee",
@@ -1033,15 +1147,17 @@
       "cpp-e1574af3d4bb03ee"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-062.png",
+    "referenceImageUrl": "assets/vision/cpp-e1574af3d4bb03ee.webp",
+    "visionAssetPath": "assets/vision/cpp-e1574af3d4bb03ee.webp",
+    "displayAssetPath": "assets/display/cpp-e1574af3d4bb03ee.webp",
     "printing_id": "cpp-e1574af3d4bb03ee",
     "card_id": "cp-mandibular-upgrade",
     "name": "Mandibular Upgrade",
     "set_id": "wtnc-retail",
     "number": "062",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-062.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-e1574af3d4bb03ee.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-635676a1780a1b99",
@@ -1051,15 +1167,17 @@
       "cpp-635676a1780a1b99"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-059.png",
+    "referenceImageUrl": "assets/vision/cpp-635676a1780a1b99.webp",
+    "visionAssetPath": "assets/vision/cpp-635676a1780a1b99.webp",
+    "displayAssetPath": "assets/display/cpp-635676a1780a1b99.webp",
     "printing_id": "cpp-635676a1780a1b99",
     "card_id": "cp-adrenaline-converter",
     "name": "Adrenaline Converter",
     "set_id": "wtnc-retail",
     "number": "059",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-059.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-635676a1780a1b99.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-58674b48782a968f",
@@ -1069,15 +1187,17 @@
       "cpp-58674b48782a968f"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-064.png",
+    "referenceImageUrl": "assets/vision/cpp-58674b48782a968f.webp",
+    "visionAssetPath": "assets/vision/cpp-58674b48782a968f.webp",
+    "displayAssetPath": "assets/display/cpp-58674b48782a968f.webp",
     "printing_id": "cpp-58674b48782a968f",
     "card_id": "cp-zetatech-faceplate",
     "name": "Zetatech Faceplate",
     "set_id": "wtnc-retail",
     "number": "064",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-064.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-58674b48782a968f.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-2fd333942ecb0bbb",
@@ -1087,15 +1207,17 @@
       "cpp-2fd333942ecb0bbb"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-060.png",
+    "referenceImageUrl": "assets/vision/cpp-2fd333942ecb0bbb.webp",
+    "visionAssetPath": "assets/vision/cpp-2fd333942ecb0bbb.webp",
+    "displayAssetPath": "assets/display/cpp-2fd333942ecb0bbb.webp",
     "printing_id": "cpp-2fd333942ecb0bbb",
     "card_id": "cp-gorilla-arms",
     "name": "Gorilla Arms",
     "set_id": "wtnc-retail",
     "number": "060",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-060.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-2fd333942ecb0bbb.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-2017c7a126decd71",
@@ -1105,15 +1227,17 @@
       "cpp-2017c7a126decd71"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-063.png",
+    "referenceImageUrl": "assets/vision/cpp-2017c7a126decd71.webp",
+    "visionAssetPath": "assets/vision/cpp-2017c7a126decd71.webp",
+    "displayAssetPath": "assets/display/cpp-2017c7a126decd71.webp",
     "printing_id": "cpp-2017c7a126decd71",
     "card_id": "cp-the-relic-experimental-biochip",
     "name": "The Relic — Experimental Biochip",
     "set_id": "wtnc-retail",
     "number": "063",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-063.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-2017c7a126decd71.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-fff0889dad6834ee",
@@ -1123,15 +1247,17 @@
       "cpp-fff0889dad6834ee"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-065.png",
+    "referenceImageUrl": "assets/vision/cpp-fff0889dad6834ee.webp",
+    "visionAssetPath": "assets/vision/cpp-fff0889dad6834ee.webp",
+    "displayAssetPath": "assets/display/cpp-fff0889dad6834ee.webp",
     "printing_id": "cpp-fff0889dad6834ee",
     "card_id": "cp-afterparty-at-lizzie-s",
     "name": "Afterparty at Lizzie's",
     "set_id": "wtnc-retail",
     "number": "065",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-065.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-fff0889dad6834ee.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-bebee8ba9212f0bc",
@@ -1141,15 +1267,17 @@
       "cpp-bebee8ba9212f0bc"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-069.png",
+    "referenceImageUrl": "assets/vision/cpp-bebee8ba9212f0bc.webp",
+    "visionAssetPath": "assets/vision/cpp-bebee8ba9212f0bc.webp",
+    "displayAssetPath": "assets/display/cpp-bebee8ba9212f0bc.webp",
     "printing_id": "cpp-bebee8ba9212f0bc",
     "card_id": "cp-safety-override",
     "name": "Safety Override",
     "set_id": "wtnc-retail",
     "number": "069",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-069.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-bebee8ba9212f0bc.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-d86914fe7d5e9235",
@@ -1159,15 +1287,17 @@
       "cpp-d86914fe7d5e9235"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-070.png",
+    "referenceImageUrl": "assets/vision/cpp-d86914fe7d5e9235.webp",
+    "visionAssetPath": "assets/vision/cpp-d86914fe7d5e9235.webp",
+    "displayAssetPath": "assets/display/cpp-d86914fe7d5e9235.webp",
     "printing_id": "cpp-d86914fe7d5e9235",
     "card_id": "cp-the-heist",
     "name": "The Heist",
     "set_id": "wtnc-retail",
     "number": "070",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-070.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-d86914fe7d5e9235.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-881d3f2ece459583",
@@ -1177,15 +1307,17 @@
       "cpp-881d3f2ece459583"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-067.png",
+    "referenceImageUrl": "assets/vision/cpp-881d3f2ece459583.webp",
+    "visionAssetPath": "assets/vision/cpp-881d3f2ece459583.webp",
+    "displayAssetPath": "assets/display/cpp-881d3f2ece459583.webp",
     "printing_id": "cpp-881d3f2ece459583",
     "card_id": "cp-cyberpsychosis",
     "name": "Cyberpsychosis",
     "set_id": "wtnc-retail",
     "number": "067",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-067.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-881d3f2ece459583.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-73a918a4ee46230a",
@@ -1195,15 +1327,17 @@
       "cpp-73a918a4ee46230a"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-068.png",
+    "referenceImageUrl": "assets/vision/cpp-73a918a4ee46230a.webp",
+    "visionAssetPath": "assets/vision/cpp-73a918a4ee46230a.webp",
+    "displayAssetPath": "assets/display/cpp-73a918a4ee46230a.webp",
     "printing_id": "cpp-73a918a4ee46230a",
     "card_id": "cp-live-with-the-aftermath",
     "name": "Live with the Aftermath",
     "set_id": "wtnc-retail",
     "number": "068",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-068.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-73a918a4ee46230a.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-c46bb2b72d5b6957",
@@ -1213,15 +1347,17 @@
       "cpp-c46bb2b72d5b6957"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-066.png",
+    "referenceImageUrl": "assets/vision/cpp-c46bb2b72d5b6957.webp",
+    "visionAssetPath": "assets/vision/cpp-c46bb2b72d5b6957.webp",
+    "displayAssetPath": "assets/display/cpp-c46bb2b72d5b6957.webp",
     "printing_id": "cpp-c46bb2b72d5b6957",
     "card_id": "cp-bootleg-black-sapphire-show",
     "name": "Bootleg Black Sapphire Show",
     "set_id": "wtnc-retail",
     "number": "066",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-066.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-c46bb2b72d5b6957.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-509f743f75700687",
@@ -1231,15 +1367,17 @@
       "cpp-509f743f75700687"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/EP-012.png",
+    "referenceImageUrl": "assets/vision/cpp-509f743f75700687.webp",
+    "visionAssetPath": "assets/vision/cpp-509f743f75700687.webp",
+    "displayAssetPath": "assets/display/cpp-509f743f75700687.webp",
     "printing_id": "cpp-509f743f75700687",
     "card_id": "cp-goro-takemura-hands-unclean",
     "name": "Goro Takemura — Hands Unclean",
     "set_id": "embracing-power-retail",
     "number": "012",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/EP-012.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-509f743f75700687.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-23c628bffab6b601",
@@ -1249,15 +1387,17 @@
       "cpp-23c628bffab6b601"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-073.png",
+    "referenceImageUrl": "assets/vision/cpp-23c628bffab6b601.webp",
+    "visionAssetPath": "assets/vision/cpp-23c628bffab6b601.webp",
+    "displayAssetPath": "assets/display/cpp-23c628bffab6b601.webp",
     "printing_id": "cpp-23c628bffab6b601",
     "card_id": "cp-jackie-welles-mama-s-favorite",
     "name": "Jackie Welles — Mama's Favorite",
     "set_id": "wtnc-retail",
     "number": "073",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-073.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-23c628bffab6b601.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-8b51b3dce986e893",
@@ -1267,15 +1407,17 @@
       "cpp-8b51b3dce986e893"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-071.png",
+    "referenceImageUrl": "assets/vision/cpp-8b51b3dce986e893.webp",
+    "visionAssetPath": "assets/vision/cpp-8b51b3dce986e893.webp",
+    "displayAssetPath": "assets/display/cpp-8b51b3dce986e893.webp",
     "printing_id": "cpp-8b51b3dce986e893",
     "card_id": "cp-goro-takemura-vengeful-bodyguard",
     "name": "Goro Takemura — Vengeful Bodyguard",
     "set_id": "wtnc-retail",
     "number": "071",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-071.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-8b51b3dce986e893.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-356554cd5d18c511",
@@ -1285,15 +1427,17 @@
       "cpp-356554cd5d18c511"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-072.png",
+    "referenceImageUrl": "assets/vision/cpp-356554cd5d18c511.webp",
+    "visionAssetPath": "assets/vision/cpp-356554cd5d18c511.webp",
+    "displayAssetPath": "assets/display/cpp-356554cd5d18c511.webp",
     "printing_id": "cpp-356554cd5d18c511",
     "card_id": "cp-hanako-arasaka-daughter-of-the-emperor",
     "name": "Hanako Arasaka — Daughter of the Emperor",
     "set_id": "wtnc-retail",
     "number": "072",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-072.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-356554cd5d18c511.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-d8c8d0b83dfce7f0",
@@ -1303,15 +1447,17 @@
       "cpp-d8c8d0b83dfce7f0"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-074.png",
+    "referenceImageUrl": "assets/vision/cpp-d8c8d0b83dfce7f0.webp",
+    "visionAssetPath": "assets/vision/cpp-d8c8d0b83dfce7f0.webp",
+    "displayAssetPath": "assets/display/cpp-d8c8d0b83dfce7f0.webp",
     "printing_id": "cpp-d8c8d0b83dfce7f0",
     "card_id": "cp-padre-man-of-the-cross",
     "name": "Padre — Man of the Cross",
     "set_id": "wtnc-retail",
     "number": "074",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-074.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-d8c8d0b83dfce7f0.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-fda2bd51e9b0c9ac",
@@ -1321,15 +1467,17 @@
       "cpp-fda2bd51e9b0c9ac"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-075.png",
+    "referenceImageUrl": "assets/vision/cpp-fda2bd51e9b0c9ac.webp",
+    "visionAssetPath": "assets/vision/cpp-fda2bd51e9b0c9ac.webp",
+    "displayAssetPath": "assets/display/cpp-fda2bd51e9b0c9ac.webp",
     "printing_id": "cpp-fda2bd51e9b0c9ac",
     "card_id": "cp-panam-palmer-nomad-cavalry",
     "name": "Panam Palmer — Nomad Cavalry",
     "set_id": "wtnc-retail",
     "number": "075",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-075.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-fda2bd51e9b0c9ac.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-3b2f06e67090625e",
@@ -1339,15 +1487,17 @@
       "cpp-3b2f06e67090625e"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/EP-013.png",
+    "referenceImageUrl": "assets/vision/cpp-3b2f06e67090625e.webp",
+    "visionAssetPath": "assets/vision/cpp-3b2f06e67090625e.webp",
+    "displayAssetPath": "assets/display/cpp-3b2f06e67090625e.webp",
     "printing_id": "cpp-3b2f06e67090625e",
     "card_id": "cp-saburo-arasaka-stubborn-patriarch",
     "name": "Saburo Arasaka — Stubborn Patriarch",
     "set_id": "embracing-power-retail",
     "number": "013",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/EP-013.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-3b2f06e67090625e.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-1420fbeaffbd172a",
@@ -1357,15 +1507,17 @@
       "cpp-1420fbeaffbd172a"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-076.png",
+    "referenceImageUrl": "assets/vision/cpp-1420fbeaffbd172a.webp",
+    "visionAssetPath": "assets/vision/cpp-1420fbeaffbd172a.webp",
+    "displayAssetPath": "assets/display/cpp-1420fbeaffbd172a.webp",
     "printing_id": "cpp-1420fbeaffbd172a",
     "card_id": "cp-corpo-security",
     "name": "Corpo Security",
     "set_id": "wtnc-retail",
     "number": "076",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-076.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-1420fbeaffbd172a.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-e390a3303b82fc1e",
@@ -1375,15 +1527,17 @@
       "cpp-e390a3303b82fc1e"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-077.png",
+    "referenceImageUrl": "assets/vision/cpp-e390a3303b82fc1e.webp",
+    "visionAssetPath": "assets/vision/cpp-e390a3303b82fc1e.webp",
+    "displayAssetPath": "assets/display/cpp-e390a3303b82fc1e.webp",
     "printing_id": "cpp-e390a3303b82fc1e",
     "card_id": "cp-emergency-atlus",
     "name": "Emergency Atlus",
     "set_id": "wtnc-retail",
     "number": "077",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-077.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-e390a3303b82fc1e.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-8214425ccd0d0ad3",
@@ -1393,15 +1547,17 @@
       "cpp-8214425ccd0d0ad3"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-078.png",
+    "referenceImageUrl": "assets/vision/cpp-8214425ccd0d0ad3.webp",
+    "visionAssetPath": "assets/vision/cpp-8214425ccd0d0ad3.webp",
+    "displayAssetPath": "assets/display/cpp-8214425ccd0d0ad3.webp",
     "printing_id": "cpp-8214425ccd0d0ad3",
     "card_id": "cp-field-operator",
     "name": "Field Operator",
     "set_id": "wtnc-retail",
     "number": "078",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-078.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-8214425ccd0d0ad3.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-60c0459645904c37",
@@ -1411,15 +1567,17 @@
       "cpp-60c0459645904c37"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-082.png",
+    "referenceImageUrl": "assets/vision/cpp-60c0459645904c37.webp",
+    "visionAssetPath": "assets/vision/cpp-60c0459645904c37.webp",
+    "displayAssetPath": "assets/display/cpp-60c0459645904c37.webp",
     "printing_id": "cpp-60c0459645904c37",
     "card_id": "cp-maxtac-squadron",
     "name": "MaxTac Squadron",
     "set_id": "wtnc-retail",
     "number": "082",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-082.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-60c0459645904c37.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-e3be2ed0c1eec7dc",
@@ -1429,15 +1587,17 @@
       "cpp-e3be2ed0c1eec7dc"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-091.png",
+    "referenceImageUrl": "assets/vision/cpp-e3be2ed0c1eec7dc.webp",
+    "visionAssetPath": "assets/vision/cpp-e3be2ed0c1eec7dc.webp",
+    "displayAssetPath": "assets/display/cpp-e3be2ed0c1eec7dc.webp",
     "printing_id": "cpp-e3be2ed0c1eec7dc",
     "card_id": "cp-valentino-street-racer",
     "name": "Valentino Street Racer",
     "set_id": "wtnc-retail",
     "number": "091",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-091.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-e3be2ed0c1eec7dc.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-a1e87522d2bc9270",
@@ -1447,15 +1607,17 @@
       "cpp-a1e87522d2bc9270"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/EP-017.png",
+    "referenceImageUrl": "assets/vision/cpp-a1e87522d2bc9270.webp",
+    "visionAssetPath": "assets/vision/cpp-a1e87522d2bc9270.webp",
+    "displayAssetPath": "assets/display/cpp-a1e87522d2bc9270.webp",
     "printing_id": "cpp-a1e87522d2bc9270",
     "card_id": "cp-goro-takemura-losing-his-way",
     "name": "Goro Takemura — Losing His Way",
     "set_id": "embracing-power-retail",
     "number": "017",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/EP-017.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-a1e87522d2bc9270.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-0eb986c8459d91ca",
@@ -1465,15 +1627,17 @@
       "cpp-0eb986c8459d91ca"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-079.png",
+    "referenceImageUrl": "assets/vision/cpp-0eb986c8459d91ca.webp",
+    "visionAssetPath": "assets/vision/cpp-0eb986c8459d91ca.webp",
+    "displayAssetPath": "assets/display/cpp-0eb986c8459d91ca.webp",
     "printing_id": "cpp-0eb986c8459d91ca",
     "card_id": "cp-maelstrom-zealots",
     "name": "Maelstrom Zealots",
     "set_id": "wtnc-retail",
     "number": "079",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-079.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-0eb986c8459d91ca.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-ef5a1a8db9b52808",
@@ -1483,15 +1647,17 @@
       "cpp-ef5a1a8db9b52808"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-084.png",
+    "referenceImageUrl": "assets/vision/cpp-ef5a1a8db9b52808.webp",
+    "visionAssetPath": "assets/vision/cpp-ef5a1a8db9b52808.webp",
+    "displayAssetPath": "assets/display/cpp-ef5a1a8db9b52808.webp",
     "printing_id": "cpp-ef5a1a8db9b52808",
     "card_id": "cp-pacifica-netrunner",
     "name": "Pacifica Netrunner",
     "set_id": "wtnc-retail",
     "number": "084",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-084.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-ef5a1a8db9b52808.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-598a837abe28a565",
@@ -1501,15 +1667,17 @@
       "cpp-598a837abe28a565"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-086.png",
+    "referenceImageUrl": "assets/vision/cpp-598a837abe28a565.webp",
+    "visionAssetPath": "assets/vision/cpp-598a837abe28a565.webp",
+    "displayAssetPath": "assets/display/cpp-598a837abe28a565.webp",
     "printing_id": "cpp-598a837abe28a565",
     "card_id": "cp-pepe-najarro-working-doubles",
     "name": "Pepe Najarro — Working Doubles",
     "set_id": "wtnc-retail",
     "number": "086",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-086.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-598a837abe28a565.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-dcef0ee6e8b00ca4",
@@ -1519,15 +1687,17 @@
       "cpp-dcef0ee6e8b00ca4"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-087.png",
+    "referenceImageUrl": "assets/vision/cpp-dcef0ee6e8b00ca4.webp",
+    "visionAssetPath": "assets/vision/cpp-dcef0ee6e8b00ca4.webp",
+    "displayAssetPath": "assets/display/cpp-dcef0ee6e8b00ca4.webp",
     "printing_id": "cpp-dcef0ee6e8b00ca4",
     "card_id": "cp-riding-nomad",
     "name": "Riding Nomad",
     "set_id": "wtnc-retail",
     "number": "087",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-087.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-dcef0ee6e8b00ca4.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-7f11fb70f2dffbd8",
@@ -1537,15 +1707,17 @@
       "cpp-7f11fb70f2dffbd8"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-092.png",
+    "referenceImageUrl": "assets/vision/cpp-7f11fb70f2dffbd8.webp",
+    "visionAssetPath": "assets/vision/cpp-7f11fb70f2dffbd8.webp",
+    "displayAssetPath": "assets/display/cpp-7f11fb70f2dffbd8.webp",
     "printing_id": "cpp-7f11fb70f2dffbd8",
     "card_id": "cp-wraith-marauders",
     "name": "Wraith Marauders",
     "set_id": "wtnc-retail",
     "number": "092",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-092.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-7f11fb70f2dffbd8.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-1de57a6c7c72c9bf",
@@ -1555,15 +1727,17 @@
       "cpp-1de57a6c7c72c9bf"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-083.png",
+    "referenceImageUrl": "assets/vision/cpp-1de57a6c7c72c9bf.webp",
+    "visionAssetPath": "assets/vision/cpp-1de57a6c7c72c9bf.webp",
+    "displayAssetPath": "assets/display/cpp-1de57a6c7c72c9bf.webp",
     "printing_id": "cpp-1de57a6c7c72c9bf",
     "card_id": "cp-nadia-fighting-through-grief",
     "name": "Nadia — Fighting Through Grief",
     "set_id": "wtnc-retail",
     "number": "083",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-083.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-1de57a6c7c72c9bf.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-4e759abae11a4428",
@@ -1573,15 +1747,17 @@
       "cpp-4e759abae11a4428"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-085.png",
+    "referenceImageUrl": "assets/vision/cpp-4e759abae11a4428.webp",
+    "visionAssetPath": "assets/vision/cpp-4e759abae11a4428.webp",
+    "displayAssetPath": "assets/display/cpp-4e759abae11a4428.webp",
     "printing_id": "cpp-4e759abae11a4428",
     "card_id": "cp-panam-palmer-strength-through-family",
     "name": "Panam Palmer — Strength Through Family",
     "set_id": "wtnc-retail",
     "number": "085",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-085.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-4e759abae11a4428.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-ef35751db3ce602a",
@@ -1591,15 +1767,17 @@
       "cpp-ef35751db3ce602a"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-088.png",
+    "referenceImageUrl": "assets/vision/cpp-ef35751db3ce602a.webp",
+    "visionAssetPath": "assets/vision/cpp-ef35751db3ce602a.webp",
+    "displayAssetPath": "assets/display/cpp-ef35751db3ce602a.webp",
     "printing_id": "cpp-ef35751db3ce602a",
     "card_id": "cp-sandayu-oda-hanako-s-guardian",
     "name": "Sandayu Oda — Hanako's Guardian",
     "set_id": "wtnc-retail",
     "number": "088",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-088.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-ef35751db3ce602a.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-af335bd1350da2dd",
@@ -1609,15 +1787,17 @@
       "cpp-af335bd1350da2dd"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-089.png",
+    "referenceImageUrl": "assets/vision/cpp-af335bd1350da2dd.webp",
+    "visionAssetPath": "assets/vision/cpp-af335bd1350da2dd.webp",
+    "displayAssetPath": "assets/display/cpp-af335bd1350da2dd.webp",
     "printing_id": "cpp-af335bd1350da2dd",
     "card_id": "cp-saul-bright-stormrider",
     "name": "Saul Bright — Stormrider",
     "set_id": "wtnc-retail",
     "number": "089",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-089.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-af335bd1350da2dd.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-62372dd2f034bacd",
@@ -1627,15 +1807,17 @@
       "cpp-62372dd2f034bacd"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-094.png",
+    "referenceImageUrl": "assets/vision/cpp-62372dd2f034bacd.webp",
+    "visionAssetPath": "assets/vision/cpp-62372dd2f034bacd.webp",
+    "displayAssetPath": "assets/display/cpp-62372dd2f034bacd.webp",
     "printing_id": "cpp-62372dd2f034bacd",
     "card_id": "cp-riot-shield",
     "name": "Riot Shield",
     "set_id": "wtnc-retail",
     "number": "094",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-094.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-62372dd2f034bacd.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-dbeb59958d4314a6",
@@ -1645,15 +1827,17 @@
       "cpp-dbeb59958d4314a6"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-095.png",
+    "referenceImageUrl": "assets/vision/cpp-dbeb59958d4314a6.webp",
+    "visionAssetPath": "assets/vision/cpp-dbeb59958d4314a6.webp",
+    "displayAssetPath": "assets/display/cpp-dbeb59958d4314a6.webp",
     "printing_id": "cpp-dbeb59958d4314a6",
     "card_id": "cp-sandevistan",
     "name": "Sandevistan",
     "set_id": "wtnc-retail",
     "number": "095",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-095.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-dbeb59958d4314a6.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-3c17ceaf89588407",
@@ -1663,15 +1847,17 @@
       "cpp-3c17ceaf89588407"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-093.png",
+    "referenceImageUrl": "assets/vision/cpp-3c17ceaf89588407.webp",
+    "visionAssetPath": "assets/vision/cpp-3c17ceaf89588407.webp",
+    "displayAssetPath": "assets/display/cpp-3c17ceaf89588407.webp",
     "printing_id": "cpp-3c17ceaf89588407",
     "card_id": "cp-overwatch-panam-s-gift",
     "name": "Overwatch — Panam's Gift",
     "set_id": "wtnc-retail",
     "number": "093",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-093.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-3c17ceaf89588407.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-da12d9d3784fe46e",
@@ -1681,15 +1867,17 @@
       "cpp-da12d9d3784fe46e"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-096.png",
+    "referenceImageUrl": "assets/vision/cpp-da12d9d3784fe46e.webp",
+    "visionAssetPath": "assets/vision/cpp-da12d9d3784fe46e.webp",
+    "displayAssetPath": "assets/display/cpp-da12d9d3784fe46e.webp",
     "printing_id": "cpp-da12d9d3784fe46e",
     "card_id": "cp-zetatech-berserk",
     "name": "Zetatech Berserk",
     "set_id": "wtnc-retail",
     "number": "096",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-096.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-da12d9d3784fe46e.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-734552d1189ae641",
@@ -1699,15 +1887,17 @@
       "cpp-734552d1189ae641"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-101.png",
+    "referenceImageUrl": "assets/vision/cpp-734552d1189ae641.webp",
+    "visionAssetPath": "assets/vision/cpp-734552d1189ae641.webp",
+    "displayAssetPath": "assets/display/cpp-734552d1189ae641.webp",
     "printing_id": "cpp-734552d1189ae641",
     "card_id": "cp-peace-offering",
     "name": "Peace Offering",
     "set_id": "wtnc-retail",
     "number": "101",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-101.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-734552d1189ae641.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-d7d5b94aa52225d3",
@@ -1717,15 +1907,17 @@
       "cpp-d7d5b94aa52225d3"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-102.png",
+    "referenceImageUrl": "assets/vision/cpp-d7d5b94aa52225d3.webp",
+    "visionAssetPath": "assets/vision/cpp-d7d5b94aa52225d3.webp",
+    "displayAssetPath": "assets/display/cpp-d7d5b94aa52225d3.webp",
     "printing_id": "cpp-d7d5b94aa52225d3",
     "card_id": "cp-synapse-burnout",
     "name": "Synapse Burnout",
     "set_id": "wtnc-retail",
     "number": "102",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-102.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-d7d5b94aa52225d3.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-ff4e1430790eceab",
@@ -1735,15 +1927,17 @@
       "cpp-ff4e1430790eceab"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-097.png",
+    "referenceImageUrl": "assets/vision/cpp-ff4e1430790eceab.webp",
+    "visionAssetPath": "assets/vision/cpp-ff4e1430790eceab.webp",
+    "displayAssetPath": "assets/display/cpp-ff4e1430790eceab.webp",
     "printing_id": "cpp-ff4e1430790eceab",
     "card_id": "cp-corporate-surveillance",
     "name": "Corporate Surveillance",
     "set_id": "wtnc-retail",
     "number": "097",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-097.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-ff4e1430790eceab.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-58580f561e8e0eb1",
@@ -1753,15 +1947,17 @@
       "cpp-58580f561e8e0eb1"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-099.png",
+    "referenceImageUrl": "assets/vision/cpp-58580f561e8e0eb1.webp",
+    "visionAssetPath": "assets/vision/cpp-58580f561e8e0eb1.webp",
+    "displayAssetPath": "assets/display/cpp-58580f561e8e0eb1.webp",
     "printing_id": "cpp-58580f561e8e0eb1",
     "card_id": "cp-fool-on-the-hill",
     "name": "Fool on the Hill",
     "set_id": "wtnc-retail",
     "number": "099",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-099.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-58580f561e8e0eb1.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-d37d525dfa3c04b5",
@@ -1771,15 +1967,17 @@
       "cpp-d37d525dfa3c04b5"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-103.png",
+    "referenceImageUrl": "assets/vision/cpp-d37d525dfa3c04b5.webp",
+    "visionAssetPath": "assets/vision/cpp-d37d525dfa3c04b5.webp",
+    "displayAssetPath": "assets/display/cpp-d37d525dfa3c04b5.webp",
     "printing_id": "cpp-d37d525dfa3c04b5",
     "card_id": "cp-take-control",
     "name": "Take Control",
     "set_id": "wtnc-retail",
     "number": "103",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-103.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-d37d525dfa3c04b5.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-bb5a3a3a08ff7cc3",
@@ -1789,15 +1987,17 @@
       "cpp-bb5a3a3a08ff7cc3"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-105.png",
+    "referenceImageUrl": "assets/vision/cpp-bb5a3a3a08ff7cc3.webp",
+    "visionAssetPath": "assets/vision/cpp-bb5a3a3a08ff7cc3.webp",
+    "displayAssetPath": "assets/display/cpp-bb5a3a3a08ff7cc3.webp",
     "printing_id": "cpp-bb5a3a3a08ff7cc3",
     "card_id": "cp-wild-in-the-streets",
     "name": "Wild in the Streets",
     "set_id": "wtnc-retail",
     "number": "105",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-105.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-bb5a3a3a08ff7cc3.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-c2ef667cfaab84ad",
@@ -1807,15 +2007,17 @@
       "cpp-c2ef667cfaab84ad"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-098.png",
+    "referenceImageUrl": "assets/vision/cpp-c2ef667cfaab84ad.webp",
+    "visionAssetPath": "assets/vision/cpp-c2ef667cfaab84ad.webp",
+    "displayAssetPath": "assets/display/cpp-c2ef667cfaab84ad.webp",
     "printing_id": "cpp-c2ef667cfaab84ad",
     "card_id": "cp-don-t-fear-the-reaper",
     "name": "(Don't Fear) The Reaper",
     "set_id": "wtnc-retail",
     "number": "098",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-098.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-c2ef667cfaab84ad.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-93310c51e1ab876e",
@@ -1825,15 +2027,17 @@
       "cpp-93310c51e1ab876e"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-109.png",
+    "referenceImageUrl": "assets/vision/cpp-93310c51e1ab876e.webp",
+    "visionAssetPath": "assets/vision/cpp-93310c51e1ab876e.webp",
+    "displayAssetPath": "assets/display/cpp-93310c51e1ab876e.webp",
     "printing_id": "cpp-93310c51e1ab876e",
     "card_id": "cp-sasha-yakovleva-won-t-let-you-down",
     "name": "Sasha Yakovleva — Won't Let You Down",
     "set_id": "wtnc-retail",
     "number": "109",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-109.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-93310c51e1ab876e.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-f017c200a38d3bd4",
@@ -1843,15 +2047,17 @@
       "cpp-f017c200a38d3bd4"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/HEIST-012.png",
+    "referenceImageUrl": "assets/vision/cpp-f017c200a38d3bd4.webp",
+    "visionAssetPath": "assets/vision/cpp-f017c200a38d3bd4.webp",
+    "displayAssetPath": "assets/display/cpp-f017c200a38d3bd4.webp",
     "printing_id": "cpp-f017c200a38d3bd4",
     "card_id": "cp-v-corporate-exile",
     "name": "V — Corporate Exile",
     "set_id": "the-heist-retail",
     "number": "012",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/HEIST-012.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-f017c200a38d3bd4.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-c6f6801f7e5aa26d",
@@ -1861,15 +2067,17 @@
       "cpp-c6f6801f7e5aa26d"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-106.png",
+    "referenceImageUrl": "assets/vision/cpp-c6f6801f7e5aa26d.webp",
+    "visionAssetPath": "assets/vision/cpp-c6f6801f7e5aa26d.webp",
+    "displayAssetPath": "assets/display/cpp-c6f6801f7e5aa26d.webp",
     "printing_id": "cpp-c6f6801f7e5aa26d",
     "card_id": "cp-alt-cunningham-soulkiller-architect",
     "name": "Alt Cunningham — Soulkiller Architect",
     "set_id": "wtnc-retail",
     "number": "106",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-106.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-c6f6801f7e5aa26d.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-162f9e74580f40b5",
@@ -1879,15 +2087,17 @@
       "cpp-162f9e74580f40b5"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-107.png",
+    "referenceImageUrl": "assets/vision/cpp-162f9e74580f40b5.webp",
+    "visionAssetPath": "assets/vision/cpp-162f9e74580f40b5.webp",
+    "displayAssetPath": "assets/display/cpp-162f9e74580f40b5.webp",
     "printing_id": "cpp-162f9e74580f40b5",
     "card_id": "cp-evelyn-parker-beautiful-enigma",
     "name": "Evelyn Parker — Beautiful Enigma",
     "set_id": "wtnc-retail",
     "number": "107",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-107.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-162f9e74580f40b5.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-bd0ab6102f763890",
@@ -1897,15 +2107,17 @@
       "cpp-bd0ab6102f763890"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/HEIST-011.png",
+    "referenceImageUrl": "assets/vision/cpp-bd0ab6102f763890.webp",
+    "visionAssetPath": "assets/vision/cpp-bd0ab6102f763890.webp",
+    "displayAssetPath": "assets/display/cpp-bd0ab6102f763890.webp",
     "printing_id": "cpp-bd0ab6102f763890",
     "card_id": "cp-jackie-welles-pour-one-out-for-me",
     "name": "Jackie Welles — Pour One Out For Me",
     "set_id": "the-heist-retail",
     "number": "011",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/HEIST-011.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-bd0ab6102f763890.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-ac0d5e2e42a90758",
@@ -1915,15 +2127,17 @@
       "cpp-ac0d5e2e42a90758"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-108.png",
+    "referenceImageUrl": "assets/vision/cpp-ac0d5e2e42a90758.webp",
+    "visionAssetPath": "assets/vision/cpp-ac0d5e2e42a90758.webp",
+    "displayAssetPath": "assets/display/cpp-ac0d5e2e42a90758.webp",
     "printing_id": "cpp-ac0d5e2e42a90758",
     "card_id": "cp-judy-alvarez-braindance-maestro",
     "name": "Judy Álvarez — Braindance Maestro",
     "set_id": "wtnc-retail",
     "number": "108",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-108.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-ac0d5e2e42a90758.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-e630fb858f7b542c",
@@ -1933,15 +2147,17 @@
       "cpp-e630fb858f7b542c"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-110.png",
+    "referenceImageUrl": "assets/vision/cpp-e630fb858f7b542c.webp",
+    "visionAssetPath": "assets/vision/cpp-e630fb858f7b542c.webp",
+    "displayAssetPath": "assets/display/cpp-e630fb858f7b542c.webp",
     "printing_id": "cpp-e630fb858f7b542c",
     "card_id": "cp-wakako-okada-peace-and-harmony",
     "name": "Wakako Okada — Peace and Harmony",
     "set_id": "wtnc-retail",
     "number": "110",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-110.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-e630fb858f7b542c.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-d89087b7af84e213",
@@ -1951,15 +2167,17 @@
       "cpp-d89087b7af84e213"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-113.png",
+    "referenceImageUrl": "assets/vision/cpp-d89087b7af84e213.webp",
+    "visionAssetPath": "assets/vision/cpp-d89087b7af84e213.webp",
+    "displayAssetPath": "assets/display/cpp-d89087b7af84e213.webp",
     "printing_id": "cpp-d89087b7af84e213",
     "card_id": "cp-evelyn-parker-scheming-siren",
     "name": "Evelyn Parker — Scheming Siren",
     "set_id": "wtnc-retail",
     "number": "113",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-113.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-d89087b7af84e213.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-da388f8d51ce318c",
@@ -1969,15 +2187,17 @@
       "cpp-da388f8d51ce318c"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-115.png",
+    "referenceImageUrl": "assets/vision/cpp-da388f8d51ce318c.webp",
+    "visionAssetPath": "assets/vision/cpp-da388f8d51ce318c.webp",
+    "displayAssetPath": "assets/display/cpp-da388f8d51ce318c.webp",
     "printing_id": "cpp-da388f8d51ce318c",
     "card_id": "cp-jacked-in-voodoo-boy",
     "name": "Jacked-In Voodoo Boy",
     "set_id": "wtnc-retail",
     "number": "115",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-115.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-da388f8d51ce318c.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-03ee5f74a55d9337",
@@ -1987,15 +2207,17 @@
       "cpp-03ee5f74a55d9337"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-111.png",
+    "referenceImageUrl": "assets/vision/cpp-03ee5f74a55d9337.webp",
+    "visionAssetPath": "assets/vision/cpp-03ee5f74a55d9337.webp",
+    "displayAssetPath": "assets/display/cpp-03ee5f74a55d9337.webp",
     "printing_id": "cpp-03ee5f74a55d9337",
     "card_id": "cp-delamain-rideshare-ai",
     "name": "Delamain — Rideshare AI",
     "set_id": "wtnc-retail",
     "number": "111",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-111.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-03ee5f74a55d9337.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-1cfd280cecba09ea",
@@ -2005,15 +2227,17 @@
       "cpp-1cfd280cecba09ea"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-119.png",
+    "referenceImageUrl": "assets/vision/cpp-1cfd280cecba09ea.webp",
+    "visionAssetPath": "assets/vision/cpp-1cfd280cecba09ea.webp",
+    "displayAssetPath": "assets/display/cpp-1cfd280cecba09ea.webp",
     "printing_id": "cpp-1cfd280cecba09ea",
     "card_id": "cp-misty-olszewski-mender-of-broken-spirits",
     "name": "Misty Olszewski — Mender of Broken Spirits",
     "set_id": "wtnc-retail",
     "number": "119",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-119.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-1cfd280cecba09ea.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-28f8c3c44fa5753c",
@@ -2023,15 +2247,17 @@
       "cpp-28f8c3c44fa5753c"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-122.png",
+    "referenceImageUrl": "assets/vision/cpp-28f8c3c44fa5753c.webp",
+    "visionAssetPath": "assets/vision/cpp-28f8c3c44fa5753c.webp",
+    "displayAssetPath": "assets/display/cpp-28f8c3c44fa5753c.webp",
     "printing_id": "cpp-28f8c3c44fa5753c",
     "card_id": "cp-mox-inciters",
     "name": "Mox Inciters",
     "set_id": "wtnc-retail",
     "number": "122",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-122.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-28f8c3c44fa5753c.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-077861a5ffc1f7a5",
@@ -2041,15 +2267,17 @@
       "cpp-077861a5ffc1f7a5"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-112.png",
+    "referenceImageUrl": "assets/vision/cpp-077861a5ffc1f7a5.webp",
+    "visionAssetPath": "assets/vision/cpp-077861a5ffc1f7a5.webp",
+    "displayAssetPath": "assets/display/cpp-077861a5ffc1f7a5.webp",
     "printing_id": "cpp-077861a5ffc1f7a5",
     "card_id": "cp-delamain-cab",
     "name": "Delamain Cab",
     "set_id": "wtnc-retail",
     "number": "112",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-112.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-077861a5ffc1f7a5.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-ceab0ea9b2c9af4d",
@@ -2059,15 +2287,17 @@
       "cpp-ceab0ea9b2c9af4d"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-114.png",
+    "referenceImageUrl": "assets/vision/cpp-ceab0ea9b2c9af4d.webp",
+    "visionAssetPath": "assets/vision/cpp-ceab0ea9b2c9af4d.webp",
+    "displayAssetPath": "assets/display/cpp-ceab0ea9b2c9af4d.webp",
     "printing_id": "cpp-ceab0ea9b2c9af4d",
     "card_id": "cp-hacked-corpo",
     "name": "Hacked Corpo",
     "set_id": "wtnc-retail",
     "number": "114",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-114.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-ceab0ea9b2c9af4d.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-e410e6b99e9f357c",
@@ -2077,15 +2307,17 @@
       "cpp-e410e6b99e9f357c"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-124.png",
+    "referenceImageUrl": "assets/vision/cpp-e410e6b99e9f357c.webp",
+    "visionAssetPath": "assets/vision/cpp-e410e6b99e9f357c.webp",
+    "displayAssetPath": "assets/display/cpp-e410e6b99e9f357c.webp",
     "printing_id": "cpp-e410e6b99e9f357c",
     "card_id": "cp-psycho-squad",
     "name": "Psycho Squad",
     "set_id": "wtnc-retail",
     "number": "124",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-124.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-e410e6b99e9f357c.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-62251b0366bdde8b",
@@ -2095,15 +2327,17 @@
       "cpp-62251b0366bdde8b"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-125.png",
+    "referenceImageUrl": "assets/vision/cpp-62251b0366bdde8b.webp",
+    "visionAssetPath": "assets/vision/cpp-62251b0366bdde8b.webp",
+    "displayAssetPath": "assets/display/cpp-62251b0366bdde8b.webp",
     "printing_id": "cpp-62251b0366bdde8b",
     "card_id": "cp-rita-wheeler-no-stupid-questions",
     "name": "Rita Wheeler — No Stupid Questions",
     "set_id": "wtnc-retail",
     "number": "125",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-125.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-62251b0366bdde8b.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-cb2f33bbe78fcdfb",
@@ -2113,15 +2347,17 @@
       "cpp-cb2f33bbe78fcdfb"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-117.png",
+    "referenceImageUrl": "assets/vision/cpp-cb2f33bbe78fcdfb.webp",
+    "visionAssetPath": "assets/vision/cpp-cb2f33bbe78fcdfb.webp",
+    "displayAssetPath": "assets/display/cpp-cb2f33bbe78fcdfb.webp",
     "printing_id": "cpp-cb2f33bbe78fcdfb",
     "card_id": "cp-lizzy-wizzy-delicate-weapon",
     "name": "Lizzy Wizzy — Delicate Weapon",
     "set_id": "wtnc-retail",
     "number": "117",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-117.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-cb2f33bbe78fcdfb.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-d4161a4649d4ccce",
@@ -2131,15 +2367,17 @@
       "cpp-d4161a4649d4ccce"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-118.png",
+    "referenceImageUrl": "assets/vision/cpp-d4161a4649d4ccce.webp",
+    "visionAssetPath": "assets/vision/cpp-d4161a4649d4ccce.webp",
+    "displayAssetPath": "assets/display/cpp-d4161a4649d4ccce.webp",
     "printing_id": "cpp-d4161a4649d4ccce",
     "card_id": "cp-maman-brigitte-spirit-of-death",
     "name": "Maman Brigitte — Spirit of Death",
     "set_id": "wtnc-retail",
     "number": "118",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-118.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-d4161a4649d4ccce.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-a7beea5591205534",
@@ -2149,15 +2387,17 @@
       "cpp-a7beea5591205534"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-121.png",
+    "referenceImageUrl": "assets/vision/cpp-a7beea5591205534.webp",
+    "visionAssetPath": "assets/vision/cpp-a7beea5591205534.webp",
+    "displayAssetPath": "assets/display/cpp-a7beea5591205534.webp",
     "printing_id": "cpp-a7beea5591205534",
     "card_id": "cp-modded-muramasa",
     "name": "Modded Muramasa",
     "set_id": "wtnc-retail",
     "number": "121",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-121.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-a7beea5591205534.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-a5aa543f8af65490",
@@ -2167,15 +2407,17 @@
       "cpp-a5aa543f8af65490"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/HEIST-015.png",
+    "referenceImageUrl": "assets/vision/cpp-a5aa543f8af65490.webp",
+    "visionAssetPath": "assets/vision/cpp-a5aa543f8af65490.webp",
+    "displayAssetPath": "assets/display/cpp-a5aa543f8af65490.webp",
     "printing_id": "cpp-a5aa543f8af65490",
     "card_id": "cp-mt0d12-flathead",
     "name": "MT0D12 Flathead",
     "set_id": "the-heist-retail",
     "number": "015",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/HEIST-015.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-a5aa543f8af65490.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-9be3dc9a666eea6d",
@@ -2185,15 +2427,17 @@
       "cpp-9be3dc9a666eea6d"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-116.png",
+    "referenceImageUrl": "assets/vision/cpp-9be3dc9a666eea6d.webp",
+    "visionAssetPath": "assets/vision/cpp-9be3dc9a666eea6d.webp",
+    "displayAssetPath": "assets/display/cpp-9be3dc9a666eea6d.webp",
     "printing_id": "cpp-9be3dc9a666eea6d",
     "card_id": "cp-judy-alvarez-nothing-to-doubt",
     "name": "Judy Álvarez — Nothing to Doubt",
     "set_id": "wtnc-retail",
     "number": "116",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-116.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-9be3dc9a666eea6d.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-87bdebc840a44aa4",
@@ -2203,15 +2447,17 @@
       "cpp-87bdebc840a44aa4"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-120.png",
+    "referenceImageUrl": "assets/vision/cpp-87bdebc840a44aa4.webp",
+    "visionAssetPath": "assets/vision/cpp-87bdebc840a44aa4.webp",
+    "displayAssetPath": "assets/display/cpp-87bdebc840a44aa4.webp",
     "printing_id": "cpp-87bdebc840a44aa4",
     "card_id": "cp-modded-kusanagi",
     "name": "Modded Kusanagi",
     "set_id": "wtnc-retail",
     "number": "120",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-120.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-87bdebc840a44aa4.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-180078d05370e589",
@@ -2221,15 +2467,17 @@
       "cpp-180078d05370e589"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-123.png",
+    "referenceImageUrl": "assets/vision/cpp-180078d05370e589.webp",
+    "visionAssetPath": "assets/vision/cpp-180078d05370e589.webp",
+    "displayAssetPath": "assets/display/cpp-180078d05370e589.webp",
     "printing_id": "cpp-180078d05370e589",
     "card_id": "cp-placide-voodoo-sentinel",
     "name": "Placide — Voodoo Sentinel",
     "set_id": "wtnc-retail",
     "number": "123",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-123.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-180078d05370e589.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-3dbb1307e69c7bf8",
@@ -2239,15 +2487,17 @@
       "cpp-3dbb1307e69c7bf8"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-128.png",
+    "referenceImageUrl": "assets/vision/cpp-3dbb1307e69c7bf8.webp",
+    "visionAssetPath": "assets/vision/cpp-3dbb1307e69c7bf8.webp",
+    "displayAssetPath": "assets/display/cpp-3dbb1307e69c7bf8.webp",
     "printing_id": "cpp-3dbb1307e69c7bf8",
     "card_id": "cp-dying-night-v-s-pistol",
     "name": "Dying Night — V's Pistol",
     "set_id": "wtnc-retail",
     "number": "128",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-128.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-3dbb1307e69c7bf8.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-ae887fe7ad55acd8",
@@ -2257,15 +2507,17 @@
       "cpp-ae887fe7ad55acd8"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-129.png",
+    "referenceImageUrl": "assets/vision/cpp-ae887fe7ad55acd8.webp",
+    "visionAssetPath": "assets/vision/cpp-ae887fe7ad55acd8.webp",
+    "displayAssetPath": "assets/display/cpp-ae887fe7ad55acd8.webp",
     "printing_id": "cpp-ae887fe7ad55acd8",
     "card_id": "cp-netwatch-netdriver",
     "name": "NetWatch Netdriver",
     "set_id": "wtnc-retail",
     "number": "129",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-129.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-ae887fe7ad55acd8.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-240f8ed0f0318360",
@@ -2275,15 +2527,17 @@
       "cpp-240f8ed0f0318360"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-132.png",
+    "referenceImageUrl": "assets/vision/cpp-240f8ed0f0318360.webp",
+    "visionAssetPath": "assets/vision/cpp-240f8ed0f0318360.webp",
+    "displayAssetPath": "assets/display/cpp-240f8ed0f0318360.webp",
     "printing_id": "cpp-240f8ed0f0318360",
     "card_id": "cp-floor-it",
     "name": "Floor It",
     "set_id": "wtnc-retail",
     "number": "132",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-132.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-240f8ed0f0318360.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-ba93bbe4c9d589d5",
@@ -2293,15 +2547,17 @@
       "cpp-ba93bbe4c9d589d5"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-139.png",
+    "referenceImageUrl": "assets/vision/cpp-ba93bbe4c9d589d5.webp",
+    "visionAssetPath": "assets/vision/cpp-ba93bbe4c9d589d5.webp",
+    "displayAssetPath": "assets/display/cpp-ba93bbe4c9d589d5.webp",
     "printing_id": "cpp-ba93bbe4c9d589d5",
     "card_id": "cp-trust-no-one",
     "name": "Trust No One",
     "set_id": "wtnc-retail",
     "number": "139",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-139.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-ba93bbe4c9d589d5.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-ffe2a50f1865e83d",
@@ -2311,15 +2567,17 @@
       "cpp-ffe2a50f1865e83d"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-136.png",
+    "referenceImageUrl": "assets/vision/cpp-ffe2a50f1865e83d.webp",
+    "visionAssetPath": "assets/vision/cpp-ffe2a50f1865e83d.webp",
+    "displayAssetPath": "assets/display/cpp-ffe2a50f1865e83d.webp",
     "printing_id": "cpp-ffe2a50f1865e83d",
     "card_id": "cp-reboot-optics",
     "name": "Reboot Optics",
     "set_id": "wtnc-retail",
     "number": "136",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-136.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-ffe2a50f1865e83d.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-bca4c8ccddf27e99",
@@ -2329,15 +2587,17 @@
       "cpp-bca4c8ccddf27e99"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-131.png",
+    "referenceImageUrl": "assets/vision/cpp-bca4c8ccddf27e99.webp",
+    "visionAssetPath": "assets/vision/cpp-bca4c8ccddf27e99.webp",
+    "displayAssetPath": "assets/display/cpp-bca4c8ccddf27e99.webp",
     "printing_id": "cpp-bca4c8ccddf27e99",
     "card_id": "cp-chrome-reverie",
     "name": "Chrome Reverie",
     "set_id": "wtnc-retail",
     "number": "131",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-131.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-bca4c8ccddf27e99.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-3b7b4695442558ee",
@@ -2347,15 +2607,17 @@
       "cpp-3b7b4695442558ee"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-135.png",
+    "referenceImageUrl": "assets/vision/cpp-3b7b4695442558ee.webp",
+    "visionAssetPath": "assets/vision/cpp-3b7b4695442558ee.webp",
+    "displayAssetPath": "assets/display/cpp-3b7b4695442558ee.webp",
     "printing_id": "cpp-3b7b4695442558ee",
     "card_id": "cp-pyramid-song",
     "name": "Pyramid Song",
     "set_id": "wtnc-retail",
     "number": "135",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-135.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-3b7b4695442558ee.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-eef8f1d28001db6f",
@@ -2365,15 +2627,17 @@
       "cpp-eef8f1d28001db6f"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-140.png",
+    "referenceImageUrl": "assets/vision/cpp-eef8f1d28001db6f.webp",
+    "visionAssetPath": "assets/vision/cpp-eef8f1d28001db6f.webp",
+    "displayAssetPath": "assets/display/cpp-eef8f1d28001db6f.webp",
     "printing_id": "cpp-eef8f1d28001db6f",
     "card_id": "cp-unlikely-bond",
     "name": "Unlikely Bond",
     "set_id": "wtnc-retail",
     "number": "140",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-140.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-eef8f1d28001db6f.webp",
+    "image_source": "local_db_asset"
   },
   {
     "visualIdentityId": "cpvi-6e4d31bea8587fcc",
@@ -2383,14 +2647,16 @@
       "cpp-6e4d31bea8587fcc"
     ],
     "recognitionMode": "legacy_reference",
-    "referenceImageUrl": "https://punksim.net/images/WNTC-133.png",
+    "referenceImageUrl": "assets/vision/cpp-6e4d31bea8587fcc.webp",
+    "visionAssetPath": "assets/vision/cpp-6e4d31bea8587fcc.webp",
+    "displayAssetPath": "assets/display/cpp-6e4d31bea8587fcc.webp",
     "printing_id": "cpp-6e4d31bea8587fcc",
     "card_id": "cp-les-elemens",
     "name": "Les Élémens",
     "set_id": "wtnc-retail",
     "number": "133",
     "variant_kind": "standard",
-    "image_url": "https://punksim.net/images/WNTC-133.png",
-    "image_source": "punksim_community_cache"
+    "image_url": "assets/vision/cpp-6e4d31bea8587fcc.webp",
+    "image_source": "local_db_asset"
   }
 ]
