@@ -1,0 +1,38 @@
+{
+  "printings": [
+    {
+      "printingId": "cpp-7d2b0fc4aba70ff4",
+      "officialPrintingId": null,
+      "official": false,
+      "snapshotStatus": "historical_out_of_snapshot",
+      "cardId": "cp-lucyna-kushinada",
+      "name": "Lucyna Kushinada — Fresh Beginnings",
+      "setId": "promo-cards",
+      "number": "N001",
+      "variantKind": "promo_art",
+      "reason": "Not present in the active official 147/436 snapshot"
+    },
+    {
+      "printingId": "legacy-goro-hands-unclean-s002",
+      "officialPrintingId": null,
+      "official": false,
+      "snapshotStatus": "legacy_unresolved",
+      "cardId": "cp-goro-takemura-hands-unclean",
+      "name": "Goro Takemura — Hands Unclean (S002)",
+      "setId": null,
+      "number": "S002",
+      "variantKind": "legacy_unresolved",
+      "image": {
+        "imageUrl": "https://raw.githubusercontent.com/maximelaburthe-commits/cyberpunk_cards/main/images/goro-takemura-hands-unclean-s002.webp",
+        "sourceImageUrl": "https://raw.githubusercontent.com/maximelaburthe-commits/cyberpunk_cards/main/images/goro-takemura-hands-unclean-s002.webp",
+        "imageSource": "cyberpunk_cards_legacy"
+      },
+      "recognition": {
+        "enabled": false,
+        "visualIdentityId": null,
+        "status": "pending_proof"
+      },
+      "reason": "No documented mapping to an official printing"
+    }
+  ]
+}

@@ -1,15 +1,93 @@
 #!/usr/bin/env python3
 import json
 from pathlib import Path
-ROOT=Path(__file__).resolve().parents[1]
-def load(p): return json.loads((ROOT/p).read_text(encoding='utf-8'))
-def dump(p,o): (ROOT/p).write_text(json.dumps(o,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-cards=load('data/cards.json')['cards']; prints=load('data/printings.json')['printings']
-runtime=[{k:c.get(k) for k in ['id','name','type','color','tags','cost','power','ram','catalog_number','primary_printing_key','source_url']} for c in cards if c.get('runtime_ready') and c.get('name')]
-names={c['id']:c.get('name') for c in cards}
-vision=[]
-for p in prints:
-    if not p.get('recognition',{}).get('enabled') or not names.get(p['card_id']): continue
-    vision.append({'printing_id':p['id'],'card_id':p['card_id'],'name':names[p['card_id']],'set_id':p['set_id'],'number':p['number'],'variant_kind':p.get('variant_kind'),'printing_uuid':p.get('printing_uuid'),'image_url':(p.get('image') or {}).get('remote_url'),'local_path':(p.get('image') or {}).get('local_path'),'image_source':(p.get('image') or {}).get('source')})
-dump('runtime/cards.min.json',runtime); dump('runtime/vision-index.json',vision)
-print(json.dumps({'runtime_cards':len(runtime),'vision_entries':len(vision)},indent=2))
+
+ROOT = Path(__file__).resolve().parents[1]
+
+
+def load(path):
+    return json.loads((ROOT / path).read_text(encoding="utf-8"))
+
+
+def dump(path, value):
+    (ROOT / path).write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+cards = load("data/cards.json")["cards"]
+printings = load("data/printings.json")["printings"]
+visuals = load("data/visual-identities.json")["visualIdentities"]
+sets = load("data/sets.json")
+
+runtime_cards = []
+for card in cards:
+    runtime_cards.append({
+        **card,
+        "id": card["cardId"],
+        "catalog_number": None,
+        "source_url": card["sourceUrl"],
+    })
+
+runtime_printings = []
+asset_manifest = []
+for printing in printings:
+    image = printing["image"]
+    runtime_printings.append({
+        "printingId": printing["printingId"],
+        "officialPrintingId": printing["officialPrintingId"],
+        "cardId": printing["cardId"],
+        "setId": printing["setId"],
+        "number": printing["number"],
+        "catalogNumber": printing["catalogNumber"],
+        "variantKind": printing["variantKind"],
+        "imageUrl": image["imageUrl"],
+        "imageSource": image["imageSource"],
+        "recognition": printing["recognition"],
+    })
+    asset_manifest.append({
+        "printingId": printing["printingId"],
+        "cardId": printing["cardId"],
+        "sourceImageUrl": image["sourceImageUrl"],
+        "imageUrl": image["imageUrl"],
+        "imageSource": image["imageSource"],
+        "mimeType": image["mimeType"],
+        "sha256": image["sha256"],
+        "width": image["width"],
+        "height": image["height"],
+        "status": image["status"],
+    })
+
+by_printing = {p["printingId"]: p for p in printings}
+card_names = {c["cardId"]: c["name"] for c in cards}
+vision = []
+for identity in visuals:
+    candidates = identity["candidatePrintingIds"]
+    first = by_printing[candidates[0]]
+    exact = identity["mode"] == "exact_printing" and len(candidates) == 1
+    vision.append({
+        "visualIdentityId": identity["visualIdentityId"],
+        "cardId": identity["cardId"],
+        "printingId": candidates[0] if exact else None,
+        "candidatePrintingIds": candidates,
+        "recognitionMode": "exact_printing" if exact else "shared_visual_identity",
+        "referenceImageUrl": identity["referenceImageUrl"],
+        "printing_id": candidates[0] if exact else identity["visualIdentityId"],
+        "card_id": identity["cardId"],
+        "name": card_names[identity["cardId"]],
+        "set_id": first["setId"],
+        "number": first["number"],
+        "variant_kind": first["variantKind"],
+        "image_url": identity["referenceImageUrl"],
+        "image_source": first["image"]["imageSource"],
+    })
+
+dump("runtime/cards.min.json", runtime_cards)
+dump("runtime/printings.min.json", runtime_printings)
+dump("runtime/vision-index.json", vision)
+dump("runtime/asset-manifest.json", {"assets": asset_manifest})
+dump("sets.json", sets)
+print(json.dumps({
+    "runtimeCards": len(runtime_cards),
+    "runtimePrintings": len(runtime_printings),
+    "visionEntries": len(vision),
+    "stableRuntimeAssets": sum(bool(a["imageUrl"]) for a in asset_manifest),
+}, indent=2))

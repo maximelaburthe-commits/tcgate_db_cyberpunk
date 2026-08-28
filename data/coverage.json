@@ -1,26 +1,15 @@
 {
-  "snapshot_date": "2026-08-23",
-  "wntc": {
-    "mechanically_unique_slots_expected": 140,
-    "revealed_slots_tracked": 130,
-    "records_in_cards_json": 130,
-    "metadata_ready_for_runtime": 125,
-    "revealed_but_metadata_pending": 5,
-    "mechanically_unrevealed_slots": 10
-  },
-  "starter_unique_cards": 10,
-  "standalone_promo_records": 2,
-  "all_card_records_including_incomplete": 142,
-  "runtime_ready_cards": 136,
-  "printings_tracked": 168,
-  "vision_ready_printings": 133,
-  "source_snapshot": {
-    "punksim_structured_records_seen": 133,
-    "punksim_wntc_records": 122,
-    "recent_wntc_slots_added_to_tracking": 8,
-    "official_gallery_crawler_count_is_known_to_be_cache_sensitive": true
-  },
-  "complete": false,
-  "why_not_complete": "Ten WNTC mechanics remain unrevealed; five newly revealed slots still require metadata resolution in this offline snapshot.",
-  "promo_notes": "Rebecca is runtime-tracked; Lucyna Kushinada — Fresh Beginnings is tracked as promo metadata-partial and excluded from runtime until mechanics are resolved."
+  "snapshotDate": "2026-08-28",
+  "expectedCanonicalCards": 147,
+  "canonicalCards": 147,
+  "expectedOfficialPrintings": 436,
+  "officialPrintings": 436,
+  "visualIdentities": 133,
+  "exactVisualPrintings": 133,
+  "sharedVisualPrintings": 0,
+  "sourceImages": 436,
+  "stableRuntimeAssets": 133,
+  "unresolvedPrintings": 2,
+  "complete": true,
+  "notes": "Catalogue and printing coverage are complete for the active dated snapshot; asset and Vision coverage remain intentionally partial."
 }

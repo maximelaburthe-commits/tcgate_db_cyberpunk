@@ -1,74 +1,24 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "TCGate Cyberpunk Card",
+  "title": "TCGate Cyberpunk Canonical Card",
   "type": "object",
-  "required": [
-    "id",
-    "name",
-    "catalog_number",
-    "status",
-    "runtime_ready"
-  ],
+  "additionalProperties": false,
+  "required": ["cardId", "officialCardId", "name", "slug", "type", "color", "tags", "cost", "power", "ram", "rulesText", "status", "sourceUrl", "primaryPrintingId", "provenance"],
   "properties": {
-    "id": {
-      "type": "string"
-    },
-    "name": {
-      "type": [
-        "string",
-        "null"
-      ]
-    },
-    "catalog_number": {
-      "type": "string"
-    },
-    "status": {
-      "type": "string"
-    },
-    "runtime_ready": {
-      "type": "boolean"
-    },
-    "type": {
-      "type": [
-        "string",
-        "null"
-      ]
-    },
-    "color": {
-      "type": [
-        "string",
-        "null"
-      ]
-    },
-    "tags": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      }
-    },
-    "cost": {
-      "type": [
-        "integer",
-        "null"
-      ]
-    },
-    "power": {
-      "type": [
-        "integer",
-        "null"
-      ]
-    },
-    "ram": {
-      "type": [
-        "integer",
-        "null"
-      ]
-    },
-    "source_url": {
-      "type": [
-        "string",
-        "null"
-      ]
-    }
+    "cardId": {"type": "string", "pattern": "^cp-"},
+    "officialCardId": {"type": "string", "pattern": "^cb-"},
+    "name": {"type": "string", "minLength": 1},
+    "slug": {"type": "string", "minLength": 1},
+    "type": {"type": ["string", "null"]},
+    "color": {"type": ["string", "null"]},
+    "tags": {"type": "array", "items": {"type": "string"}},
+    "cost": {"type": ["integer", "null"]},
+    "power": {"type": ["integer", "null"]},
+    "ram": {"type": ["integer", "null"]},
+    "rulesText": {"type": ["string", "null"]},
+    "status": {"const": "verified_official"},
+    "sourceUrl": {"type": "string", "format": "uri"},
+    "primaryPrintingId": {"type": "string", "pattern": "^cpp-"},
+    "provenance": {"type": "object", "required": ["authority", "lastVerifiedAt"]}
   }
 }

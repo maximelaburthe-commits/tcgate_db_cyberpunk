@@ -1,12 +1,16 @@
 #!/usr/bin/env python3
 import json
 from pathlib import Path
-ROOT=Path(__file__).resolve().parents[1]
-c=json.loads((ROOT/'data/coverage.json').read_text(encoding='utf-8'))
-print(f"Cyberpunk TCG DB snapshot: {c['snapshot_date']}")
-print(f"WNTC: {c['wntc']['revealed_slots_tracked']}/{c['wntc']['mechanically_unique_slots_expected']} revealed/tracked")
-print(f"WNTC runtime metadata ready: {c['wntc']['metadata_ready_for_runtime']}")
-print(f"WNTC revealed metadata pending: {c['wntc']['revealed_but_metadata_pending']}")
-print(f"WNTC unrevealed mechanics: {c['wntc']['mechanically_unrevealed_slots']}")
-print(f"Starter uniques: {c['starter_unique_cards']} | promos tracked: {c['standalone_promo_records']}")
-print(f"Runtime cards: {c['runtime_ready_cards']} | printings: {c['printings_tracked']} | Vision-ready printings: {c['vision_ready_printings']}")
+
+root = Path(__file__).resolve().parents[1]
+manifest = json.loads((root / "db-manifest.json").read_text(encoding="utf-8"))
+snapshot = manifest["activeSnapshot"]
+meta = json.loads((root / "sources" / "official" / snapshot / "metadata.json").read_text(encoding="utf-8"))
+cards = json.loads((root / "data/cards.json").read_text(encoding="utf-8"))["cards"]
+printings = json.loads((root / "data/printings.json").read_text(encoding="utf-8"))["printings"]
+visuals = json.loads((root / "data/visual-identities.json").read_text(encoding="utf-8"))["visualIdentities"]
+print(f"Cyberpunk TCG DB snapshot: {snapshot}")
+print(f"Canonical cards: {len(cards)}/{meta['expectedCanonicalCards']}")
+print(f"Official printings: {len(printings)}/{meta['expectedOfficialPrintings']}")
+print(f"Visual identities: {len(visuals)}")
+print(f"Stable runtime assets: {sum(bool(p['image']['imageUrl']) for p in printings)}")

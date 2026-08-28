@@ -1,29 +1,5 @@
 {
-  "slots": [
-    {
-      "catalog_number": "WNTC-008",
-      "status": "revealed_pending_metadata",
-      "reason": "current source is ahead of the secondary structured snapshot; sync must resolve name/stats/image before runtime publication"
-    },
-    {
-      "catalog_number": "WNTC-017",
-      "status": "revealed_pending_metadata",
-      "reason": "current source is ahead of the secondary structured snapshot; sync must resolve name/stats/image before runtime publication"
-    },
-    {
-      "catalog_number": "WNTC-035",
-      "status": "revealed_pending_metadata",
-      "reason": "current source is ahead of the secondary structured snapshot; sync must resolve name/stats/image before runtime publication"
-    },
-    {
-      "catalog_number": "WNTC-047",
-      "status": "revealed_pending_metadata",
-      "reason": "current source is ahead of the secondary structured snapshot; sync must resolve name/stats/image before runtime publication"
-    },
-    {
-      "catalog_number": "WNTC-080",
-      "status": "revealed_pending_metadata",
-      "reason": "current source is ahead of the secondary structured snapshot; sync must resolve name/stats/image before runtime publication"
-    }
-  ]
+  "snapshotDate": "2026-08-28",
+  "slots": [],
+  "note": "All 147 canonical cards in the active official snapshot have resolved official identities."
 }

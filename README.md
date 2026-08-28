@@ -1,60 +1,51 @@
-# TCGate — Cyberpunk TCG Database v0.4.0
+# TCGate — Cyberpunk TCG Database
 
-Base indépendante destinée à TCGate. **Card Registry n'est pas requis pour l'alpha privée.**
+Independent Cyberpunk TCG data package. The active official snapshot is
+`2026-08-28`: **147 canonical cards** and **436 official printings**.
 
-## État du snapshot
+## Identity model
 
-- WNTC : **130 / 140 slots révélés et suivis**
-- WNTC prêts dans le runtime : **125**
-- 5 reveals récents sont explicitement suivis mais attendent encore la résolution complète de leurs métadonnées dans ce snapshot.
-- 10 slots WNTC restent mécaniquement non révélés.
-- 10 cartes exclusives aux deux starters sont intégrées.
-- 2 promos autonomes sont suivies séparément : Rebecca est prête pour le runtime ; Lucyna Kushinada — Fresh Beginnings reste en métadonnées partielles et n’est pas exposée au runtime.
-- 168 impressions sont enregistrées ; 133 ont actuellement une image exploitable par l'index Vision.
+- `cardId` is TCGate's stable logical card identity.
+- `officialCardId` is the official `cb-*` identity.
+- `printingId` is TCGate's stable physical-printing identity.
+- `officialPrintingId` is the official printing UUID.
+- `visualIdentityId` describes an artwork/face that Vision can actually
+  distinguish. It never merges physical printings.
 
-Cette version **ne prétend donc pas être la v1.0 finale du set** : elle suit proprement la reveal season sans inventer les données manquantes.
+Official source images are provenance (`sourceImageUrl`). Only controlled,
+stable assets may appear in `imageUrl`. The current snapshot deliberately has
+436 source images but only 133 stable runtime/Vision assets.
 
-## Fichiers consommés par TCGate
+## Data and runtime
 
-- `manifest.json` : point d'entrée stable à utiliser depuis GitHub.
-- `runtime/cards.min.json` : cartes sûres pour le runtime.
-- `runtime/vision-index.json` : impressions avec image résolue.
+Canonical data lives in `data/`. Generated consumer files live in `runtime/`:
 
-TCGate peut pointer une seule fois sur l'URL RAW GitHub de `manifest.json`. Les mises à jour suivantes gardent le même chemin.
+- `runtime/cards.min.json`
+- `runtime/printings.min.json`
+- `runtime/vision-index.json`
+- `runtime/asset-manifest.json`
 
+Goro Hands Unclean S002 and Lucyna PRM-N001 are retained explicitly in
+`data/unresolved-printings.json` and excluded from the official 436 count.
 
-## Mise à jour depuis GitHub Actions
-
-Après avoir placé ce package à la racine du dépôt GitHub :
-
-1. ouvrir **Actions** ;
-2. choisir **Build or update TCGate database** ;
-3. cliquer sur **Run workflow**.
-
-L’action vérifie les sources, écrit le résultat dans `staging/`, valide la base et reconstruit les fichiers `runtime/`. Elle commit les changements de staging/runtime si nécessaire.
-
-**Sécurité Cyberpunk :** contrairement aux TCG disposant d’un export officiel exhaustif, les nouvelles données Cyberpunk ne sont pas promues aveuglément dans `data/`. Une entrée non résolue ou uniquement issue de la source secondaire reste en staging jusqu’à validation.
-
-## Mise à jour pendant l'alpha privée
+## Rebuild and validation
 
 ```bash
-pip install -r requirements.txt
-python source/sync.py
 python scripts/validate_db.py
 python scripts/build_runtime.py
+python scripts/validate_db.py
+python scripts/report_status.py
 ```
 
-`source/sync.py` **n'écrit jamais dans GitHub et ne remplace pas la production**. Il écrit uniquement dans `staging/`. Après inspection/validation, le dépôt GitHub est mis à jour manuellement.
+To create a deliberately new official snapshot:
 
-## Sources
+```bash
+python scripts/import_official_snapshot.py \
+  --snapshot-date YYYY-MM-DD \
+  --expected-cards N \
+  --expected-printings M
+```
 
-1. Galerie officielle Cyberpunk TCG / WeirdCo / NetDeck : autorité.
-2. PUNKSIM SDK : accélérateur technique secondaire pour le repérage des cartes déjà révélées et une image de travail. Ses données ne doivent jamais écraser un champ officiel vérifié.
-
-## Sécurité
-
-- aucune suppression automatique ;
-- aucune publication automatique ;
-- une chute anormale de la source secondaire est bloquée ;
-- les cartes sans nom/métadonnées résolues ne sont pas exposées dans le runtime ;
-- Vision n'indexe jamais une impression sans image.
+The expected counts belong to the dated snapshot metadata, not to permanent
+application constants. Importing a future catalogue is an explicit operation;
+CI validates and rebuilds but never commits or pushes automatically.

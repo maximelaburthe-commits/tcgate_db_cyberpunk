@@ -1,0 +1,56 @@
+{
+  "cards": [
+    {
+      "from": "cp-wntc-008-pending",
+      "to": "cp-chrome-fang",
+      "reason": "official_identity_resolved"
+    },
+    {
+      "from": "cp-wntc-017-pending",
+      "to": "cp-ruthless-lowlife",
+      "reason": "official_identity_resolved"
+    },
+    {
+      "from": "cp-wntc-035-pending",
+      "to": "cp-shattered-memories",
+      "reason": "official_identity_resolved"
+    },
+    {
+      "from": "cp-wntc-047-pending",
+      "to": "cp-heywood-ripperdoc",
+      "reason": "official_identity_resolved"
+    },
+    {
+      "from": "cp-wntc-080-pending",
+      "to": "cp-maxtac-av",
+      "reason": "official_identity_resolved"
+    }
+  ],
+  "printings": [
+    {
+      "from": "cpp-333ccece2b074ead",
+      "to": "cpp-cb443df51c7db098",
+      "reason": "placeholder_card_identity_resolved"
+    },
+    {
+      "from": "cpp-fefa880213775f50",
+      "to": "cpp-260ed0642b12771c",
+      "reason": "placeholder_card_identity_resolved"
+    },
+    {
+      "from": "cpp-30c93860388729e4",
+      "to": "cpp-afc6a9bf446b9e3f",
+      "reason": "placeholder_card_identity_resolved"
+    },
+    {
+      "from": "cpp-89189cddf5326537",
+      "to": "cpp-3269c7ee898bb9bb",
+      "reason": "placeholder_card_identity_resolved"
+    },
+    {
+      "from": "cpp-6e25902a960c3aeb",
+      "to": "cpp-ce261182dfe0b79c",
+      "reason": "placeholder_card_identity_resolved"
+    }
+  ]
+}

@@ -1,0 +1,1467 @@
+{
+  "visualIdentities": [
+    {
+      "visualIdentityId": "cpvi-71f174b24ca73d47",
+      "cardId": "cp-v-streetkid",
+      "mode": "exact_printing",
+      "printingId": "cpp-71f174b24ca73d47",
+      "candidatePrintingIds": [
+        "cpp-71f174b24ca73d47"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-005a.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-6d213cfa534078a1",
+      "cardId": "cp-royce-psycho-on-the-edge",
+      "mode": "exact_printing",
+      "printingId": "cpp-6d213cfa534078a1",
+      "candidatePrintingIds": [
+        "cpp-6d213cfa534078a1"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-004.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-bc221071b29f2a98",
+      "cardId": "cp-adam-smasher-ender-of-legends",
+      "mode": "exact_printing",
+      "printingId": "cpp-bc221071b29f2a98",
+      "candidatePrintingIds": [
+        "cpp-bc221071b29f2a98"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-001.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-fb6579c1aa399ca9",
+      "cardId": "cp-johnny-silverhand-rocking-renegade",
+      "mode": "exact_printing",
+      "printingId": "cpp-fb6579c1aa399ca9",
+      "candidatePrintingIds": [
+        "cpp-fb6579c1aa399ca9"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-003.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-6263ba43e331461f",
+      "cardId": "cp-rebecca-having-a-moment",
+      "mode": "exact_printing",
+      "printingId": "cpp-6263ba43e331461f",
+      "candidatePrintingIds": [
+        "cpp-6263ba43e331461f"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/PRM01-005.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-fedb842e7045d811",
+      "cardId": "cp-yorinobu-arasaka-embracing-destruction",
+      "mode": "exact_printing",
+      "printingId": "cpp-fedb842e7045d811",
+      "candidatePrintingIds": [
+        "cpp-fedb842e7045d811"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/EP-001.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-f4c94a39c5c19477",
+      "cardId": "cp-japantown-jonin",
+      "mode": "exact_printing",
+      "printingId": "cpp-f4c94a39c5c19477",
+      "candidatePrintingIds": [
+        "cpp-f4c94a39c5c19477"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-010.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-483ef8669d87edce",
+      "cardId": "cp-la-llorona-ghost-of-the-past",
+      "mode": "exact_printing",
+      "printingId": "cpp-483ef8669d87edce",
+      "candidatePrintingIds": [
+        "cpp-483ef8669d87edce"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-013.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-7a54bfb2657fdf82",
+      "cardId": "cp-swordwise-huscle",
+      "mode": "exact_printing",
+      "printingId": "cpp-7a54bfb2657fdf82",
+      "candidatePrintingIds": [
+        "cpp-7a54bfb2657fdf82"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-019.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-3fed8313a78d0ff6",
+      "cardId": "cp-valentino-guerrera",
+      "mode": "exact_printing",
+      "printingId": "cpp-3fed8313a78d0ff6",
+      "candidatePrintingIds": [
+        "cpp-3fed8313a78d0ff6"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-021.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-b7acab3fc10ef1bb",
+      "cardId": "cp-6th-street-recruits",
+      "mode": "exact_printing",
+      "printingId": "cpp-b7acab3fc10ef1bb",
+      "candidatePrintingIds": [
+        "cpp-b7acab3fc10ef1bb"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-006.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-9547b93680cbb8b7",
+      "cardId": "cp-kerry-eurodyne-the-last-rockerboy",
+      "mode": "exact_printing",
+      "printingId": "cpp-9547b93680cbb8b7",
+      "candidatePrintingIds": [
+        "cpp-9547b93680cbb8b7"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-012.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-ca62ce901d6f65fa",
+      "cardId": "cp-meredith-stout-stone-cold-corpo",
+      "mode": "exact_printing",
+      "printingId": "cpp-ca62ce901d6f65fa",
+      "candidatePrintingIds": [
+        "cpp-ca62ce901d6f65fa"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-014.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-ddcc6a14f47e78d4",
+      "cardId": "cp-el-sombreron-la-venganza-lenta",
+      "mode": "exact_printing",
+      "printingId": "cpp-ddcc6a14f47e78d4",
+      "candidatePrintingIds": [
+        "cpp-ddcc6a14f47e78d4"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-009.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-64215c21382171c0",
+      "cardId": "cp-royce-don-t-call-me-simon",
+      "mode": "exact_printing",
+      "printingId": "cpp-64215c21382171c0",
+      "candidatePrintingIds": [
+        "cpp-64215c21382171c0"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-016.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-86d902ed5c1d1f2e",
+      "cardId": "cp-screw-lovelorn-fool",
+      "mode": "exact_printing",
+      "printingId": "cpp-86d902ed5c1d1f2e",
+      "candidatePrintingIds": [
+        "cpp-86d902ed5c1d1f2e"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-018.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-d7bb62380163393b",
+      "cardId": "cp-v-roamer-of-the-badlands",
+      "mode": "exact_printing",
+      "printingId": "cpp-d7bb62380163393b",
+      "candidatePrintingIds": [
+        "cpp-d7bb62380163393b"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-020.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-c16f37f3b7592e1c",
+      "cardId": "cp-animals-wrecker",
+      "mode": "exact_printing",
+      "printingId": "cpp-c16f37f3b7592e1c",
+      "candidatePrintingIds": [
+        "cpp-c16f37f3b7592e1c"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-007.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-ad4c12d992ca2eb8",
+      "cardId": "cp-johnny-silverhand-never-stop-fighting",
+      "mode": "exact_printing",
+      "printingId": "cpp-ad4c12d992ca2eb8",
+      "candidatePrintingIds": [
+        "cpp-ad4c12d992ca2eb8"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-011.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-b3672ca0b4ccc812",
+      "cardId": "cp-minotaur",
+      "mode": "exact_printing",
+      "printingId": "cpp-b3672ca0b4ccc812",
+      "candidatePrintingIds": [
+        "cpp-b3672ca0b4ccc812"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/EP-003.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-ab5751a90bce12ac",
+      "cardId": "cp-octant",
+      "mode": "exact_printing",
+      "printingId": "cpp-ab5751a90bce12ac",
+      "candidatePrintingIds": [
+        "cpp-ab5751a90bce12ac"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-015.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-3150a39e0e47e6d4",
+      "cardId": "cp-yorinobu-arasaka-steel-dragon",
+      "mode": "exact_printing",
+      "printingId": "cpp-3150a39e0e47e6d4",
+      "candidatePrintingIds": [
+        "cpp-3150a39e0e47e6d4"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-022.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-514cdefe2f534dc6",
+      "cardId": "cp-mantis-blades",
+      "mode": "exact_printing",
+      "printingId": "cpp-514cdefe2f534dc6",
+      "candidatePrintingIds": [
+        "cpp-514cdefe2f534dc6"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-025.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-cce6c481df036fda",
+      "cardId": "cp-satori-sword-of-saburo",
+      "mode": "exact_printing",
+      "printingId": "cpp-cce6c481df036fda",
+      "candidatePrintingIds": [
+        "cpp-cce6c481df036fda"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-026.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-994b0d73889d38c6",
+      "cardId": "cp-deadman-transmitter",
+      "mode": "exact_printing",
+      "printingId": "cpp-994b0d73889d38c6",
+      "candidatePrintingIds": [
+        "cpp-994b0d73889d38c6"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-024.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-60c0b05d9f2c81fb",
+      "cardId": "cp-all-is-lost",
+      "mode": "exact_printing",
+      "printingId": "cpp-60c0b05d9f2c81fb",
+      "candidatePrintingIds": [
+        "cpp-60c0b05d9f2c81fb"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-027.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-03d6b09216a6137e",
+      "cardId": "cp-industrial-assembly",
+      "mode": "exact_printing",
+      "printingId": "cpp-03d6b09216a6137e",
+      "candidatePrintingIds": [
+        "cpp-03d6b09216a6137e"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-033.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-b3d58c9c658a53d9",
+      "cardId": "cp-appetite-for-destruction",
+      "mode": "exact_printing",
+      "printingId": "cpp-b3d58c9c658a53d9",
+      "candidatePrintingIds": [
+        "cpp-b3d58c9c658a53d9"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-028.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-f1cc59a0c16f7ddb",
+      "cardId": "cp-bonnie-and-clyde",
+      "mode": "exact_printing",
+      "printingId": "cpp-f1cc59a0c16f7ddb",
+      "candidatePrintingIds": [
+        "cpp-f1cc59a0c16f7ddb"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-029.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-cb07e6320cc04c2f",
+      "cardId": "cp-over-the-edge",
+      "mode": "exact_printing",
+      "printingId": "cpp-cb07e6320cc04c2f",
+      "candidatePrintingIds": [
+        "cpp-cb07e6320cc04c2f"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-034.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-fd8cbfd1e939ef45",
+      "cardId": "cp-gunpoint-diplomacy",
+      "mode": "exact_printing",
+      "printingId": "cpp-fd8cbfd1e939ef45",
+      "candidatePrintingIds": [
+        "cpp-fd8cbfd1e939ef45"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-032.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-af82a28bed35b8ad",
+      "cardId": "cp-carnage-at-the-colosseum",
+      "mode": "exact_printing",
+      "printingId": "cpp-af82a28bed35b8ad",
+      "candidatePrintingIds": [
+        "cpp-af82a28bed35b8ad"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-030.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-4f8d00888c1b1f59",
+      "cardId": "cp-rogue-amendiares-preem-solo",
+      "mode": "exact_printing",
+      "printingId": "cpp-4f8d00888c1b1f59",
+      "candidatePrintingIds": [
+        "cpp-4f8d00888c1b1f59"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-040.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-59c021d8a29b8aaa",
+      "cardId": "cp-dum-dum-maelstrom-triggerman",
+      "mode": "exact_printing",
+      "printingId": "cpp-59c021d8a29b8aaa",
+      "candidatePrintingIds": [
+        "cpp-59c021d8a29b8aaa"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-036.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-69585b6cb2f147a5",
+      "cardId": "cp-kerry-eurodyne-axe-attitude-audience",
+      "mode": "exact_printing",
+      "printingId": "cpp-69585b6cb2f147a5",
+      "candidatePrintingIds": [
+        "cpp-69585b6cb2f147a5"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-037.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-766de3be28b8a7c3",
+      "cardId": "cp-muamar-reyes-el-capitan",
+      "mode": "exact_printing",
+      "printingId": "cpp-766de3be28b8a7c3",
+      "candidatePrintingIds": [
+        "cpp-766de3be28b8a7c3"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-038.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-1346a40a4077a2b6",
+      "cardId": "cp-river-ward-detective-on-the-hunt",
+      "mode": "exact_printing",
+      "printingId": "cpp-1346a40a4077a2b6",
+      "candidatePrintingIds": [
+        "cpp-1346a40a4077a2b6"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-039.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-02d159a15874e78e",
+      "cardId": "cp-viktor-vektor-sit-down-and-relax",
+      "mode": "exact_printing",
+      "printingId": "cpp-02d159a15874e78e",
+      "candidatePrintingIds": [
+        "cpp-02d159a15874e78e"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/HEIST-001.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-287bf6c21babb8a4",
+      "cardId": "cp-secondhand-bombus",
+      "mode": "exact_printing",
+      "printingId": "cpp-287bf6c21babb8a4",
+      "candidatePrintingIds": [
+        "cpp-287bf6c21babb8a4"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-053.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-47d6c78571ac9ca8",
+      "cardId": "cp-sketchy-ripper",
+      "mode": "exact_printing",
+      "printingId": "cpp-47d6c78571ac9ca8",
+      "candidatePrintingIds": [
+        "cpp-47d6c78571ac9ca8"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-054.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-8930003633e80a21",
+      "cardId": "cp-augmented-negotiators",
+      "mode": "exact_printing",
+      "printingId": "cpp-8930003633e80a21",
+      "candidatePrintingIds": [
+        "cpp-8930003633e80a21"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-043.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-cb7cd38e6925a981",
+      "cardId": "cp-dexter-deshawn-one-last-chance",
+      "mode": "exact_printing",
+      "printingId": "cpp-cb7cd38e6925a981",
+      "candidatePrintingIds": [
+        "cpp-cb7cd38e6925a981"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/HEIST-002.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-0673c7af57068c54",
+      "cardId": "cp-maelstrom-goons",
+      "mode": "exact_printing",
+      "printingId": "cpp-0673c7af57068c54",
+      "candidatePrintingIds": [
+        "cpp-0673c7af57068c54"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-049.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-461b090f895195ca",
+      "cardId": "cp-viktor-vektor-you-might-feel-a-little-pinch",
+      "mode": "exact_printing",
+      "printingId": "cpp-461b090f895195ca",
+      "candidatePrintingIds": [
+        "cpp-461b090f895195ca"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-058.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-c2e8bf355b238fd6",
+      "cardId": "cp-gilded-maton",
+      "mode": "exact_printing",
+      "printingId": "cpp-c2e8bf355b238fd6",
+      "candidatePrintingIds": [
+        "cpp-c2e8bf355b238fd6"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-045.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-69799b909712a523",
+      "cardId": "cp-hanako-arasaka-in-a-gilded-cage",
+      "mode": "exact_printing",
+      "printingId": "cpp-69799b909712a523",
+      "candidatePrintingIds": [
+        "cpp-69799b909712a523"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-046.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-8df637e8d88eef07",
+      "cardId": "cp-offduty-malfini",
+      "mode": "exact_printing",
+      "printingId": "cpp-8df637e8d88eef07",
+      "candidatePrintingIds": [
+        "cpp-8df637e8d88eef07"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-051.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-1446fc47d35b5bc5",
+      "cardId": "cp-t-bug-amateur-philosopher",
+      "mode": "exact_printing",
+      "printingId": "cpp-1446fc47d35b5bc5",
+      "candidatePrintingIds": [
+        "cpp-1446fc47d35b5bc5"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-055.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-1ee9ad55bb635df7",
+      "cardId": "cp-caliber-totentanz-s-top-dog",
+      "mode": "exact_printing",
+      "printingId": "cpp-1ee9ad55bb635df7",
+      "candidatePrintingIds": [
+        "cpp-1ee9ad55bb635df7"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-044.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-eb65600a3e6706c1",
+      "cardId": "cp-maxtac-suppression-team",
+      "mode": "exact_printing",
+      "printingId": "cpp-eb65600a3e6706c1",
+      "candidatePrintingIds": [
+        "cpp-eb65600a3e6706c1"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-050.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-951ddf4214118162",
+      "cardId": "cp-rockn-rockerboy",
+      "mode": "exact_printing",
+      "printingId": "cpp-951ddf4214118162",
+      "candidatePrintingIds": [
+        "cpp-951ddf4214118162"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-052.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-eaf7a58af5b99b55",
+      "cardId": "cp-viktor-vektor-drop-your-illusions",
+      "mode": "exact_printing",
+      "printingId": "cpp-eaf7a58af5b99b55",
+      "candidatePrintingIds": [
+        "cpp-eaf7a58af5b99b55"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-057.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-308271ebca6ee75d",
+      "cardId": "cp-jackie-welles-ride-or-die-choom",
+      "mode": "exact_printing",
+      "printingId": "cpp-308271ebca6ee75d",
+      "candidatePrintingIds": [
+        "cpp-308271ebca6ee75d"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-048.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-eb8e45f0acc3a525",
+      "cardId": "cp-trauma-team-operatives",
+      "mode": "exact_printing",
+      "printingId": "cpp-eb8e45f0acc3a525",
+      "candidatePrintingIds": [
+        "cpp-eb8e45f0acc3a525"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-056.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-dad875e1132131df",
+      "cardId": "cp-alt-cunningham-mother-of-daemons",
+      "mode": "exact_printing",
+      "printingId": "cpp-dad875e1132131df",
+      "candidatePrintingIds": [
+        "cpp-dad875e1132131df"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-042.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-6442a83577ad7411",
+      "cardId": "cp-adam-smasher-metal-over-meat",
+      "mode": "exact_printing",
+      "printingId": "cpp-6442a83577ad7411",
+      "candidatePrintingIds": [
+        "cpp-6442a83577ad7411"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-041.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-eb439ced9c26677a",
+      "cardId": "cp-kiroshi-optics",
+      "mode": "exact_printing",
+      "printingId": "cpp-eb439ced9c26677a",
+      "candidatePrintingIds": [
+        "cpp-eb439ced9c26677a"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-061.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-e1574af3d4bb03ee",
+      "cardId": "cp-mandibular-upgrade",
+      "mode": "exact_printing",
+      "printingId": "cpp-e1574af3d4bb03ee",
+      "candidatePrintingIds": [
+        "cpp-e1574af3d4bb03ee"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-062.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-635676a1780a1b99",
+      "cardId": "cp-adrenaline-converter",
+      "mode": "exact_printing",
+      "printingId": "cpp-635676a1780a1b99",
+      "candidatePrintingIds": [
+        "cpp-635676a1780a1b99"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-059.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-58674b48782a968f",
+      "cardId": "cp-zetatech-faceplate",
+      "mode": "exact_printing",
+      "printingId": "cpp-58674b48782a968f",
+      "candidatePrintingIds": [
+        "cpp-58674b48782a968f"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-064.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-2fd333942ecb0bbb",
+      "cardId": "cp-gorilla-arms",
+      "mode": "exact_printing",
+      "printingId": "cpp-2fd333942ecb0bbb",
+      "candidatePrintingIds": [
+        "cpp-2fd333942ecb0bbb"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-060.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-2017c7a126decd71",
+      "cardId": "cp-the-relic-experimental-biochip",
+      "mode": "exact_printing",
+      "printingId": "cpp-2017c7a126decd71",
+      "candidatePrintingIds": [
+        "cpp-2017c7a126decd71"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-063.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-fff0889dad6834ee",
+      "cardId": "cp-afterparty-at-lizzie-s",
+      "mode": "exact_printing",
+      "printingId": "cpp-fff0889dad6834ee",
+      "candidatePrintingIds": [
+        "cpp-fff0889dad6834ee"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-065.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-bebee8ba9212f0bc",
+      "cardId": "cp-safety-override",
+      "mode": "exact_printing",
+      "printingId": "cpp-bebee8ba9212f0bc",
+      "candidatePrintingIds": [
+        "cpp-bebee8ba9212f0bc"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-069.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-d86914fe7d5e9235",
+      "cardId": "cp-the-heist",
+      "mode": "exact_printing",
+      "printingId": "cpp-d86914fe7d5e9235",
+      "candidatePrintingIds": [
+        "cpp-d86914fe7d5e9235"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-070.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-881d3f2ece459583",
+      "cardId": "cp-cyberpsychosis",
+      "mode": "exact_printing",
+      "printingId": "cpp-881d3f2ece459583",
+      "candidatePrintingIds": [
+        "cpp-881d3f2ece459583"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-067.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-73a918a4ee46230a",
+      "cardId": "cp-live-with-the-aftermath",
+      "mode": "exact_printing",
+      "printingId": "cpp-73a918a4ee46230a",
+      "candidatePrintingIds": [
+        "cpp-73a918a4ee46230a"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-068.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-c46bb2b72d5b6957",
+      "cardId": "cp-bootleg-black-sapphire-show",
+      "mode": "exact_printing",
+      "printingId": "cpp-c46bb2b72d5b6957",
+      "candidatePrintingIds": [
+        "cpp-c46bb2b72d5b6957"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-066.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-509f743f75700687",
+      "cardId": "cp-goro-takemura-hands-unclean",
+      "mode": "exact_printing",
+      "printingId": "cpp-509f743f75700687",
+      "candidatePrintingIds": [
+        "cpp-509f743f75700687"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/EP-012.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-23c628bffab6b601",
+      "cardId": "cp-jackie-welles-mama-s-favorite",
+      "mode": "exact_printing",
+      "printingId": "cpp-23c628bffab6b601",
+      "candidatePrintingIds": [
+        "cpp-23c628bffab6b601"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-073.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-8b51b3dce986e893",
+      "cardId": "cp-goro-takemura-vengeful-bodyguard",
+      "mode": "exact_printing",
+      "printingId": "cpp-8b51b3dce986e893",
+      "candidatePrintingIds": [
+        "cpp-8b51b3dce986e893"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-071.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-356554cd5d18c511",
+      "cardId": "cp-hanako-arasaka-daughter-of-the-emperor",
+      "mode": "exact_printing",
+      "printingId": "cpp-356554cd5d18c511",
+      "candidatePrintingIds": [
+        "cpp-356554cd5d18c511"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-072.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-d8c8d0b83dfce7f0",
+      "cardId": "cp-padre-man-of-the-cross",
+      "mode": "exact_printing",
+      "printingId": "cpp-d8c8d0b83dfce7f0",
+      "candidatePrintingIds": [
+        "cpp-d8c8d0b83dfce7f0"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-074.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-fda2bd51e9b0c9ac",
+      "cardId": "cp-panam-palmer-nomad-cavalry",
+      "mode": "exact_printing",
+      "printingId": "cpp-fda2bd51e9b0c9ac",
+      "candidatePrintingIds": [
+        "cpp-fda2bd51e9b0c9ac"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-075.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-3b2f06e67090625e",
+      "cardId": "cp-saburo-arasaka-stubborn-patriarch",
+      "mode": "exact_printing",
+      "printingId": "cpp-3b2f06e67090625e",
+      "candidatePrintingIds": [
+        "cpp-3b2f06e67090625e"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/EP-013.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-1420fbeaffbd172a",
+      "cardId": "cp-corpo-security",
+      "mode": "exact_printing",
+      "printingId": "cpp-1420fbeaffbd172a",
+      "candidatePrintingIds": [
+        "cpp-1420fbeaffbd172a"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-076.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-e390a3303b82fc1e",
+      "cardId": "cp-emergency-atlus",
+      "mode": "exact_printing",
+      "printingId": "cpp-e390a3303b82fc1e",
+      "candidatePrintingIds": [
+        "cpp-e390a3303b82fc1e"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-077.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-8214425ccd0d0ad3",
+      "cardId": "cp-field-operator",
+      "mode": "exact_printing",
+      "printingId": "cpp-8214425ccd0d0ad3",
+      "candidatePrintingIds": [
+        "cpp-8214425ccd0d0ad3"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-078.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-60c0459645904c37",
+      "cardId": "cp-maxtac-squadron",
+      "mode": "exact_printing",
+      "printingId": "cpp-60c0459645904c37",
+      "candidatePrintingIds": [
+        "cpp-60c0459645904c37"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-082.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-e3be2ed0c1eec7dc",
+      "cardId": "cp-valentino-street-racer",
+      "mode": "exact_printing",
+      "printingId": "cpp-e3be2ed0c1eec7dc",
+      "candidatePrintingIds": [
+        "cpp-e3be2ed0c1eec7dc"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-091.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-a1e87522d2bc9270",
+      "cardId": "cp-goro-takemura-losing-his-way",
+      "mode": "exact_printing",
+      "printingId": "cpp-a1e87522d2bc9270",
+      "candidatePrintingIds": [
+        "cpp-a1e87522d2bc9270"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/EP-017.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-0eb986c8459d91ca",
+      "cardId": "cp-maelstrom-zealots",
+      "mode": "exact_printing",
+      "printingId": "cpp-0eb986c8459d91ca",
+      "candidatePrintingIds": [
+        "cpp-0eb986c8459d91ca"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-079.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-ef5a1a8db9b52808",
+      "cardId": "cp-pacifica-netrunner",
+      "mode": "exact_printing",
+      "printingId": "cpp-ef5a1a8db9b52808",
+      "candidatePrintingIds": [
+        "cpp-ef5a1a8db9b52808"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-084.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-598a837abe28a565",
+      "cardId": "cp-pepe-najarro-working-doubles",
+      "mode": "exact_printing",
+      "printingId": "cpp-598a837abe28a565",
+      "candidatePrintingIds": [
+        "cpp-598a837abe28a565"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-086.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-dcef0ee6e8b00ca4",
+      "cardId": "cp-riding-nomad",
+      "mode": "exact_printing",
+      "printingId": "cpp-dcef0ee6e8b00ca4",
+      "candidatePrintingIds": [
+        "cpp-dcef0ee6e8b00ca4"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-087.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-7f11fb70f2dffbd8",
+      "cardId": "cp-wraith-marauders",
+      "mode": "exact_printing",
+      "printingId": "cpp-7f11fb70f2dffbd8",
+      "candidatePrintingIds": [
+        "cpp-7f11fb70f2dffbd8"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-092.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-1de57a6c7c72c9bf",
+      "cardId": "cp-nadia-fighting-through-grief",
+      "mode": "exact_printing",
+      "printingId": "cpp-1de57a6c7c72c9bf",
+      "candidatePrintingIds": [
+        "cpp-1de57a6c7c72c9bf"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-083.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-4e759abae11a4428",
+      "cardId": "cp-panam-palmer-strength-through-family",
+      "mode": "exact_printing",
+      "printingId": "cpp-4e759abae11a4428",
+      "candidatePrintingIds": [
+        "cpp-4e759abae11a4428"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-085.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-ef35751db3ce602a",
+      "cardId": "cp-sandayu-oda-hanako-s-guardian",
+      "mode": "exact_printing",
+      "printingId": "cpp-ef35751db3ce602a",
+      "candidatePrintingIds": [
+        "cpp-ef35751db3ce602a"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-088.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-af335bd1350da2dd",
+      "cardId": "cp-saul-bright-stormrider",
+      "mode": "exact_printing",
+      "printingId": "cpp-af335bd1350da2dd",
+      "candidatePrintingIds": [
+        "cpp-af335bd1350da2dd"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-089.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-62372dd2f034bacd",
+      "cardId": "cp-riot-shield",
+      "mode": "exact_printing",
+      "printingId": "cpp-62372dd2f034bacd",
+      "candidatePrintingIds": [
+        "cpp-62372dd2f034bacd"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-094.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-dbeb59958d4314a6",
+      "cardId": "cp-sandevistan",
+      "mode": "exact_printing",
+      "printingId": "cpp-dbeb59958d4314a6",
+      "candidatePrintingIds": [
+        "cpp-dbeb59958d4314a6"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-095.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-3c17ceaf89588407",
+      "cardId": "cp-overwatch-panam-s-gift",
+      "mode": "exact_printing",
+      "printingId": "cpp-3c17ceaf89588407",
+      "candidatePrintingIds": [
+        "cpp-3c17ceaf89588407"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-093.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-da12d9d3784fe46e",
+      "cardId": "cp-zetatech-berserk",
+      "mode": "exact_printing",
+      "printingId": "cpp-da12d9d3784fe46e",
+      "candidatePrintingIds": [
+        "cpp-da12d9d3784fe46e"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-096.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-734552d1189ae641",
+      "cardId": "cp-peace-offering",
+      "mode": "exact_printing",
+      "printingId": "cpp-734552d1189ae641",
+      "candidatePrintingIds": [
+        "cpp-734552d1189ae641"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-101.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-d7d5b94aa52225d3",
+      "cardId": "cp-synapse-burnout",
+      "mode": "exact_printing",
+      "printingId": "cpp-d7d5b94aa52225d3",
+      "candidatePrintingIds": [
+        "cpp-d7d5b94aa52225d3"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-102.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-ff4e1430790eceab",
+      "cardId": "cp-corporate-surveillance",
+      "mode": "exact_printing",
+      "printingId": "cpp-ff4e1430790eceab",
+      "candidatePrintingIds": [
+        "cpp-ff4e1430790eceab"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-097.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-58580f561e8e0eb1",
+      "cardId": "cp-fool-on-the-hill",
+      "mode": "exact_printing",
+      "printingId": "cpp-58580f561e8e0eb1",
+      "candidatePrintingIds": [
+        "cpp-58580f561e8e0eb1"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-099.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-d37d525dfa3c04b5",
+      "cardId": "cp-take-control",
+      "mode": "exact_printing",
+      "printingId": "cpp-d37d525dfa3c04b5",
+      "candidatePrintingIds": [
+        "cpp-d37d525dfa3c04b5"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-103.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-bb5a3a3a08ff7cc3",
+      "cardId": "cp-wild-in-the-streets",
+      "mode": "exact_printing",
+      "printingId": "cpp-bb5a3a3a08ff7cc3",
+      "candidatePrintingIds": [
+        "cpp-bb5a3a3a08ff7cc3"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-105.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-c2ef667cfaab84ad",
+      "cardId": "cp-don-t-fear-the-reaper",
+      "mode": "exact_printing",
+      "printingId": "cpp-c2ef667cfaab84ad",
+      "candidatePrintingIds": [
+        "cpp-c2ef667cfaab84ad"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-098.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-93310c51e1ab876e",
+      "cardId": "cp-sasha-yakovleva-won-t-let-you-down",
+      "mode": "exact_printing",
+      "printingId": "cpp-93310c51e1ab876e",
+      "candidatePrintingIds": [
+        "cpp-93310c51e1ab876e"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-109.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-f017c200a38d3bd4",
+      "cardId": "cp-v-corporate-exile",
+      "mode": "exact_printing",
+      "printingId": "cpp-f017c200a38d3bd4",
+      "candidatePrintingIds": [
+        "cpp-f017c200a38d3bd4"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/HEIST-012.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-c6f6801f7e5aa26d",
+      "cardId": "cp-alt-cunningham-soulkiller-architect",
+      "mode": "exact_printing",
+      "printingId": "cpp-c6f6801f7e5aa26d",
+      "candidatePrintingIds": [
+        "cpp-c6f6801f7e5aa26d"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-106.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-162f9e74580f40b5",
+      "cardId": "cp-evelyn-parker-beautiful-enigma",
+      "mode": "exact_printing",
+      "printingId": "cpp-162f9e74580f40b5",
+      "candidatePrintingIds": [
+        "cpp-162f9e74580f40b5"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-107.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-bd0ab6102f763890",
+      "cardId": "cp-jackie-welles-pour-one-out-for-me",
+      "mode": "exact_printing",
+      "printingId": "cpp-bd0ab6102f763890",
+      "candidatePrintingIds": [
+        "cpp-bd0ab6102f763890"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/HEIST-011.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-ac0d5e2e42a90758",
+      "cardId": "cp-judy-alvarez-braindance-maestro",
+      "mode": "exact_printing",
+      "printingId": "cpp-ac0d5e2e42a90758",
+      "candidatePrintingIds": [
+        "cpp-ac0d5e2e42a90758"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-108.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-e630fb858f7b542c",
+      "cardId": "cp-wakako-okada-peace-and-harmony",
+      "mode": "exact_printing",
+      "printingId": "cpp-e630fb858f7b542c",
+      "candidatePrintingIds": [
+        "cpp-e630fb858f7b542c"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-110.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-d89087b7af84e213",
+      "cardId": "cp-evelyn-parker-scheming-siren",
+      "mode": "exact_printing",
+      "printingId": "cpp-d89087b7af84e213",
+      "candidatePrintingIds": [
+        "cpp-d89087b7af84e213"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-113.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-da388f8d51ce318c",
+      "cardId": "cp-jacked-in-voodoo-boy",
+      "mode": "exact_printing",
+      "printingId": "cpp-da388f8d51ce318c",
+      "candidatePrintingIds": [
+        "cpp-da388f8d51ce318c"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-115.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-03ee5f74a55d9337",
+      "cardId": "cp-delamain-rideshare-ai",
+      "mode": "exact_printing",
+      "printingId": "cpp-03ee5f74a55d9337",
+      "candidatePrintingIds": [
+        "cpp-03ee5f74a55d9337"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-111.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-1cfd280cecba09ea",
+      "cardId": "cp-misty-olszewski-mender-of-broken-spirits",
+      "mode": "exact_printing",
+      "printingId": "cpp-1cfd280cecba09ea",
+      "candidatePrintingIds": [
+        "cpp-1cfd280cecba09ea"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-119.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-28f8c3c44fa5753c",
+      "cardId": "cp-mox-inciters",
+      "mode": "exact_printing",
+      "printingId": "cpp-28f8c3c44fa5753c",
+      "candidatePrintingIds": [
+        "cpp-28f8c3c44fa5753c"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-122.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-077861a5ffc1f7a5",
+      "cardId": "cp-delamain-cab",
+      "mode": "exact_printing",
+      "printingId": "cpp-077861a5ffc1f7a5",
+      "candidatePrintingIds": [
+        "cpp-077861a5ffc1f7a5"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-112.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-ceab0ea9b2c9af4d",
+      "cardId": "cp-hacked-corpo",
+      "mode": "exact_printing",
+      "printingId": "cpp-ceab0ea9b2c9af4d",
+      "candidatePrintingIds": [
+        "cpp-ceab0ea9b2c9af4d"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-114.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-e410e6b99e9f357c",
+      "cardId": "cp-psycho-squad",
+      "mode": "exact_printing",
+      "printingId": "cpp-e410e6b99e9f357c",
+      "candidatePrintingIds": [
+        "cpp-e410e6b99e9f357c"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-124.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-62251b0366bdde8b",
+      "cardId": "cp-rita-wheeler-no-stupid-questions",
+      "mode": "exact_printing",
+      "printingId": "cpp-62251b0366bdde8b",
+      "candidatePrintingIds": [
+        "cpp-62251b0366bdde8b"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-125.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-cb2f33bbe78fcdfb",
+      "cardId": "cp-lizzy-wizzy-delicate-weapon",
+      "mode": "exact_printing",
+      "printingId": "cpp-cb2f33bbe78fcdfb",
+      "candidatePrintingIds": [
+        "cpp-cb2f33bbe78fcdfb"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-117.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-d4161a4649d4ccce",
+      "cardId": "cp-maman-brigitte-spirit-of-death",
+      "mode": "exact_printing",
+      "printingId": "cpp-d4161a4649d4ccce",
+      "candidatePrintingIds": [
+        "cpp-d4161a4649d4ccce"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-118.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-a7beea5591205534",
+      "cardId": "cp-modded-muramasa",
+      "mode": "exact_printing",
+      "printingId": "cpp-a7beea5591205534",
+      "candidatePrintingIds": [
+        "cpp-a7beea5591205534"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-121.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-a5aa543f8af65490",
+      "cardId": "cp-mt0d12-flathead",
+      "mode": "exact_printing",
+      "printingId": "cpp-a5aa543f8af65490",
+      "candidatePrintingIds": [
+        "cpp-a5aa543f8af65490"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/HEIST-015.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-9be3dc9a666eea6d",
+      "cardId": "cp-judy-alvarez-nothing-to-doubt",
+      "mode": "exact_printing",
+      "printingId": "cpp-9be3dc9a666eea6d",
+      "candidatePrintingIds": [
+        "cpp-9be3dc9a666eea6d"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-116.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-87bdebc840a44aa4",
+      "cardId": "cp-modded-kusanagi",
+      "mode": "exact_printing",
+      "printingId": "cpp-87bdebc840a44aa4",
+      "candidatePrintingIds": [
+        "cpp-87bdebc840a44aa4"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-120.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-180078d05370e589",
+      "cardId": "cp-placide-voodoo-sentinel",
+      "mode": "exact_printing",
+      "printingId": "cpp-180078d05370e589",
+      "candidatePrintingIds": [
+        "cpp-180078d05370e589"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-123.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-3dbb1307e69c7bf8",
+      "cardId": "cp-dying-night-v-s-pistol",
+      "mode": "exact_printing",
+      "printingId": "cpp-3dbb1307e69c7bf8",
+      "candidatePrintingIds": [
+        "cpp-3dbb1307e69c7bf8"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-128.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-ae887fe7ad55acd8",
+      "cardId": "cp-netwatch-netdriver",
+      "mode": "exact_printing",
+      "printingId": "cpp-ae887fe7ad55acd8",
+      "candidatePrintingIds": [
+        "cpp-ae887fe7ad55acd8"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-129.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-240f8ed0f0318360",
+      "cardId": "cp-floor-it",
+      "mode": "exact_printing",
+      "printingId": "cpp-240f8ed0f0318360",
+      "candidatePrintingIds": [
+        "cpp-240f8ed0f0318360"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-132.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-ba93bbe4c9d589d5",
+      "cardId": "cp-trust-no-one",
+      "mode": "exact_printing",
+      "printingId": "cpp-ba93bbe4c9d589d5",
+      "candidatePrintingIds": [
+        "cpp-ba93bbe4c9d589d5"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-139.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-ffe2a50f1865e83d",
+      "cardId": "cp-reboot-optics",
+      "mode": "exact_printing",
+      "printingId": "cpp-ffe2a50f1865e83d",
+      "candidatePrintingIds": [
+        "cpp-ffe2a50f1865e83d"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-136.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-bca4c8ccddf27e99",
+      "cardId": "cp-chrome-reverie",
+      "mode": "exact_printing",
+      "printingId": "cpp-bca4c8ccddf27e99",
+      "candidatePrintingIds": [
+        "cpp-bca4c8ccddf27e99"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-131.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-3b7b4695442558ee",
+      "cardId": "cp-pyramid-song",
+      "mode": "exact_printing",
+      "printingId": "cpp-3b7b4695442558ee",
+      "candidatePrintingIds": [
+        "cpp-3b7b4695442558ee"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-135.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-eef8f1d28001db6f",
+      "cardId": "cp-unlikely-bond",
+      "mode": "exact_printing",
+      "printingId": "cpp-eef8f1d28001db6f",
+      "candidatePrintingIds": [
+        "cpp-eef8f1d28001db6f"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-140.png",
+      "evidence": "existing_validated_vision_reference"
+    },
+    {
+      "visualIdentityId": "cpvi-6e4d31bea8587fcc",
+      "cardId": "cp-les-elemens",
+      "mode": "exact_printing",
+      "printingId": "cpp-6e4d31bea8587fcc",
+      "candidatePrintingIds": [
+        "cpp-6e4d31bea8587fcc"
+      ],
+      "referenceImageUrl": "https://punksim.net/images/WNTC-133.png",
+      "evidence": "existing_validated_vision_reference"
+    }
+  ]
+}

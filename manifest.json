@@ -1,9 +1,13 @@
 {
-  "manifest_version": "1.0.0",
+  "manifest_version": "2.0.0",
   "game_id": "cyberpunk-tcg",
-  "database_version": "0.4.0",
+  "database_version": "0.5.0",
   "database_manifest": "db-manifest.json",
   "runtime_cards": "runtime/cards.min.json",
+  "runtime_printings": "runtime/printings.min.json",
   "vision_index": "runtime/vision-index.json",
-  "coverage": "data/coverage.json"
+  "asset_manifest": "runtime/asset-manifest.json",
+  "coverage": "data/coverage.json",
+  "entrypoint": "runtime/cards.min.json",
+  "visionIndex": "runtime/vision-index.json"
 }

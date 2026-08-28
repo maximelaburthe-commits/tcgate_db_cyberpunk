@@ -1,36 +1,24 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "TCGate Cyberpunk Printing",
+  "title": "TCGate Cyberpunk Physical Printing",
   "type": "object",
-  "required": [
-    "id",
-    "card_id",
-    "set_id",
-    "number",
-    "image",
-    "recognition"
-  ],
+  "additionalProperties": false,
+  "required": ["printingId", "officialPrintingId", "official", "cardId", "setId", "number", "catalogNumber", "variantKind", "rarity", "finish", "artist", "sourceUrl", "image", "recognition", "provenance"],
   "properties": {
-    "id": {
-      "type": "string"
-    },
-    "card_id": {
-      "type": "string"
-    },
-    "set_id": {
-      "type": "string"
-    },
-    "number": {
-      "type": "string"
-    },
-    "variant_kind": {
-      "type": "string"
-    },
-    "image": {
-      "type": "object"
-    },
-    "recognition": {
-      "type": "object"
-    }
+    "printingId": {"type": "string", "pattern": "^cpp-"},
+    "officialPrintingId": {"type": "string", "format": "uuid"},
+    "official": {"const": true},
+    "cardId": {"type": "string", "pattern": "^cp-"},
+    "setId": {"type": "string", "minLength": 1},
+    "number": {"type": "string", "minLength": 1},
+    "catalogNumber": {"type": "string", "minLength": 1},
+    "variantKind": {"enum": ["standard", "alternate_art", "promo_art", "extended_art", "borderless", "foil_variant", "serialized", "legacy_unresolved", "unknown"]},
+    "rarity": {"type": ["string", "null"]},
+    "finish": {"type": ["string", "null"]},
+    "artist": {"type": ["string", "null"]},
+    "sourceUrl": {"type": "string", "format": "uri"},
+    "image": {"type": "object", "required": ["imageUrl", "sourceImageUrl", "imageSource", "mimeType", "sha256", "width", "height", "status"]},
+    "recognition": {"type": "object", "required": ["enabled", "visualIdentityId", "referenceImageUrl", "status"]},
+    "provenance": {"type": "object", "required": ["authority", "lastVerifiedAt"]}
   }
 }
