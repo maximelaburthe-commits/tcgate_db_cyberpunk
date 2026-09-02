@@ -14,7 +14,6 @@
       "role": "structured_discovery_accelerator"
     }
   ],
-  "expected_wntc_slots": 140,
   "private_alpha": {
     "publish_mode": "manual_github",
     "auto_write_repository": false

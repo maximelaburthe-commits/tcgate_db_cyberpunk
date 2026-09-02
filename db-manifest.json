@@ -2,9 +2,12 @@
   "packageId": "tcgate.db.cyberpunk-tcg",
   "packageType": "tcgate_game_database",
   "schemaVersion": "2.0.0",
-  "databaseVersion": "0.7.0",
-  "game": {"id": "cyberpunk-tcg", "name": "Cyberpunk Trading Card Game"},
-  "activeSnapshot": "2026-08-28",
+  "databaseVersion": "1.0.0",
+  "game": {
+    "id": "cyberpunk-tcg",
+    "name": "Cyberpunk Trading Card Game"
+  },
+  "activeSnapshot": "2026-09-02",
   "paths": {
     "cards": "data/cards.json",
     "printings": "data/printings.json",
@@ -32,5 +35,6 @@
     "preserveInternalIds": true,
     "signedSourceUrlsAreNotRuntimeAssets": true,
     "automaticRepositoryWrite": false
-  }
+  },
+  "status": "production-reviewed"
 }

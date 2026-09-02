@@ -1,0 +1,28 @@
+{
+  "previousSnapshot": "2026-08-28",
+  "snapshotDate": "2026-09-02",
+  "sourceHealth": "HEALTHY",
+  "officialCatalogEntries": 150,
+  "canonicalCards": 150,
+  "printings": 444,
+  "newCards": [
+    "cb-memory-relapse",
+    "cb-tyger-s-whisper",
+    "cb-we-gotta-live-together"
+  ],
+  "variantsAdded": [
+    "28267ce7-17dc-42c4-b8c4-4235a7f3c3df",
+    "3488c7f7-c797-4c3a-8d49-e5cdcf0e8d74",
+    "4b7d734b-5cc2-4c57-9bcf-7e3b5a0f1f9f",
+    "63821536-cdf5-4347-812a-0bf72d727596",
+    "7a8c2032-e753-43ab-9c3b-adefb4281241",
+    "7b113940-7325-4304-b07a-61719b47a49c",
+    "9a4fafb2-b27b-4b3e-9f57-502040898b0f",
+    "ef9f2959-de87-4a54-be45-5c9dcc507aba"
+  ],
+  "missingFromOfficial": [],
+  "variantsRemoved": [],
+  "conflicts": [],
+  "warnings": [],
+  "promotionAllowed": true
+}

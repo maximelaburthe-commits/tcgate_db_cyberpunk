@@ -60,6 +60,7 @@ official_card_ids = [c.get("officialCardId") for c in cards]
 printing_ids = [p.get("printingId") for p in printings]
 official_printing_ids = [p.get("officialPrintingId") for p in printings]
 set_ids = {s["setId"] for s in sets}
+allowed_variant_kinds = {"standard", "iconic", "alternate_art", "promo_art", "extended_art", "borderless", "foil_variant", "serialized", "legacy_unresolved", "unknown"}
 
 if len(cards) != meta["expectedCanonicalCards"]:
     errors.append(f"canonical count {len(cards)} != {meta['expectedCanonicalCards']}")
@@ -116,6 +117,8 @@ for printing in printings:
         errors.append(f"orphan printing {printing['printingId']}")
     if printing["setId"] not in set_ids:
         errors.append(f"unknown set {printing['setId']} in {printing['printingId']}")
+    if printing.get("variantKind") not in allowed_variant_kinds:
+        errors.append(f"invalid variantKind {printing['printingId']}")
     image = printing["image"]
     if not image.get("sourceImageUrl"):
         errors.append(f"missing sourceImageUrl {printing['printingId']}")
@@ -130,8 +133,8 @@ for printing in printings:
         errors.append(f"recognition without stable image {printing['printingId']}")
 
 asset_by_printing = {asset.get("printingId"): asset for asset in asset_metadata}
-if len(asset_metadata) != 436 or len(asset_by_printing) != 436:
-    errors.append("asset metadata must contain 436 unique printings")
+if len(asset_metadata) != len(printings) or len(asset_by_printing) != len(printings):
+    errors.append("asset metadata must contain every unique official printing")
 expected_display_paths = set()
 expected_vision_paths = set()
 for printing_id in valid_printings:
@@ -291,6 +294,9 @@ result = {
     "intrinsicVisualReferences": sum(v["mode"] == "intrinsic_face_reference" for v in visuals),
     "sharedVisualPrintings": sum(len(v["candidatePrintingIds"]) for v in visuals if v["mode"] == "shared_visual_identity"),
     "sourceImages": sum(bool(p["image"].get("sourceImageUrl")) for p in printings),
+    "standardPrintings": sum(p.get("variantKind") == "standard" for p in printings),
+    "iconicPrintings": sum(p.get("variantKind") == "iconic" for p in printings),
+    "otherVariants": sum(p.get("variantKind") not in {"standard", "iconic"} for p in printings),
     "stableRuntimeAssets": sum(bool(p["image"].get("displayAssetPath") and p["image"].get("visionAssetPath")) for p in printings),
     "displayAssets": len(actual_display_paths),
     "visionAssets": len(actual_vision_paths),

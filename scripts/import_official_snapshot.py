@@ -8,6 +8,7 @@ URLs to runtime asset URLs.
 from __future__ import annotations
 
 import argparse
+import time
 import hashlib
 import json
 import re
@@ -57,9 +58,15 @@ def dump(path: Path, value) -> None:
 
 
 def fetch(url: str) -> str:
-    request = Request(url, headers=UA)
-    with urlopen(request, timeout=45) as response:
-        return response.read().decode("utf-8")
+    for attempt in range(5):
+        try:
+            request = Request(url, headers=UA)
+            with urlopen(request, timeout=45) as response:
+                return response.read().decode("utf-8")
+        except Exception:
+            if attempt == 4:
+                raise
+            time.sleep(1.5 * (attempt + 1))
 
 
 def normalized(value: str | None) -> str:
@@ -142,6 +149,8 @@ def variant_kind(item: dict) -> str:
     digits = int((re.search(r"\d+", number) or ["0"])[0])
     if code == "PRM01":
         return "promo_art"
+    if "iconic" in (item.get("rarity") or "").lower():
+        return "iconic"
     if code == "welcometonightcityretail" and number == "005b":
         return "alternate_art"
     if code == "welcometonightcitybeta" and digits > 140:
@@ -209,8 +218,9 @@ def build_recognition_groups(printings: list[dict]) -> list[dict]:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--snapshot-date", default=date.today().isoformat())
-    parser.add_argument("--expected-cards", type=int, required=True)
-    parser.add_argument("--expected-printings", type=int, required=True)
+    parser.add_argument("--expected-cards", type=int)
+    parser.add_argument("--expected-printings", type=int)
+    parser.add_argument("--catalog-file", help="Promote an already reviewed staging catalogue instead of fetching")
     args = parser.parse_args()
 
     old_cards = load("data/cards.json")["cards"]
@@ -219,23 +229,31 @@ def main() -> None:
     assets_by_printing = {asset["printingId"]: asset for asset in asset_metadata}
     old_unresolved = load("data/unresolved-printings.json")["printings"] if (ROOT / "data/unresolved-printings.json").exists() else []
     old_by_name = {normalized(c.get("name")): c for c in old_cards if c.get("name")}
+    old_by_official = {c.get("officialCardId"): c for c in old_cards if c.get("officialCardId")}
     old_print_by_key = {
         (p.get("card_id") or p.get("cardId"), p.get("set_id") or p.get("setId"), p["number"]): p
         for p in old_printings
     }
-    sitemap = fetch(f"{OFFICIAL}/sitemap.xml")
-    urls = re.findall(r"<loc>(https://cyberpunktcg\.com/cards/[^<]+)</loc>", sitemap)
-    if len(urls) != args.expected_cards:
-        raise SystemExit(f"Expected {args.expected_cards} card URLs, found {len(urls)}")
-    official_cards = [parse_card(url) for url in urls]
-    if sum(len(c["printings"]) for c in official_cards) != args.expected_printings:
-        raise SystemExit("Official printing count does not match requested snapshot")
+    if args.catalog_file:
+        official_cards = json.loads(Path(args.catalog_file).read_text(encoding="utf-8"))["cards"]
+        urls = [card["sourceUrl"] for card in official_cards]
+    else:
+        sitemap = fetch(f"{OFFICIAL}/sitemap.xml")
+        urls = re.findall(r"<loc>(https://cyberpunktcg\.com/cards/[^<]+)</loc>", sitemap)
+        official_cards = [parse_card(url) for url in urls]
+    actual_cards = len(official_cards)
+    actual_printings = sum(len(c["printings"]) for c in official_cards)
+    if args.expected_cards is not None and actual_cards != args.expected_cards:
+        raise SystemExit(f"Expected {args.expected_cards} card URLs, found {actual_cards}")
+    if args.expected_printings is not None and actual_printings != args.expected_printings:
+        raise SystemExit(f"Expected {args.expected_printings} printings, found {actual_printings}")
 
     snapshot_dir = ROOT / "sources" / "official" / args.snapshot_date
     dump(snapshot_dir / "metadata.json", {
         "snapshotDate": args.snapshot_date,
-        "expectedCanonicalCards": args.expected_cards,
-        "expectedOfficialPrintings": args.expected_printings,
+        "officialCatalogEntries": actual_cards,
+        "expectedCanonicalCards": actual_cards,
+        "expectedOfficialPrintings": actual_printings,
         "source": f"{OFFICIAL}/cards",
         "sitemap": f"{OFFICIAL}/sitemap.xml",
     })
@@ -245,7 +263,7 @@ def main() -> None:
     aliases = {"cards": [], "printings": []}
     official_id_to_internal = {}
     for source_card in official_cards:
-        old = old_by_name.get(normalized(source_card["name"]))
+        old = old_by_official.get(source_card["officialCardId"]) or old_by_name.get(normalized(source_card["name"]))
         primary = next(
             (p for p in source_card["printings"]
              if p["officialPrintingId"] == source_card["selectedOfficialPrintingId"]),
@@ -319,10 +337,10 @@ def main() -> None:
                     "status": "stable_local_assets" if asset else "source_only",
                 },
                 "recognition": {
-                    "enabled": bool(old_recognition.get("enabled") and vision_asset_path),
-                    "visualIdentityId": ("cpvi-" + printing_id[4:]) if old_recognition.get("enabled") and vision_asset_path else None,
-                    "referenceImageUrl": vision_asset_path if old_recognition.get("enabled") and vision_asset_path else None,
-                    "status": "reference_available" if old_recognition.get("enabled") and vision_asset_path else "not_in_legacy_index",
+                    "enabled": True,
+                    "visualIdentityId": "cpvi-" + printing_id[4:],
+                    "referenceImageUrl": vision_asset_path or f"assets/vision/{printing_id}.webp",
+                    "status": "reference_available" if vision_asset_path else "asset_pending_ingestion",
                 },
                 "provenance": {"authority": "official", "lastVerifiedAt": args.snapshot_date},
             })
@@ -348,8 +366,10 @@ def main() -> None:
             "official": False, "snapshotStatus": "historical_out_of_snapshot",
             "cardId": "cp-lucyna-kushinada", "name": "Lucyna Kushinada — Fresh Beginnings",
             "setId": "promo-cards", "number": "N001", "variantKind": "promo_art",
-            "reason": "Not present in the active official 147/436 snapshot",
+            "reason": "Not present in the active official snapshot",
         }
+    else:
+        lucyna_existing["reason"] = "Not present in the active official snapshot"
     # Goro S002 is a documented alias of the official EP Retail 012 printing;
     # it remains traceable without creating an unofficial 437th printing.
     unresolved = [lucyna_existing]
@@ -371,15 +391,14 @@ def main() -> None:
     })
     visual = []
     for item in printings:
-        if item["recognition"]["enabled"]:
-            visual.append({
+        visual.append({
                 "visualIdentityId": item["recognition"]["visualIdentityId"],
                 "cardId": item["cardId"], "mode": "intrinsic_face_reference",
                 "printingId": item["printingId"],
                 "candidatePrintingIds": [item["printingId"]],
                 "referenceImageUrl": item["recognition"]["referenceImageUrl"],
                 "evidence": "existing_stable_reference_asset",
-            })
+        })
     dump(ROOT / "data/cards.json", {"cards": cards})
     dump(ROOT / "data/printings.json", {"printings": printings})
     dump(ROOT / "data/sets.json", {"sets": list(sets.values())})

@@ -29,6 +29,27 @@
       "source": "official_cyberpunk_tcg"
     },
     {
+      "setId": "the-heist-retail",
+      "officialCode": "theheistretailstarterdeck",
+      "name": "The Heist — Retail Starter Deck",
+      "kind": "starter",
+      "source": "official_cyberpunk_tcg"
+    },
+    {
+      "setId": "the-heist-beta",
+      "officialCode": "theheistbetastarterdeck",
+      "name": "The Heist — Beta Starter Deck",
+      "kind": "starter",
+      "source": "official_cyberpunk_tcg"
+    },
+    {
+      "setId": "merc-demo",
+      "officialCode": "mercdemodeck",
+      "name": "Merc Demo Deck",
+      "kind": "demo",
+      "source": "official_cyberpunk_tcg"
+    },
+    {
       "setId": "embracing-power-retail",
       "officialCode": "embracingpowerretailstarterdeck",
       "name": "Embracing Power — Retail Starter Deck",
@@ -61,27 +82,6 @@
       "officialCode": "boxtoppersbeta",
       "name": "Box Toppers — Beta",
       "kind": "box_topper",
-      "source": "official_cyberpunk_tcg"
-    },
-    {
-      "setId": "the-heist-retail",
-      "officialCode": "theheistretailstarterdeck",
-      "name": "The Heist — Retail Starter Deck",
-      "kind": "starter",
-      "source": "official_cyberpunk_tcg"
-    },
-    {
-      "setId": "the-heist-beta",
-      "officialCode": "theheistbetastarterdeck",
-      "name": "The Heist — Beta Starter Deck",
-      "kind": "starter",
-      "source": "official_cyberpunk_tcg"
-    },
-    {
-      "setId": "merc-demo",
-      "officialCode": "mercdemodeck",
-      "name": "Merc Demo Deck",
-      "kind": "demo",
       "source": "official_cyberpunk_tcg"
     }
   ]

@@ -52,21 +52,30 @@ for printing in printings:
 
 by_printing = {p["printingId"]: p for p in printings}
 card_names = {c["cardId"]: c["name"] for c in cards}
+group_by_printing = {
+    printing_id: group
+    for group in recognition_groups
+    for printing_id in group["printingIds"]
+}
 vision = []
 for identity in visuals:
     candidates = identity["candidatePrintingIds"]
     first = by_printing[candidates[0]]
-    singleton = len(candidates) == 1
+    group = group_by_printing[first["printingId"]]
     vision.append({
+        "refId": identity["visualIdentityId"],
         "visualIdentityId": identity["visualIdentityId"],
         "cardId": identity["cardId"],
-        "printingId": candidates[0] if singleton else None,
-        "candidatePrintingIds": candidates,
-        "recognitionMode": "legacy_reference",
+        "printingId": first["printingId"],
+        "candidatePrintingIds": group["candidatePrintingIds"],
+        "recognitionMode": group["mode"],
+        "recognition": {"eligible": True, "mode": group["mode"], "recognitionGroupId": group["recognitionGroupId"]},
         "referenceImageUrl": identity["referenceImageUrl"],
         "visionAssetPath": identity["referenceImageUrl"],
         "displayAssetPath": first["image"]["displayAssetPath"],
-        "printing_id": candidates[0] if singleton else identity["visualIdentityId"],
+        "imageUrl": identity["referenceImageUrl"],
+        "variantKind": first["variantKind"],
+        "printing_id": first["printingId"],
         "card_id": identity["cardId"],
         "name": card_names[identity["cardId"]],
         "set_id": first["setId"],
@@ -149,6 +158,31 @@ dump("runtime/asset-manifest.json", {
     "assetProfileVersion": asset_metadata["assetProfileVersion"],
     "displayAssets": display_assets,
     "visionAssets": vision_assets,
+})
+meta = load(f"sources/official/{load('db-manifest.json')['activeSnapshot']}/metadata.json")
+ready = sum(bool(card.get("type") and card.get("rulesText")) for card in cards)
+standard = sum(printing["variantKind"] == "standard" for printing in printings)
+iconic = sum(printing["variantKind"] == "iconic" for printing in printings)
+stable_assets = sum(bool(printing["image"].get("displayAssetPath") and printing["image"].get("visionAssetPath")) for printing in printings)
+vision_eligible = sum(bool(printing["recognition"].get("enabled") and printing["image"].get("visionAssetPath")) for printing in printings)
+dump("data/coverage.json", {
+    "snapshotDate": meta["snapshotDate"],
+    "officialCatalogEntries": meta.get("officialCatalogEntries", len(cards)),
+    "expectedCanonicalCards": len(cards), "canonicalCards": len(cards),
+    "readyCards": ready, "incompleteCards": len(cards) - ready,
+    "expectedOfficialPrintings": len(printings), "officialPrintings": len(printings),
+    "standardPrintings": standard, "iconicPrintings": iconic,
+    "otherVariants": len(printings) - standard - iconic,
+    "starterPrintings": sum("starter" in p["setId"] for p in printings),
+    "promoPrintings": sum(p["variantKind"] == "promo_art" for p in printings),
+    "betaPrintings": sum("beta" in p["setId"] for p in printings),
+    "visualIdentities": len(visuals), "visionEligible": vision_eligible,
+    "visionMissing": len(printings) - vision_eligible,
+    "sourceImages": sum(bool(p["image"].get("sourceImageUrl")) for p in printings),
+    "missingImages": sum(not p["image"].get("sourceImageUrl") for p in printings),
+    "stableRuntimeAssets": stable_assets, "unresolvedPrintings": len(load("data/unresolved-printings.json")["printings"]),
+    "complete": len(cards) == meta["expectedCanonicalCards"] and len(printings) == meta["expectedOfficialPrintings"],
+    "notes": "Official catalogue entries, canonical cards, and visual printings are reported separately.",
 })
 dump("sets.json", sets)
 print(json.dumps({

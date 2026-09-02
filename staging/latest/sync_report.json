@@ -1,28 +1,38 @@
 {
   "mode": "staging_only",
-  "official_health": {
+  "snapshotDate": "2026-09-02",
+  "sourceHealth": "HEALTHY",
+  "officialHealth": {
     "source": "cyberpunk-official",
     "url": "https://cyberpunktcg.com/cards",
     "ok": true,
-    "http_status": 200,
-    "final_url": "https://cyberpunktcg.com/cards",
-    "reported_gallery_entries": null,
+    "httpStatus": 200,
+    "finalUrl": "https://cyberpunktcg.com/cards",
+    "reportedCatalogEntries": null,
     "status": "HEALTHY"
   },
-  "secondary_error": null,
-  "secondary_records": 142,
-  "secondary_wntc_records": 131,
-  "new_source_numbers": [
-    "WNTC-002"
-  ],
-  "source_numbers_missing_from_local": [
-    "WNTC-002"
-  ],
-  "local_numbers_not_in_secondary": [
-    "PRM-N001"
-  ],
-  "large_drop_ratio": -0.06766917293233082,
+  "officialRecords": 150,
+  "officialCatalogEntries": 150,
+  "secondaryRecords": 148,
+  "canonicalCards": 150,
+  "readyCards": 149,
+  "incompleteCards": 1,
+  "printings": 444,
+  "standardPrintings": 411,
+  "iconicPrintings": 29,
+  "otherVariants": 4,
+  "starterPrintings": 80,
+  "promoPrintings": 3,
+  "betaPrintings": 226,
+  "visionEligible": 444,
+  "newCards": [],
+  "changedCards": [],
+  "missingFromOfficial": [],
+  "variantsAdded": [],
+  "variantsRemoved": [],
+  "conflicts": [],
+  "warnings": [],
+  "catalogDropRatio": 0.0,
   "blocked": false,
-  "publish_allowed": false,
-  "next_action": "Inspect staging; rebuild database package; manually publish to GitHub only after validation."
+  "promotionAllowed": true
 }

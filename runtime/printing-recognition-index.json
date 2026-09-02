@@ -2579,16 +2579,18 @@
       "cardId": "cp-johnny-silverhand-never-stop-fighting",
       "recognitionGroups": [
         {
-          "recognitionGroupId": "cprg-0200d445f7f86f0e",
+          "recognitionGroupId": "cprg-bbf95d28358c8749",
           "recognitionProfileId": "cyberpunk-v5-fast-72x108",
           "cardId": "cp-johnny-silverhand-never-stop-fighting",
           "printingIds": [
             "cpp-95a676b10cec7bf3",
-            "cpp-ad4c12d992ca2eb8"
+            "cpp-ad4c12d992ca2eb8",
+            "cpp-e1fcd821f2132bee"
           ],
           "candidatePrintingIds": [
             "cpp-95a676b10cec7bf3",
-            "cpp-ad4c12d992ca2eb8"
+            "cpp-ad4c12d992ca2eb8",
+            "cpp-e1fcd821f2132bee"
           ],
           "mode": "shared",
           "reason": "edition_details_not_robust_at_current_descriptor",
@@ -2608,6 +2610,12 @@
               "printingId": "cpp-ad4c12d992ca2eb8",
               "referenceImageUrl": "assets/vision/cpp-ad4c12d992ca2eb8.webp",
               "visionAssetPath": "assets/vision/cpp-ad4c12d992ca2eb8.webp",
+              "assetStatus": "stable_local_assets"
+            },
+            {
+              "printingId": "cpp-e1fcd821f2132bee",
+              "referenceImageUrl": "assets/vision/cpp-e1fcd821f2132bee.webp",
+              "visionAssetPath": "assets/vision/cpp-e1fcd821f2132bee.webp",
               "assetStatus": "stable_local_assets"
             }
           ]
@@ -3485,6 +3493,45 @@
               "printingId": "cpp-eb65600a3e6706c1",
               "referenceImageUrl": "assets/vision/cpp-eb65600a3e6706c1.webp",
               "visionAssetPath": "assets/vision/cpp-eb65600a3e6706c1.webp",
+              "assetStatus": "stable_local_assets"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cardId": "cp-memory-relapse",
+      "recognitionGroups": [
+        {
+          "recognitionGroupId": "cprg-5cf7764aebee480b",
+          "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+          "cardId": "cp-memory-relapse",
+          "printingIds": [
+            "cpp-20c1452ddaa3834e",
+            "cpp-813677d03d08fa9b"
+          ],
+          "candidatePrintingIds": [
+            "cpp-20c1452ddaa3834e",
+            "cpp-813677d03d08fa9b"
+          ],
+          "mode": "shared",
+          "reason": "edition_details_not_robust_at_current_descriptor",
+          "evidence": {
+            "auditDate": "2026-08-28",
+            "source": "TCGate checkpoint 3C offline matcher audit",
+            "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+          },
+          "references": [
+            {
+              "printingId": "cpp-20c1452ddaa3834e",
+              "referenceImageUrl": "assets/vision/cpp-20c1452ddaa3834e.webp",
+              "visionAssetPath": "assets/vision/cpp-20c1452ddaa3834e.webp",
+              "assetStatus": "stable_local_assets"
+            },
+            {
+              "printingId": "cpp-813677d03d08fa9b",
+              "referenceImageUrl": "assets/vision/cpp-813677d03d08fa9b.webp",
+              "visionAssetPath": "assets/vision/cpp-813677d03d08fa9b.webp",
               "assetStatus": "stable_local_assets"
             }
           ]
@@ -5980,15 +6027,17 @@
       "cardId": "cp-the-relic-experimental-biochip",
       "recognitionGroups": [
         {
-          "recognitionGroupId": "cprg-3d853b7a921234d4",
+          "recognitionGroupId": "cprg-163fe7fb2e83b390",
           "recognitionProfileId": "cyberpunk-v5-fast-72x108",
           "cardId": "cp-the-relic-experimental-biochip",
           "printingIds": [
             "cpp-2017c7a126decd71",
+            "cpp-57008043dc3127cf",
             "cpp-b0829ed52b2b5105"
           ],
           "candidatePrintingIds": [
             "cpp-2017c7a126decd71",
+            "cpp-57008043dc3127cf",
             "cpp-b0829ed52b2b5105"
           ],
           "mode": "shared",
@@ -6003,6 +6052,12 @@
               "printingId": "cpp-2017c7a126decd71",
               "referenceImageUrl": "assets/vision/cpp-2017c7a126decd71.webp",
               "visionAssetPath": "assets/vision/cpp-2017c7a126decd71.webp",
+              "assetStatus": "stable_local_assets"
+            },
+            {
+              "printingId": "cpp-57008043dc3127cf",
+              "referenceImageUrl": "assets/vision/cpp-57008043dc3127cf.webp",
+              "visionAssetPath": "assets/vision/cpp-57008043dc3127cf.webp",
               "assetStatus": "stable_local_assets"
             },
             {
@@ -6126,6 +6181,45 @@
               "printingId": "cpp-ba93bbe4c9d589d5",
               "referenceImageUrl": "assets/vision/cpp-ba93bbe4c9d589d5.webp",
               "visionAssetPath": "assets/vision/cpp-ba93bbe4c9d589d5.webp",
+              "assetStatus": "stable_local_assets"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cardId": "cp-tyger-s-whisper",
+      "recognitionGroups": [
+        {
+          "recognitionGroupId": "cprg-6358edb827a5321e",
+          "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+          "cardId": "cp-tyger-s-whisper",
+          "printingIds": [
+            "cpp-273cb71078dd90d0",
+            "cpp-62923557acb17f6a"
+          ],
+          "candidatePrintingIds": [
+            "cpp-273cb71078dd90d0",
+            "cpp-62923557acb17f6a"
+          ],
+          "mode": "shared",
+          "reason": "edition_details_not_robust_at_current_descriptor",
+          "evidence": {
+            "auditDate": "2026-08-28",
+            "source": "TCGate checkpoint 3C offline matcher audit",
+            "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+          },
+          "references": [
+            {
+              "printingId": "cpp-273cb71078dd90d0",
+              "referenceImageUrl": "assets/vision/cpp-273cb71078dd90d0.webp",
+              "visionAssetPath": "assets/vision/cpp-273cb71078dd90d0.webp",
+              "assetStatus": "stable_local_assets"
+            },
+            {
+              "printingId": "cpp-62923557acb17f6a",
+              "referenceImageUrl": "assets/vision/cpp-62923557acb17f6a.webp",
+              "visionAssetPath": "assets/vision/cpp-62923557acb17f6a.webp",
               "assetStatus": "stable_local_assets"
             }
           ]
@@ -6588,6 +6682,45 @@
               "printingId": "cpp-e630fb858f7b542c",
               "referenceImageUrl": "assets/vision/cpp-e630fb858f7b542c.webp",
               "visionAssetPath": "assets/vision/cpp-e630fb858f7b542c.webp",
+              "assetStatus": "stable_local_assets"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cardId": "cp-we-gotta-live-together",
+      "recognitionGroups": [
+        {
+          "recognitionGroupId": "cprg-56c8fcf22986096a",
+          "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+          "cardId": "cp-we-gotta-live-together",
+          "printingIds": [
+            "cpp-410f639e1653cd04",
+            "cpp-6c55bafd0797ed78"
+          ],
+          "candidatePrintingIds": [
+            "cpp-410f639e1653cd04",
+            "cpp-6c55bafd0797ed78"
+          ],
+          "mode": "shared",
+          "reason": "edition_details_not_robust_at_current_descriptor",
+          "evidence": {
+            "auditDate": "2026-08-28",
+            "source": "TCGate checkpoint 3C offline matcher audit",
+            "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+          },
+          "references": [
+            {
+              "printingId": "cpp-410f639e1653cd04",
+              "referenceImageUrl": "assets/vision/cpp-410f639e1653cd04.webp",
+              "visionAssetPath": "assets/vision/cpp-410f639e1653cd04.webp",
+              "assetStatus": "stable_local_assets"
+            },
+            {
+              "printingId": "cpp-6c55bafd0797ed78",
+              "referenceImageUrl": "assets/vision/cpp-6c55bafd0797ed78.webp",
+              "visionAssetPath": "assets/vision/cpp-6c55bafd0797ed78.webp",
               "assetStatus": "stable_local_assets"
             }
           ]

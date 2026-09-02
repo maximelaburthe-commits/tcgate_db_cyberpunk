@@ -12,8 +12,12 @@ visuals = json.loads((root / "data/visual-identities.json").read_text(encoding="
 profiles = json.loads((root / "data/recognition-profiles.json").read_text(encoding="utf-8"))["recognitionProfiles"]
 groups = json.loads((root / "data/recognition-groups.json").read_text(encoding="utf-8"))["recognitionGroups"]
 print(f"Cyberpunk TCG DB snapshot: {snapshot}")
+print(f"Official catalogue entries: {meta.get('officialCatalogEntries', len(cards))}")
 print(f"Canonical cards: {len(cards)}/{meta['expectedCanonicalCards']}")
 print(f"Official printings: {len(printings)}/{meta['expectedOfficialPrintings']}")
+print(f"Standard printings: {sum(p['variantKind'] == 'standard' for p in printings)}")
+print(f"Iconic printings: {sum(p['variantKind'] == 'iconic' for p in printings)}")
+print(f"Other variants: {sum(p['variantKind'] not in {'standard', 'iconic'} for p in printings)}")
 print(f"Visual identities: {len(visuals)}")
 print(f"Recognition profiles: {len(profiles)}")
 print(f"Recognition groups: {len(groups)} ({sum(g['mode'] == 'exact' for g in groups)} exact, {sum(g['mode'] == 'shared' for g in groups)} shared)")

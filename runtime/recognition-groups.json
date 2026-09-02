@@ -1200,16 +1200,18 @@
       }
     },
     {
-      "recognitionGroupId": "cprg-0200d445f7f86f0e",
+      "recognitionGroupId": "cprg-bbf95d28358c8749",
       "recognitionProfileId": "cyberpunk-v5-fast-72x108",
       "cardId": "cp-johnny-silverhand-never-stop-fighting",
       "printingIds": [
         "cpp-95a676b10cec7bf3",
-        "cpp-ad4c12d992ca2eb8"
+        "cpp-ad4c12d992ca2eb8",
+        "cpp-e1fcd821f2132bee"
       ],
       "candidatePrintingIds": [
         "cpp-95a676b10cec7bf3",
-        "cpp-ad4c12d992ca2eb8"
+        "cpp-ad4c12d992ca2eb8",
+        "cpp-e1fcd821f2132bee"
       ],
       "mode": "shared",
       "reason": "edition_details_not_robust_at_current_descriptor",
@@ -1624,6 +1626,26 @@
       "candidatePrintingIds": [
         "cpp-48af99413ee2b9de",
         "cpp-eb65600a3e6706c1"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-5cf7764aebee480b",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-memory-relapse",
+      "printingIds": [
+        "cpp-20c1452ddaa3834e",
+        "cpp-813677d03d08fa9b"
+      ],
+      "candidatePrintingIds": [
+        "cpp-20c1452ddaa3834e",
+        "cpp-813677d03d08fa9b"
       ],
       "mode": "shared",
       "reason": "edition_details_not_robust_at_current_descriptor",
@@ -2810,15 +2832,17 @@
       }
     },
     {
-      "recognitionGroupId": "cprg-3d853b7a921234d4",
+      "recognitionGroupId": "cprg-163fe7fb2e83b390",
       "recognitionProfileId": "cyberpunk-v5-fast-72x108",
       "cardId": "cp-the-relic-experimental-biochip",
       "printingIds": [
         "cpp-2017c7a126decd71",
+        "cpp-57008043dc3127cf",
         "cpp-b0829ed52b2b5105"
       ],
       "candidatePrintingIds": [
         "cpp-2017c7a126decd71",
+        "cpp-57008043dc3127cf",
         "cpp-b0829ed52b2b5105"
       ],
       "mode": "shared",
@@ -2880,6 +2904,26 @@
       "candidatePrintingIds": [
         "cpp-a9a171c7e38178ec",
         "cpp-ba93bbe4c9d589d5"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-6358edb827a5321e",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-tyger-s-whisper",
+      "printingIds": [
+        "cpp-273cb71078dd90d0",
+        "cpp-62923557acb17f6a"
+      ],
+      "candidatePrintingIds": [
+        "cpp-273cb71078dd90d0",
+        "cpp-62923557acb17f6a"
       ],
       "mode": "shared",
       "reason": "edition_details_not_robust_at_current_descriptor",
@@ -3098,6 +3142,26 @@
       "candidatePrintingIds": [
         "cpp-aa00bc6d3d741dc6",
         "cpp-e630fb858f7b542c"
+      ],
+      "mode": "shared",
+      "reason": "edition_details_not_robust_at_current_descriptor",
+      "evidence": {
+        "auditDate": "2026-08-28",
+        "source": "TCGate checkpoint 3C offline matcher audit",
+        "policy": "fragile/shared remain shared; distinct artwork stays conservative until per-printing evidence is versioned"
+      }
+    },
+    {
+      "recognitionGroupId": "cprg-56c8fcf22986096a",
+      "recognitionProfileId": "cyberpunk-v5-fast-72x108",
+      "cardId": "cp-we-gotta-live-together",
+      "printingIds": [
+        "cpp-410f639e1653cd04",
+        "cpp-6c55bafd0797ed78"
+      ],
+      "candidatePrintingIds": [
+        "cpp-410f639e1653cd04",
+        "cpp-6c55bafd0797ed78"
       ],
       "mode": "shared",
       "reason": "edition_details_not_robust_at_current_descriptor",

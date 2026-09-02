@@ -1,7 +1,8 @@
 # TCGate — Cyberpunk TCG Database
 
-Independent Cyberpunk TCG data package. The active official snapshot is
-`2026-08-28`: **147 canonical cards** and **436 official printings**.
+Independent Cyberpunk TCG data package. Catalogue entries, canonical gameplay
+cards, and visual printings are counted independently; a gallery total is never
+used as a hard-coded canonical expectation.
 
 ## Identity model
 
@@ -18,7 +19,7 @@ Independent Cyberpunk TCG data package. The active official snapshot is
 Official source images are provenance (`sourceImageUrl`). Runtime consumers use
 relative `displayAssetPath` and `visionAssetPath` values, resolved against the
 database package base URL. No printing embeds a GitHub/CDN distribution URL.
-The current snapshot contains 436 stable display assets and 436 stable Vision
+The current snapshot contains 444 stable display assets and 444 stable Vision
 derivatives.
 
 ## Data and runtime
@@ -36,7 +37,7 @@ Canonical data lives in `data/`. Generated consumer files live in `runtime/`:
 Goro Hands Unclean S002 is retained as a documented legacy alias of official
 printing `cpp-509f743f75700687`; it does not create a 437th printing. Lucyna
 PRM-N001 remains `historical_out_of_snapshot` in
-`data/unresolved-printings.json` and is excluded from the 147/436 snapshot.
+`data/unresolved-printings.json` and is excluded from the active official snapshot.
 
 ## Asset direction
 
@@ -78,15 +79,22 @@ python scripts/validate_db.py
 python scripts/report_status.py
 ```
 
-To create a deliberately new official snapshot:
+Synchronization is staging-only and derives live counts from the official
+sitemap and card pages:
 
 ```bash
-python scripts/import_official_snapshot.py \
-  --snapshot-date YYYY-MM-DD \
-  --expected-cards N \
-  --expected-printings M
+python source/sync.py
+python scripts/promote_staging.py --check-only
 ```
 
-The expected counts belong to the dated snapshot metadata, not to permanent
-application constants. Importing a future catalogue is an explicit operation;
-CI validates and rebuilds but never commits or pushes automatically.
+Promotion is a separate, explicit operation:
+
+```bash
+python scripts/promote_staging.py
+python scripts/ingest_assets.py
+python scripts/build_runtime.py
+python scripts/validate_db.py
+```
+
+Expected counts belong only to the dated snapshot metadata. Official data has
+priority over the secondary Punksim discovery feed and historical local data.

@@ -35,7 +35,7 @@ PROFILE = {
     "webpExact": True,
     "pillowVersion": Image.__version__,
 }
-UA = {"User-Agent": "TCGateCyberpunkDB/0.7 asset maintenance"}
+UA = {"User-Agent": "TCGateCyberpunkDB/1.0 asset maintenance"}
 SIGNED_KEYS = ("Signature=", "Policy=", "Key-Pair-Id=", "X-Amz-Signature=")
 
 
@@ -123,8 +123,8 @@ def main() -> None:
             for entry in json.loads(existing_metadata_path.read_text(encoding="utf-8")).get("assets", [])
         }
 
-    if len(printings) != 436 or len(by_official) != 436:
-        raise SystemExit("Asset ingestion requires exactly 436 unique official printings")
+    if len(by_official) != len(printings):
+        raise SystemExit("Asset ingestion requires unique official printing IDs")
 
     display_dir = ROOT / "assets/display"
     vision_dir = ROOT / "assets/vision"
@@ -141,15 +141,26 @@ def main() -> None:
                 failures.append(printing["printingId"])
         if failures:
             raise SystemExit(f"VISION_ASSET_CHANGED: {failures[:10]} ({len(failures)} total)")
-        print(json.dumps({"offlineVisionReproducible": 436, "profile": PROFILE}, indent=2))
+        print(json.dumps({"offlineVisionReproducible": len(printings), "profile": PROFILE}, indent=2))
         return
 
-    page_urls = sorted({card["sourceUrl"] for card in catalog})
+    pending = []
+    reusable = {}
+    for printing in printings:
+        prior = existing_entries.get(printing["printingId"])
+        if (prior and (ROOT / prior["display"]["path"]).is_file()
+                and (ROOT / prior["vision"]["path"]).is_file()
+                and not args.verify_existing and not args.replace_existing and not args.replace_vision):
+            reusable[printing["printingId"]] = prior
+        else:
+            pending.append(printing)
+    pending_official = {printing["officialPrintingId"] for printing in pending}
+    page_urls = sorted({card["sourceUrl"] for card in catalog if any(p["officialPrintingId"] in pending_official for p in card["printings"])})
     current_signed = {}
     with futures.ThreadPoolExecutor(max_workers=4) as executor:
         for result in executor.map(signed_urls, page_urls):
             current_signed.update(result)
-    missing_signed = sorted(set(by_official) - set(current_signed))
+    missing_signed = sorted(pending_official - set(current_signed))
     if missing_signed:
         raise SystemExit(f"Missing signed URLs for {len(missing_signed)} printings: {missing_signed[:10]}")
 
@@ -168,12 +179,18 @@ def main() -> None:
 
     results = []
     with futures.ThreadPoolExecutor(max_workers=6) as executor:
-        for index, downloaded in enumerate(executor.map(download, printings), 1):
+        for index, downloaded in enumerate(executor.map(download, pending), 1):
             results.append(downloaded)
             if index % 50 == 0:
-                print(f"downloaded {index}/436", flush=True)
+                print(f"downloaded {index}/{len(pending)}", flush=True)
 
     metadata = []
+    for printing in printings:
+        prior = reusable.get(printing["printingId"])
+        if prior:
+            prior = {**prior, "officialPrintingId": printing["officialPrintingId"], "cardId": printing["cardId"]}
+            prior["provenance"] = {**prior["provenance"], "snapshot": snapshot}
+            metadata.append(prior)
     anomalies = []
     for printing, display, response_mime, (source_card, source_printing) in results:
         printing_id = printing["printingId"]
@@ -242,6 +259,21 @@ def main() -> None:
             json.dumps({"assetProfileVersion": "1.0.0", "assets": metadata}, ensure_ascii=False, indent=2) + "\n",
             encoding="utf-8",
         )
+        metadata_by_printing = {entry["printingId"]: entry for entry in metadata}
+        for printing in printings:
+            asset = metadata_by_printing[printing["printingId"]]
+            printing["image"].update({
+                "displayAssetPath": asset["display"]["path"], "visionAssetPath": asset["vision"]["path"],
+                "displaySha256": asset["display"]["sha256"], "visionSha256": asset["vision"]["sha256"],
+                "displayWidth": asset["display"]["width"], "displayHeight": asset["display"]["height"],
+                "visionWidth": asset["vision"]["width"], "visionHeight": asset["vision"]["height"],
+                "status": "stable_local_assets",
+            })
+            printing["recognition"].update({
+                "enabled": True, "visualIdentityId": "cpvi-" + printing["printingId"][4:],
+                "referenceImageUrl": asset["vision"]["path"], "status": "reference_available",
+            })
+        (ROOT / "data/printings.json").write_text(json.dumps({"printings": printings}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(json.dumps({
         "displayAssets": len(metadata),
         "visionAssets": len(metadata),

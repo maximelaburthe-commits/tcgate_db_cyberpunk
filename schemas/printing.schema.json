@@ -12,7 +12,7 @@
     "setId": {"type": "string", "minLength": 1},
     "number": {"type": "string", "minLength": 1},
     "catalogNumber": {"type": "string", "minLength": 1},
-    "variantKind": {"enum": ["standard", "alternate_art", "promo_art", "extended_art", "borderless", "foil_variant", "serialized", "legacy_unresolved", "unknown"]},
+    "variantKind": {"enum": ["standard", "iconic", "alternate_art", "promo_art", "extended_art", "borderless", "foil_variant", "serialized", "legacy_unresolved", "unknown"]},
     "rarity": {"type": ["string", "null"]},
     "finish": {"type": ["string", "null"]},
     "artist": {"type": ["string", "null"]},
